@@ -1,0 +1,993 @@
+##################################################################################
+# Whitelist items are matched against any hostname or domain name in the format:
+# 0.0.0.0 domain.com
+##################################################################################
+#randoms
+ tucows.com
+ stileproject.com
+# from https://www.reddit.com/r/raspberry_pi/comments/5j1trl/i_love_how_effective_pihole_is_i_barely_woke_up/dbdkalg/
+ info.seek.com
+ gumtree.com.au
+ bit.ly
+ j.mp
+ t.co
+ goo.gl
+ opensubtitles.org
+ www.opensubtitles.org
+ netflix.com
+ ea.com
+ proxy.novafusion.ea.com
+ s3.amazonaws.com
+ ipchicken.com
+ open.spotify.com
+ puu.sh
+ dl.dropbox.com
+ tomshardware.com
+ pushover.net
+ alluremedia.com.au
+ kickstarter.com
+ www.kickstarter.com
+ static.kickstarter.com
+ clients2.google.com
+ clients3.google.com
+ clients4.google.com
+ clients5.google.com
+# Other
+ aliexpress.com
+ answers.microsoft.com
+ marktplaats.nl
+ www.marktplaats.nl
+ storage.googleapis.com
+ wordpress.com
+#for reddit
+ embed.ly
+ embedly.com
+ cdn.embedly.com
+ cdn.embed.ly
+# spotify ios app
+ spclient.wg.spotify.com
+# domains that should never be blocked (might cause serious networking issues)
+ raw.githubusercontent.com
+ github.com
+# Various entreis preventing breaking of functional behaviour
+ qq.com
+ dlglobal.qq.com
+ com-verification.id
+ steamcommunity.com
+ support.microsoft.com
+ yui.yahooapis.com
+ i0.wp.com
+ www.cheatengine.org
+ cheatengine.org
+ cookiesv2.publiekeomroep.nl
+ fok.nl
+ www.fok.nl
+ frontpage.fok.nl
+ g2play.com
+ pay.g2play.com
+ g2a.com
+ codeproject.com
+ fhm.com
+ www.fhm.com
+ putlocker.is
+ home.wanadoo.nl
+ bjbgc.com
+# taken from msteves black closed tickets
+ s.gateway.messenger.live.com
+# For windows internet connection detection
+ www.msftncsi.com
+ msftncsi.com
+# Google (these domains are not used for tracking)
+ analytics.google.com
+# kat.cr
+ a.kickass.to
+ kastatic.com
+# Skype professional
+ secure.skypeassets.com
+#redtube
+ phncdn.com
+ ss.phncdn.com
+#youtube
+ www.youtube-nocookie.com
+ youtube-nocookie.com
+# breaks taobao.com
+ g.alicdn.com
+# for windows apps to be able to download from store
+ dl.delivery.mp.microsoft.com
+ geo-prod.do.dsp.mp.microsoft.com
+# Serials
+www.serials.ws
+ serials.ws
+# does not seem to be such an evil company
+.gravatar.com
+ gravatar.com
+# Windows update Whitelists based on data from https://github.com/crazy-max/WindowsSpyBlocker
+# Windows 7 update servers
+ au.download.windowsupdate.com
+ ctldl.windowsupdate.com
+ download.microsoft.com
+ download.windowsupdate.com
+ ds.download.windowsupdate.com
+ fe2.update.microsoft.com
+ fg.ds.b1.download.windowsupdate.com
+ microsoftwindowsupdate.net
+ windowsupdate.com
+ windowupdate.org
+ www.download.windowsupdate.com
+# Windows 8.1 update servers
+ au.download.windowsupdate.com
+ au.v4.download.windowsupdate.com
+ bg.v4.a.dl.ws.microsoft.com
+ bg.v4.emdl.ws.microsoft.com
+ bg1.v4.a.dl.ws.microsoft.com
+ bg1.v4.emdl.ws.microsoft.com
+ bg2.v4.a.dl.ws.microsoft.com
+ bg2.v4.emdl.ws.microsoft.com
+ bg5.v4.a.dl.ws.microsoft.com
+ bg5.v4.emdl.ws.microsoft.com
+ ctldl.windowsupdate.com
+ download.windowsupdate.com
+ fe2.update.microsoft.com
+ fe2.wq.microsoft.com
+ fe2.ws.microsoft.com
+ fg.v4.download.windowsupdate.com
+ microsoftwindowsupdate.net
+ sls.update.microsoft.com
+ v4.download.windowsupdate.com
+ windowsupdate.com
+ windowupdate.org
+# Windows 10 update servers
+ au.download.windowsupdate.com
+ au.v4.download.windowsupdate.com
+ ctldl.windowsupdate.com
+ displaycatalog.mp.microsoft.com
+ dl.delivery.mp.microsoft.com
+ download.windowsupdate.com
+ emdl.ws.microsoft.com
+ fe2.update.microsoft.com
+ fe2.update.microsoft.com.akadns.net
+ fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+ fe3.delivery.mp.microsoft.com
+ fg.v4.download.windowsupdate.com
+ microsoftwindowsupdate.net
+ sls.update.microsoft.com
+ sls.update.microsoft.com.akadns.net
+ statsfe2.update.microsoft.com.akadns.net
+# statsfe1.ws.microsoft.com
+# statsfe2.ws.microsoft.com
+ tlu.dl.delivery.mp.microsoft.com
+ v4.download.windowsupdate.com
+ windowsupdate.com
+ windowupdate.org
+# For xbox achievements
+# See https://www.reddit.com/r/xboxone/comments/5l7bm1/tech_piholeother_dns_users_additional_whitelist/
+# and https://www.reddit.com/r/xboxone/comments/5khrrl/achievements_not_unlocking/
+ v10.vortex-win.data.microsoft.com
+ xbox.ipv6.microsoft.com
+ device.auth.xboxlive.com
+ title.mgt.xboxlive.com
+ xsts.auth.xboxlive.com
+ title.auth.xboxlive.com
+ ctldl.windowsupdate.com
+ attestation.xboxlive.com
+ xboxexperiencesprod.experimentation.xboxlive.com
+ xflight.xboxlive.com
+ cert.mgt.xboxlive.com
+ xkms.xbolive.com
+ def-vef.xboxlive.com
+ notify.xboxlive.com
+ help.ui.xboxlive.com
+ licensing.xboxlive.com
+ eds.xboxlive.com
+ www.xboxlive.com
+
+# emptyloop hosts-file.net fake
+ unlocker.emptyloop.com
+ emptyloop.com
+ www.emptyloop.com
+
+#skype
+ s.gateway.messenger.live.com
+ ui.skype.com
+ pricelist.skype.com
+ apps.skype.com
+ m.hotmail.com
+ s.gateway.messenger.live.com
+ sa.symcb.com
+ s1.symcb.com
+ s2.symcb.com
+ s3.symcb.com
+ s4.symcb.com
+ s5.symcb.com
+#Office
+ officeclient.microsoft.com
+#plex
+ my.plexapp.com
+ plex.r.worldssl.net
+#from https://github.com/nlopez/adblock_hosts/blob/master/adblock_hosts/adblock_hosts.py
+ sysctl.org
+ raw.githubusercontent.com
+ hosts-file.net
+ www.hosts-file.net
+#source unknown
+ www.msn.com
+#submitted bugs on github
+ api.solvemedia.com
+ sinaimg.cn
+# https://wally3k.github.io/ (Whitelist suggestions part)
+ google.com
+ webcache.googleusercontent.com
+ chrome.google.com
+ dropbox.com
+ dl.dropboxusercontent.com 
+ msftncsi.com
+ www.msftncsi.com
+ dns.msftncsi.com
+ netflix.com
+ cdn.embedly.com
+ ax.phobos.apple.com.edgesuite.net
+ www.kickstarter.com
+ static.kickstarter.com
+ gitter.im
+ ea.com
+ proxy.novafusion.ea.com
+ gravatar.com
+ tomshardware.com
+ alluremedia.com.au
+ www.theguardian.com
+ surveymonkey.com
+ secure.surveymonkey.com
+# https://github.com/notracking/hosts-blocklists/issues/12
+ bing.net
+ virtualearth.net
+ here.com
+ gearbest.com
+ jwpcdn.com
+ jwpltx.com
+ h-cdn.com
+ symcd.com
+ performgroup.com
+ unk.vver.kiae.rr
+ ssl-nl.persgroep.edgekey.neto
+ accounts.pkr.com.invalid
+# whitelist from (approved only): http://www.dshield.org/feeds/suspiciousdomains_whitelist_approved.txt
+ ce5.at
+ demon-networks.com
+ dl.360safe.com
+ eliteoz.com.au
+ guiltfreefoodguide.com
+ labarchitects.com
+ mdidesign.ca
+ syandus.com
+ vlab.pp.ru
+ www.rcollard.com
+# https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues/1
+ gesangsunterricht-hh.de
+ mail.ru
+ suche.t-online.de
+# https://github.com/notracking/hosts-blocklists/issues/13
+ alicdn.com
+# https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues/4#issuecomment-296443944
+ liveinternet.ru
+ www.liveinternet.ru
+# used for microsoft windows help sizzles
+ custhelp.com
+# popular help forum, should be safe
+ sevenforums.com
+ www.sevenforums.com
+# scorito.com 
+ rackcdn.com
+# buggy entriesÂhttps://github.com/notracking/hosts-blocklists/issues/16
+ pmenboeqhyrpvomq.
+ olark.com
+# false call https://github.com/notracking/hosts-blocklists/issues/19
+ lithium.com
+# false call https://github.com/notracking/hosts-blocklists/issues/20
+ jdownloader.org
+ www.jdownloader.org
+# was acidentally added to some blkaclists before, see: https://github.com/notracking/hosts-blocklists/issues/21#issuecomment-323532264
+ pastebin.com
+ www.pastebin.com
+# https://github.com/notracking/hosts-blocklists/issues/22
+ tenforums.com 
+ www.tenforums.com
+ eightforums.com
+ emptyloop.com 
+ jwplatform.com 
+ ooyala.com
+# https://github.com/notracking/hosts-blocklists/issues/23
+ keystone.mwbsys.com
+# https://github.com/notracking/hosts-blocklists/issues/24
+ cedexis.net
+# https://github.com/notracking/hosts-blocklists/issues/25
+ ajax.cloudflare.com
+# https://www.reddit.com/r/pihole/comments/74it6h/help_identifying_embedded_video_url_being_blocked/
+ d2c8v52ll5s99u.cloudfront.net
+# https://wally3k.github.io/ (bottom of the page)
+ rover.ebay.com
+ s3.amazonaws.com
+ clients2.google.com
+ clients3.google.com
+ clients4.google.com
+ clients5.google.com
+ www.bit.ly
+ bit.ly
+ ow.ly
+ j.mp
+ goo.gl
+ msftncsi.com
+ www.msftncsi.com
+ ea.com
+# cdn.optimizely.com
+ res.cloudinary.com
+ gravatar.com
+ rover.ebay.com
+ imgs.xkcd.com
+ netflix.com
+ alluremedia.com.au
+ tomshardware.com
+# s.shopify.com
+ keystone.mwbsys.com
+ dl.dropbox.com
+ api.ipify.org
+# most commonly whitelisted hostnames PiHole
+ via.placeholder.com
+ placeholder.com
+ placeholdit.imgix.net
+ placehold.it
+# s.marketwatch.com
+ itunes.apple.com
+ imagesak.secureserver.net
+ appleid.apple.com
+# https://github.com/AdguardTeam/AdguardDNS/issues/63 
+ googleadapis.l.google.com
+ alexa.com
+
+# https://moz.com/top500
+# removed ad servers, use test_whitelist.sh before submitting!
+ facebook.com
+ twitter.com
+ google.com
+ youtube.com
+ linkedin.com
+ wordpress.org
+ instagram.com
+ pinterest.com
+ wikipedia.org
+ wordpress.com
+ blogspot.com
+ apple.com
+ adobe.com
+ tumblr.com
+ youtu.be
+ amazon.com
+ vimeo.com
+ goo.gl
+ microsoft.com
+ yahoo.com
+ flickr.com
+ qq.com
+ bit.ly
+ godaddy.com
+ buydomains.com
+ vk.com
+ baidu.com
+ reddit.com
+ w3.org
+ nytimes.com
+ t.co
+ europa.eu
+ weebly.com
+ gov.uk
+ bbc.co.uk
+ mozilla.org
+ myspace.com
+ yandex.ru
+ google.de
+ blogger.com
+ soundcloud.com
+ 123-reg.co.uk
+ github.com
+ miitbeian.gov.cn
+ wp.com
+ jimdo.com
+ theguardian.com
+ google.co.jp
+ wix.com
+ cnn.com
+ paypal.com
+ nih.gov
+ bluehost.com
+ creativecommons.org
+ wixsite.com
+ whoisprivacyprotect.com
+ digg.com
+ stumbleupon.com
+ huffingtonpost.com
+ issuu.com
+ gravatar.com
+ imdb.com
+ ascii.co.uk
+ feedburner.com
+ yelp.com
+ parallels.com
+ google.co.uk
+ dropbox.com
+ amazonaws.com
+ forbes.com
+ tinyurl.com
+ miibeian.gov.cn
+ msn.com
+ go.com
+ wsj.com
+ e-recht24.de
+ slideshare.net
+ washingtonpost.com
+ etsy.com
+ weibo.com
+ archive.org
+ ameblo.jp
+ bing.com
+ eventbrite.com
+ fc2.com
+ ebay.com
+ free.fr
+ telegraph.co.uk
+ sourceforge.net
+ taobao.com
+ amazon.co.uk
+ livejournal.com
+ mail.ru
+ about.com
+ reuters.com
+ yahoo.co.jp
+ typepad.com
+ dailymail.co.uk
+ cpanel.net
+ bloomberg.com
+ aol.com
+ macromedia.com
+ amazon.de
+ usatoday.com
+ wikimedia.org
+ cpanel.com
+ sina.com.cn
+ time.com
+ eepurl.com
+ cdc.gov
+ amzn.to
+ constantcontact.com
+ xing.com
+ opera.com
+ live.com
+ harvard.edu
+ google.it
+ npr.org
+ dailymotion.com
+ bbb.org
+ latimes.com
+ tripadvisor.com
+ hatena.ne.jp
+ blogspot.co.uk
+ icio.us
+ elegantthemes.com
+ tube8.com
+ apache.org
+ domainactive.co
+ bandcamp.com
+ amazon.co.jp
+ list-manage.com
+ mit.edu
+ google.es
+ gnu.org
+ google.fr
+ guardian.co.uk
+ surveymonkey.com
+ beian.gov.cn
+ behance.net
+ joomla.org
+ businessinsider.com
+ medium.com
+ stanford.edu
+ bbc.com
+ rambler.ru
+ nasa.gov
+ kickstarter.com
+ geocities.com
+ wired.com
+ delicious.com
+ ted.com
+ googleusercontent.com
+ google.ca
+ tripod.com
+ independent.co.uk
+ cnet.com
+ disqus.com
+ imgur.com
+ github.io
+ photobucket.com
+ scribd.com
+ namejet.com
+ goodreads.com
+ homestead.com
+ deviantart.com
+ 163.com
+ vkontakte.ru
+ rakuten.co.jp
+ spotify.com
+ ca.gov
+ 1und1.de
+ secureserver.net
+ themeforest.net
+ barnesandnoble.com
+ nationalgeographic.com
+ who.int
+ wiley.com
+ pbs.org
+ un.org
+ plesk.com
+ buzzfeed.com
+ jiathis.com
+ cbsnews.com
+ 4.cn
+ one.com
+ nbcnews.com
+ foxnews.com
+ sakura.ne.jp
+ berkeley.edu
+ ibm.com
+ blogspot.com.es
+ theatlantic.com
+ hostnet.nl
+ mashable.com
+ trustpilot.com
+ sohu.com
+ nature.com
+ networksolutions.com
+ php.net
+ line.me
+ whitehouse.gov
+ techcrunch.com
+ usda.gov
+ cornell.edu
+ sciencedirect.com
+ mapquest.com
+ squarespace.com
+ domainname.de
+ epa.gov
+ noaa.gov
+ blogspot.de
+ change.org
+ blogspot.ca
+ skype.com
+ ow.ly
+ cbc.ca
+ directdomains.com
+ wp.me
+ nps.gov
+ meetup.com
+ springer.com
+ ft.com
+ booking.com
+ phoca.cz
+ cloudfront.net
+ wikia.com
+ usnews.com
+ google.nl
+ loc.gov
+ foursquare.com
+ wufoo.com
+ fda.gov
+ economist.com
+ sfgate.com
+ cbslocal.com
+ myshopify.com
+ blogspot.fr
+ bizjournals.com
+ google.com.br
+ uol.com.br
+ nhs.uk
+ spiegel.de
+ irs.gov
+ cnbc.com
+ xinhuanet.com
+ list-manage1.com
+ phpbb.com
+ naver.com
+ abc.net.au
+ chicagotribune.com
+ gizmodo.com
+ mijndomein.nl
+ hp.com
+ enable-javascript.com
+ google.com.au
+ geocities.jp
+ prnewswire.com
+ bestfwdservice.com
+ www.bestfwdservice.com
+ bigcartel.com
+ engadget.com
+ marriott.com
+ slate.com
+ loopia.se
+ about.me
+ newyorker.com
+ loopia.com
+ visma.com
+ nifty.com
+ umblr.com
+ nydailynews.com
+ ed.gov
+ weather.com
+ state.gov
+ livedoor.jp
+ umich.edu
+ storify.com
+ acquirethisname.com
+ sogou.com
+ fortune.com
+ dribbble.com
+ shopify.com
+ youku.com
+ house.gov
+ vice.com
+ ocn.ne.jp
+ unesco.org
+ indiegogo.com
+ 1and1.fr
+ hilton.com
+ yale.edu
+ fb.com
+ wunderground.com
+ 1and1.com
+ aboutcookies.org
+ houzz.com
+ google.pl
+ sedo.com
+ doi.org
+ columbia.edu
+ oup.com
+ indiatimes.com
+ mayoclinic.org
+ businessweek.com
+ biglobe.ne.jp
+ marketwatch.com
+ rs6.net
+ home.pl
+ ustream.tv
+ globo.com
+ fb.me
+ sciencedaily.com
+ washington.edu
+ samsung.com
+ upenn.edu
+ academia.edu
+ examiner.com
+ 1688.com
+ debian.org
+ espn.com
+ android.com
+ smh.com.au
+ goo.ne.jp
+ wikihow.com
+ blogspot.in
+ oracle.com
+ allaboutcookies.org
+ gofundme.com
+ senate.gov
+ alibaba.com
+ theverge.com
+ boston.com
+ telegram.me
+ youronlinechoices.com
+ psychologytoday.com
+ ftc.gov
+ archives.gov
+ zdnet.com
+ fbcdn.net
+ scientificamerican.com
+ mailchimp.com
+ static.mailchimp.com
+ www.mailchimp.com
+ theglobeandmail.com
+ nypost.com
+ ucla.edu
+ elpais.com
+ ok.ru
+ thetimes.co.uk
+ feedly.com
+ cdbaby.com
+ wisc.edu
+ themegrill.com
+ umn.edu
+ fastcompany.com
+ sagepub.com
+ utexas.edu
+ psu.edu
+ mozilla.com
+ businesswire.com
+ studiopress.com
+ walmart.com
+ hibu.com
+ google.co.in
+ ox.ac.uk
+ drupal.org
+ dreamhost.com
+ entrepreneur.com
+ exblog.jp
+ alexa.com
+ icann.org
+ domraider.io
+ campaign-archive1.com
+ census.gov
+ tripadvisor.co.uk
+ hbr.org
+ si.edu
+ inc.com
+ campaign-archive2.com
+ sciencemag.org
+ mirror.co.uk
+ dropcatch.com
+ worldbank.org
+ newsweek.com
+ nazwa.pl
+ usgs.gov
+ intel.com
+ mysql.com
+ target.com
+ hostgator.com
+ seesaa.net
+ axs.com
+ nymag.com
+ researchgate.net
+ rollingstone.com
+ jugem.jp
+ office.com
+ princeton.edu
+ example.com
+ ebay.co.uk
+ tandfonline.com
+ stackoverflow.com
+ cisco.com
+ smugmug.com
+ 360.cn
+ hhs.gov
+ lemonde.fr
+ nyu.edu
+ ap.org
+ amazon.fr
+ thedailybeast.com
+ www.thedailybeast.com
+ cam.ac.uk
+ detik.com
+ arstechnica.com
+ dell.com
+ box.com
+ namebright.com
+ dropboxusercontent.com
+ politico.com
+ accuweather.com
+ t-online.de
+ mlb.com
+ lifehacker.com
+ oxfordjournals.org
+ list-manage2.com
+ zendesk.com
+ hollywoodreporter.com
+ cryoutcreations.eu
+ istockphoto.com
+ fotolia.com
+ teamviewer.com
+ va.gov
+ cmu.edu
+ bls.gov
+ uchicago.edu
+ admin.ch
+ google.ru
+ athemes.com
+ domainnameshop.com
+ nhk.or.jp
+ aliyun.com
+ shop-pro.jp
+ openstreetmap.org
+ bmj.com
+ tucowsdomains.com
+ oecd.org
+ apa.org
+ redcross.org
+ news.com.au
+ domeneshop.no
+ livestream.com
+ umd.edu
+ netflix.com
+ variety.com
+ presscustomizr.com
+ prestashop.com
+ chron.com
+ usc.edu
+ wsimg.com
+ att.com
+ nsw.gov.au
+ adweek.com
+ ewebdevelopment.com
+ cafepress.com
+ hud.gov
+ dot.gov
+ blogspot.jp
+ unc.edu
+ usa.gov
+ eventbrite.co.uk
+ state.tx.us
+ twitch.tv
+ opensource.org
+ symantec.com
+ windowsphone.com
+ ieee.org
+ nginx.org
+ com.com
+ aljazeera.com
+ today.com
+ washingtontimes.com
+ 500px.com
+ mtv.com
+ staticflickr.com
+ army.mil
+
+# https://github.com/StevenBlack/hosts/issues/419
+ s0.2mdn.net
+
+ av.com
+ motherless.com
+
+# https://github.com/StevenBlack/hosts/issues/415
+ teslathemes.com
+ piwik.org
+
+# https://github.com/StevenBlack/hosts/issues/403
+ 1drv.ms
+
+# https://github.com/StevenBlack/hosts/issues/328
+ vc.ru
+
+# https://github.com/StevenBlack/hosts/issues/276
+ ok.ru
+
+# false calls in webcoin miner list, also submitted as a bug on github: https://github.com/ZeroDot1/CoinBlockerLists/issues/50
+ pr0gramm.com
+ www.pr0gramm.com
+ thumb.pr0gramm.com
+ m.pr0gramm.com
+ vid.pr0gramm.com
+ img.pr0gramm.com
+
+# https://github.com/notracking/hosts-blocklists/issues/29
+ bet365.com
+ www.bet365.com
+
+# https://github.com/notracking/hosts-blocklists/issues/31
+ kiev.ua
+
+# https://github.com/notracking/hosts-blocklists/pull/33
+ redirector.gvt1.com
+ gvt1.com
+
+# https://github.com/notracking/hosts-blocklists/issues/31
+ graph.instagram.com
+ graph.facebook.com
+ graph.facebook.net
+
+ coinbase.com
+.coinbase.com
+
+# kraken.com
+ dwq4do82y8xi7.cloudfront.net
+
+# https://github.com/notracking/hosts-blocklists/pull/34
+ a1.mzstatic.com
+
+# https://github.com/notracking/hosts-blocklists/issues/35
+ i0.web.de
+ i0.gmx.net
+
+# https://github.com/notracking/hosts-blocklists/issues/36
+ connect.facebook.net
+
+# https://github.com/notracking/hosts-blocklists/issues/31
+ netlify.com
+
+# https://github.com/notracking/hosts-blocklists/issues/39
+ phonearena.com
+
+# https://github.com/notracking/hosts-blocklists/issues/44
+ dansguardian.org
+
+# https://github.com/notracking/hosts-blocklists/issues/43
+ schibsted.io
+
+# for displaying graphs on degiro.nl
+ vwdservices.com
+
+# https://github.com/notracking/hosts-blocklists/issues/49
+.0.com
+
+# https://forum.adguard.com/index.php?threads/href-li.27021/
+ href.li
+
+# invalid address (crashes some unix system)
+# https://github.com/notracking/hosts-blocklists/issues/52
+ streamillimité.com
+
+# https://github.com/notracking/hosts-blocklists/issues/56
+ apresolve.spotify.com
+
+ experts-exchange.com
+ www.experts-exchange.com
+
+# https://github.com/pi-hole/pi-hole/issues/1980
+ mbnet.fi
+
+# https://github.com/notracking/hosts-blocklists/issues/65
+ euronews.com
+ www.euronews.com
+
+# https://github.com/notracking/hosts-blocklists/issues/67
+ ssl.p.jwpcdn.com
+ jwpcdn.com
+
+# https://github.com/notracking/hosts-blocklists/issues/68
+ sentry.io
+
+# https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+ s.marketwatch.com
+
+# https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues/38
+ hotspotshield.com
+ www.hotspotshield.com
+
+# https://github.com/notracking/hosts-blocklists/issues/69
+ webmd.com
+
+# https://github.com/notracking/hosts-blocklists/issues/70
+ tenforums.com
+ www.tenforums.com
+
+# https://github.com/notracking/hosts-blocklists/issues/72
+ kijiji.ca
+ kijiji.com
+
+# https://github.com/notracking/hosts-blocklists/issues/73
+ markitcdn.com
+
+# should just not be blocked
+ users.telenet.be
+
+# Used for Google Play store app updates
+# https://github.com/itc-ger/hosts-blocklists/commit/3b6368cdd03f04b326dd8f9632d3d1a7a961460b
+ redirector.gvt1.com
+
+# https://github.com/StevenBlack/hosts/issues/609
+ rebelmouse.com
+
+# https://github.com/notracking/hosts-blocklists/issues/75
+ image.ibb.co
+
+# https://github.com/notracking/hosts-blocklists/issues/76
+ wistia.com
+
+# https://github.com/notracking/hosts-blocklists/issues/77
+ i-technet.sec.s-msft.com
+
+# https://github.com/notracking/hosts-blocklists/issues/78
+ solvemedia.com
+
+# https://github.com/notracking/hosts-blocklists/issues/79
+ zencdn.net
+
+# https://github.com/notracking/hosts-blocklists/issues/81
+ cfvod.kaltura.com
+
+# https://github.com/notracking/hosts-blocklists/issues/82
+ www.highcharts.com
+
+# https://github.com/notracking/hosts-blocklists/issues/90
+ unity3d.com
