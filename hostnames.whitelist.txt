@@ -1,7 +1,11 @@
-##################################################################################
-# Whitelist items are matched against any hostname or domain name in the format:
-# 0.0.0.0 domain.com
-##################################################################################
+############################################################################################################
+# The whitelist is matched against all hosts and domains converted to a "0.0.0.0 friendlysite.com" format.
+# A whitelist filter with a leading space: " friendlysite.com" will match:
+# "0.0.0.0 friendlysite.com" but not "0.0.0.0 notsofriendlysite.com"
+#
+# A whitelist filter without a leading space: "friendlysite" will both match 
+# "0.0.0.0 friendlysite.de" and "0.0.0.0 notsofriendlysite.com".
+############################################################################################################
 #randoms
  tucows.com
  stileproject.com
