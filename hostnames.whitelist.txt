@@ -6,10 +6,23 @@
 # A whitelist filter without a leading space: "friendlysite" will both match 
 # "0.0.0.0 friendlysite.de" and "0.0.0.0 notsofriendlysite.com".
 ############################################################################################################
-#randoms
+# Randoms
  tucows.com
  stileproject.com
-# from https://www.reddit.com/r/raspberry_pi/comments/5j1trl/i_love_how_effective_pihole_is_i_barely_woke_up/dbdkalg/
+ cdn.vidible.tv
+ vidible.tv
+ nexusrules.officeapps.live.com
+ om.cbsi.com
+
+# For URLHaus malware list
+ duckdns.org
+ cdn.discordapp.com
+ download.winzip.com
+
+# Required for watching espn
+ livepassdl.conviva.com
+
+# From https://www.reddit.com/r/raspberry_pi/comments/5j1trl/i_love_how_effective_pihole_is_i_barely_woke_up/dbdkalg/
  info.seek.com
  gumtree.com.au
  bit.ly
@@ -43,14 +56,14 @@
  www.marktplaats.nl
  storage.googleapis.com
  wordpress.com
-#for reddit
+# For reddit
  embed.ly
  embedly.com
  cdn.embedly.com
  cdn.embed.ly
-# spotify ios app
+# Spotify ios app
  spclient.wg.spotify.com
-# domains that should never be blocked (might cause serious networking issues)
+# Domains that should never be blocked (might cause serious networking issues)
  raw.githubusercontent.com
  github.com
 # Various entreis preventing breaking of functional behaviour
@@ -88,21 +101,21 @@
  kastatic.com
 # Skype professional
  secure.skypeassets.com
-#redtube
+# Redtube
  phncdn.com
  ss.phncdn.com
-#youtube
+# Youtube
  www.youtube-nocookie.com
  youtube-nocookie.com
-# breaks taobao.com
+# For taobao.com
  g.alicdn.com
-# for windows apps to be able to download from store
+# For windows apps to be able to download from store
  dl.delivery.mp.microsoft.com
  geo-prod.do.dsp.mp.microsoft.com
 # Serials
 www.serials.ws
  serials.ws
-# does not seem to be such an evil company
+# Does not seem to be such an evil company is required for various legit sites
 .gravatar.com
  gravatar.com
 # Windows update Whitelists based on data from https://github.com/crazy-max/WindowsSpyBlocker
@@ -157,8 +170,6 @@ www.serials.ws
  sls.update.microsoft.com
  sls.update.microsoft.com.akadns.net
  statsfe2.update.microsoft.com.akadns.net
-# statsfe1.ws.microsoft.com
-# statsfe2.ws.microsoft.com
  tlu.dl.delivery.mp.microsoft.com
  v4.download.windowsupdate.com
  windowsupdate.com
@@ -185,12 +196,12 @@ www.serials.ws
  eds.xboxlive.com
  www.xboxlive.com
 
-# emptyloop hosts-file.net fake
+# Emptyloop hosts-file.net fake
  unlocker.emptyloop.com
  emptyloop.com
  www.emptyloop.com
 
-#skype
+# Skype
  s.gateway.messenger.live.com
  ui.skype.com
  pricelist.skype.com
@@ -203,9 +214,9 @@ www.serials.ws
  s3.symcb.com
  s4.symcb.com
  s5.symcb.com
-#Office
+# Office
  officeclient.microsoft.com
-#plex
+# Plex
  my.plexapp.com
  plex.r.worldssl.net
 #from https://github.com/nlopez/adblock_hosts/blob/master/adblock_hosts/adblock_hosts.py
@@ -1006,3 +1017,10 @@ www.serials.ws
 # https://github.com/notracking/hosts-blocklists/pull/96
  secure.footprint.net
  footprint.net
+
+# https://www.reddit.com/r/pihole/comments/9km2ny/cant_access_wwwevitecom/
+ www.evite.com
+
+# For Target app https://www.reddit.com/r/pihole/comments/9evrmp/pihole_blocking_targetcom_website_and_cartwheel/
+ weeklyad.target.com
+ weeklyad.target.com.edgesuite.net
