@@ -1025,3 +1025,7 @@ www.serials.ws
 # For Target app https://www.reddit.com/r/pihole/comments/9evrmp/pihole_blocking_targetcom_website_and_cartwheel/
  weeklyad.target.com
  weeklyad.target.com.edgesuite.net
+
+# https://github.com/notracking/hosts-blocklists/issues/100
+ s0.wp.com
+ redirector.googlevideo.com
