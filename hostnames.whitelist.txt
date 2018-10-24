@@ -14,6 +14,7 @@
  nexusrules.officeapps.live.com
  om.cbsi.com
  docs.google.com
+ api.uca.cloud.unity3d.com
 
 # For URLHaus malware list
  duckdns.org
@@ -1035,3 +1036,12 @@ www.serials.ws
 # https://github.com/notracking/hosts-blocklists/issues/102
  zencdn.net
  vjs.zencdn.net
+
+# https://github.com/notracking/hosts-blocklists/issues/105
+ scontent.xx.fbcdn.net
+
+# https://github.com/notracking/hosts-blocklists/issues/107
+ consent.cmp.oath.com
+
+# https://github.com/notracking/hosts-blocklists/issues/106
+ voxmedia.com
