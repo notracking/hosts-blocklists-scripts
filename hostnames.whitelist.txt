@@ -1066,3 +1066,20 @@ www.serials.ws
 
 # https://github.com/notracking/hosts-blocklists/issues/112
  hockeyapp.net
+
+# https://github.com/notracking/hosts-blocklists/issues/115
+ api.fast.com
+
+# https://github.com/notracking/hosts-blocklists/issues/114
+ bitbucket.org
+
+# 'Grey listed'
+# Host is actually not required for videos to play, but only if the user uses a proper
+# browser adblocker like uBlock Origin.
+# https://github.com/notracking/hosts-blocklists/issues/113
+ cdns.gigya.com
+ cdn.gigya.com
+ gigya.com
+
+# https://github.com/notracking/hosts-blocklists/issues/116
+ maxcdn.bootstrapcdn.com
