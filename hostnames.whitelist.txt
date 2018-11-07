@@ -16,6 +16,10 @@
  docs.google.com
  api.uca.cloud.unity3d.com
 
+# font cdns
+ pro.fontawesome.com
+ use.fontawesome.com 
+
 # news video cdn
  cdn.bluebillywig.com
  bluebillywig.com
@@ -1073,9 +1077,8 @@ www.serials.ws
 # https://github.com/notracking/hosts-blocklists/issues/114
  bitbucket.org
 
-# 'Grey listed'
-# Host is actually not required for videos to play, but only if the user uses a proper
-# browser adblocker like uBlock Origin.
+# rule applied: "Known trackers that break useful functions in legit websites will be whitelisted only in case the number of broken websites is higher than the number of sites using the tracker."
+# See ticket for more info.
 # https://github.com/notracking/hosts-blocklists/issues/113
  cdns.gigya.com
  cdn.gigya.com
@@ -1086,3 +1089,9 @@ www.serials.ws
 
 # https://github.com/notracking/hosts-blocklists/issues/118
  clients.l.google.com
+
+# https://github.com/notracking/hosts-blocklists/issues/119
+ cdn.jsdelivr.net
+
+# https://github.com/notracking/hosts-blocklists/issues/120
+ use.fontawesome.com
