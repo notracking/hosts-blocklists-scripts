@@ -15,10 +15,82 @@
  om.cbsi.com
  docs.google.com
  api.uca.cloud.unity3d.com
+ ipinfo.io
+ t0.ssl.ak.tiles.virtualearth.net
+ letsencrypt.org
+.letsencrypt.org
+
+# raghavdua1995
+ boards.greenhouse.io
+
+# Windows ipv6 tunneling (for ipv6 web support)
+ win10.ipv6.microsoft.com
+ win8.ipv6.microsoft.com
+ win1710.ipv6.microsoft.com
+
+# pi-hole commonly whitelisted domains: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212/15
+ h-sdk.online-metrix.net
+ cdn.cpnscdn.com
+ v20.vortex-win.data.microsoft.com  
+ v10.vortex-win.data.microsoft.com  
+ f1.media.brightcove.com
+ prod.telemetry.ros.rockstargames.com
+ captive.apple.com
+ gsp1.apple.com
+ www.apple.com
+ www.appleiphonecell.com
+ ipv6.msftncsi.com
+ connectivitycheck.android.com
+ android.clients.google.com
+ connectivitycheck.gstatic.com
+ appspot-preview.l.google.com
+ dev.virtualearth.net
+ ecn.dev.virtualearth.net
+ t0.ssl.ak.dynamic.tiles.virtualearth.net
+ t0.ssl.ak.tiles.virtualearth.net 
+ delivery.vidible.tv
+ img.vidible.tv
+ videos.vidible.tv
+ edge.api.brightcove.com
+ cdn.vidible.tv
+ conviva.com
+ livepassdl.conviva.com
+
+# ookangzheng
+# Tinder app sms verification
+ etl.tindersparks.com
+
+ s.shopify.com
+ v.shopify.com
+ ipify.org
+ api.ipify.org
+ q.stripe.com
+ assets.adobedtm.com
+ c.evidon.com
+ xd.adobelanding.com
+
+# cdns
+ cdn.ravenjs.com
+ crbcdn.jsfiddle.net
 
 # font cdns
+# https://github.com/notracking/hosts-blocklists/issues/120
+ use.fontawesome.com
  pro.fontawesome.com
  use.fontawesome.com 
+ fonts.gstatic.com
+ hello.myfonts.net
+ use.typekit.net
+ typekit.net
+ fast.fonts.net
+
+# anudeepND
+ cse.google.com
+ ec-ns.sascdn.com
+ widget-cdn.rpxnow.com
+ tawk.to
+ dev.virtualearth.net
+ ecn.dev.virtualearth.net
 
 # news video cdn
  cdn.bluebillywig.com
@@ -73,6 +145,7 @@
  cdn.embed.ly
 # Spotify ios app
  spclient.wg.spotify.com
+ spclient.spotify.com
 # Domains that should never be blocked (might cause serious networking issues)
  raw.githubusercontent.com
  github.com
@@ -123,7 +196,7 @@
  dl.delivery.mp.microsoft.com
  geo-prod.do.dsp.mp.microsoft.com
 # Serials
-www.serials.ws
+ www.serials.ws
  serials.ws
 # Does not seem to be such an evil company is required for various legit sites
 .gravatar.com
@@ -229,6 +302,7 @@ www.serials.ws
 # Plex
  my.plexapp.com
  plex.r.worldssl.net
+ fls-na.amazon.com
 #from https://github.com/nlopez/adblock_hosts/blob/master/adblock_hosts/adblock_hosts.py
  sysctl.org
  raw.githubusercontent.com
@@ -276,6 +350,7 @@ www.serials.ws
  ssl-nl.persgroep.edgekey.neto
  accounts.pkr.com.invalid
 # whitelist from (approved only): http://www.dshield.org/feeds/suspiciousdomains_whitelist_approved.txt
+ baidu.com
  ce5.at
  demon-networks.com
  dl.360safe.com
@@ -285,6 +360,7 @@ www.serials.ws
  mdidesign.ca
  syandus.com
  vlab.pp.ru
+ www.baidu.com
  www.rcollard.com
 # https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues/1
  gesangsunterricht-hh.de
@@ -351,8 +427,6 @@ www.serials.ws
  netflix.com
  alluremedia.com.au
  tomshardware.com
-# s.shopify.com
- keystone.mwbsys.com
  dl.dropbox.com
  api.ipify.org
 # most commonly whitelisted hostnames PiHole
@@ -520,6 +594,7 @@ www.serials.ws
  kickstarter.com
  geocities.com
  wired.com
+ static.wired.com
  delicious.com
  ted.com
  googleusercontent.com
@@ -1092,6 +1167,3 @@ www.serials.ws
 
 # https://github.com/notracking/hosts-blocklists/issues/119
  cdn.jsdelivr.net
-
-# https://github.com/notracking/hosts-blocklists/issues/120
- use.fontawesome.com
