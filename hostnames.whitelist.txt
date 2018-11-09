@@ -7,6 +7,8 @@
 # "0.0.0.0 friendlysite.de" and "0.0.0.0 notsofriendlysite.com".
 ############################################################################################################
 # Randoms
+ arc.msn.com
+ adaware.com
  tucows.com
  stileproject.com
  cdn.vidible.tv
@@ -16,7 +18,6 @@
  docs.google.com
  api.uca.cloud.unity3d.com
  ipinfo.io
- t0.ssl.ak.tiles.virtualearth.net
  letsencrypt.org
 .letsencrypt.org
 
@@ -66,6 +67,8 @@
  api.ipify.org
  q.stripe.com
  assets.adobedtm.com
+ adobedtm.com
+ activation.adobedtm.com
  c.evidon.com
  xd.adobelanding.com
 
@@ -77,7 +80,6 @@
 # https://github.com/notracking/hosts-blocklists/issues/120
  use.fontawesome.com
  pro.fontawesome.com
- use.fontawesome.com 
  fonts.gstatic.com
  hello.myfonts.net
  use.typekit.net
