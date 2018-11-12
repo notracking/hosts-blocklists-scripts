@@ -404,6 +404,8 @@
  cedexis.net
 # https://github.com/notracking/hosts-blocklists/issues/25
  ajax.cloudflare.com
+ www.cloudflare.com
+ cloudflare.com
 # https://www.reddit.com/r/pihole/comments/74it6h/help_identifying_embedded_video_url_being_blocked/
  d2c8v52ll5s99u.cloudfront.net
 # https://wally3k.github.io/ (bottom of the page)
@@ -733,6 +735,7 @@
  youku.com
  house.gov
  vice.com
+ vice-web-statics-cdn.vice.com
  ocn.ne.jp
  unesco.org
  indiegogo.com
@@ -1169,3 +1172,8 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/119
  cdn.jsdelivr.net
+
+# https://github.com/anudeepND/blacklist/issues/14
+ blocklists.settings.services.mozilla.com
+ shavar.services.mozilla.com
+ firefox.settings.services.mozilla.com
