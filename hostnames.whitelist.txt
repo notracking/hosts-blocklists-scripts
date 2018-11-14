@@ -7,6 +7,7 @@
 # "0.0.0.0 friendlysite.de" and "0.0.0.0 notsofriendlysite.com".
 ############################################################################################################
 # Randoms
+ www.msn.com
  arc.msn.com
  adaware.com
  tucows.com
@@ -18,8 +19,6 @@
  docs.google.com
  api.uca.cloud.unity3d.com
  ipinfo.io
- letsencrypt.org
-.letsencrypt.org
 
 # raghavdua1995
  boards.greenhouse.io
@@ -133,6 +132,7 @@
  clients3.google.com
  clients4.google.com
  clients5.google.com
+
 # Other
  aliexpress.com
  answers.microsoft.com
@@ -140,18 +140,24 @@
  www.marktplaats.nl
  storage.googleapis.com
  wordpress.com
+
 # For reddit
  embed.ly
  embedly.com
  cdn.embedly.com
  cdn.embed.ly
+
 # Spotify ios app
  spclient.wg.spotify.com
  spclient.spotify.com
+
 # Domains that should never be blocked (might cause serious networking issues)
  raw.githubusercontent.com
  github.com
-# Various entreis preventing breaking of functional behaviour
+ letsencrypt.org
+.letsencrypt.org
+
+# Various entries preventing breaking of functional behaviour
  qq.com
  dlglobal.qq.com
  com-verification.id
@@ -174,35 +180,47 @@
  putlocker.is
  home.wanadoo.nl
  bjbgc.com
+
 # taken from msteves black closed tickets
  s.gateway.messenger.live.com
+
 # For windows internet connection detection
  www.msftncsi.com
  msftncsi.com
+
 # Google (these domains are not used for tracking)
  analytics.google.com
+
 # kat.cr
  a.kickass.to
  kastatic.com
+
 # Skype professional
  secure.skypeassets.com
+
 # Redtube
  phncdn.com
  ss.phncdn.com
+
 # Youtube
  www.youtube-nocookie.com
  youtube-nocookie.com
+
 # For taobao.com
  g.alicdn.com
+
 # For windows apps to be able to download from store
  dl.delivery.mp.microsoft.com
  geo-prod.do.dsp.mp.microsoft.com
+
 # Serials
  www.serials.ws
  serials.ws
+
 # Does not seem to be such an evil company is required for various legit sites
 .gravatar.com
  gravatar.com
+
 # Windows update Whitelists based on data from https://github.com/crazy-max/WindowsSpyBlocker
 # Windows 7 update servers
  au.download.windowsupdate.com
@@ -216,6 +234,7 @@
  windowsupdate.com
  windowupdate.org
  www.download.windowsupdate.com
+
 # Windows 8.1 update servers
  au.download.windowsupdate.com
  au.v4.download.windowsupdate.com
@@ -238,6 +257,7 @@
  v4.download.windowsupdate.com
  windowsupdate.com
  windowupdate.org
+
 # Windows 10 update servers
  au.download.windowsupdate.com
  au.v4.download.windowsupdate.com
@@ -259,6 +279,7 @@
  v4.download.windowsupdate.com
  windowsupdate.com
  windowupdate.org
+
 # For xbox achievements
 # See https://www.reddit.com/r/xboxone/comments/5l7bm1/tech_piholeother_dns_users_additional_whitelist/
 # and https://www.reddit.com/r/xboxone/comments/5khrrl/achievements_not_unlocking/
@@ -299,22 +320,25 @@
  s3.symcb.com
  s4.symcb.com
  s5.symcb.com
+
 # Office
  officeclient.microsoft.com
+
 # Plex
  my.plexapp.com
  plex.r.worldssl.net
  fls-na.amazon.com
+
 #from https://github.com/nlopez/adblock_hosts/blob/master/adblock_hosts/adblock_hosts.py
  sysctl.org
  raw.githubusercontent.com
  hosts-file.net
  www.hosts-file.net
-#source unknown
- www.msn.com
+
 #submitted bugs on github
  api.solvemedia.com
  sinaimg.cn
+
 # https://wally3k.github.io/ (Whitelist suggestions part)
  google.com
  webcache.googleusercontent.com
@@ -338,6 +362,7 @@
  www.theguardian.com
  surveymonkey.com
  secure.surveymonkey.com
+
 # https://github.com/notracking/hosts-blocklists/issues/12
  bing.net
  virtualearth.net
@@ -351,6 +376,7 @@
  unk.vver.kiae.rr
  ssl-nl.persgroep.edgekey.neto
  accounts.pkr.com.invalid
+
 # whitelist from (approved only): http://www.dshield.org/feeds/suspiciousdomains_whitelist_approved.txt
  baidu.com
  ce5.at
@@ -364,33 +390,43 @@
  vlab.pp.ru
  www.baidu.com
  www.rcollard.com
+
 # https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues/1
  gesangsunterricht-hh.de
  mail.ru
  suche.t-online.de
+
 # https://github.com/notracking/hosts-blocklists/issues/13
  alicdn.com
+
 # https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues/4#issuecomment-296443944
  liveinternet.ru
  www.liveinternet.ru
-# used for microsoft windows help sizzles
+
+# used for microsoft windows help
  custhelp.com
+
 # popular help forum, should be safe
  sevenforums.com
  www.sevenforums.com
-# scorito.com 
+
+# scorito.com
  rackcdn.com
+
 # buggy entriesÂhttps://github.com/notracking/hosts-blocklists/issues/16
  pmenboeqhyrpvomq.
  olark.com
+
 # false call https://github.com/notracking/hosts-blocklists/issues/19
- lithium.com
 # false call https://github.com/notracking/hosts-blocklists/issues/20
+ lithium.com
  jdownloader.org
  www.jdownloader.org
+
 # was acidentally added to some blkaclists before, see: https://github.com/notracking/hosts-blocklists/issues/21#issuecomment-323532264
  pastebin.com
  www.pastebin.com
+
 # https://github.com/notracking/hosts-blocklists/issues/22
  tenforums.com 
  www.tenforums.com
@@ -398,16 +434,21 @@
  emptyloop.com 
  jwplatform.com 
  ooyala.com
+
 # https://github.com/notracking/hosts-blocklists/issues/23
  keystone.mwbsys.com
+
 # https://github.com/notracking/hosts-blocklists/issues/24
  cedexis.net
+
 # https://github.com/notracking/hosts-blocklists/issues/25
  ajax.cloudflare.com
  www.cloudflare.com
  cloudflare.com
+
 # https://www.reddit.com/r/pihole/comments/74it6h/help_identifying_embedded_video_url_being_blocked/
  d2c8v52ll5s99u.cloudfront.net
+
 # https://wally3k.github.io/ (bottom of the page)
  rover.ebay.com
  s3.amazonaws.com
@@ -423,7 +464,6 @@
  msftncsi.com
  www.msftncsi.com
  ea.com
-# cdn.optimizely.com
  res.cloudinary.com
  gravatar.com
  rover.ebay.com
@@ -433,15 +473,16 @@
  tomshardware.com
  dl.dropbox.com
  api.ipify.org
+
 # most commonly whitelisted hostnames PiHole
  via.placeholder.com
  placeholder.com
  placeholdit.imgix.net
  placehold.it
-# s.marketwatch.com
  itunes.apple.com
  imagesak.secureserver.net
  appleid.apple.com
+
 # https://github.com/AdguardTeam/AdguardDNS/issues/63 
  googleadapis.l.google.com
  alexa.com
