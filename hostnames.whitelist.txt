@@ -1222,3 +1222,6 @@
  blocklists.settings.services.mozilla.com
  shavar.services.mozilla.com
  firefox.settings.services.mozilla.com
+
+# https://github.com/notracking/hosts-blocklists/issues/125
+ ns-cdn.neustar.biz
