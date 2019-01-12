@@ -83,7 +83,6 @@
 # https://github.com/notracking/hosts-blocklists/issues/120
  use.fontawesome.com
  pro.fontawesome.com
- fonts.gstatic.com
  hello.myfonts.net
  use.typekit.net
  typekit.net
@@ -1255,3 +1254,6 @@
 # https://github.com/notracking/hosts-blocklists/issues/136
  players.brightcove.net
  brightcove.net
+
+# legit car sale site
+ autoscout24.com
