@@ -21,6 +21,10 @@
  api.uca.cloud.unity3d.com
  ipinfo.io
 
+# Legit license servers
+ ereg.adobe.com
+ ereg.wip3.adobe.com
+
 # raghavdua1995
  boards.greenhouse.io
 
@@ -1263,3 +1267,6 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/146
  gfwsl.geforce.com
+
+# https://www.reddit.com/comments/9xwwwy
+ localcontent.huffingtonpost.com
