@@ -1,10 +1,16 @@
 ############################################################################################################
-# The whitelist is matched against all hosts and domains converted to a "0.0.0.0 friendlysite.com" format.
-# A whitelist filter with a leading space: " friendlysite.com" will match:
-# "0.0.0.0 friendlysite.com" but not "0.0.0.0 notsofriendlysite.com"
+# Source: https://github.com/notracking/hosts-blocklists-scripts
 #
-# A whitelist filter without a leading space: "friendlysite" will both match 
-# "0.0.0.0 friendlysite.de" and "0.0.0.0 notsofriendlysite.com".
+# This whitelist is used and updated for https://github.com/notracking/hosts-blocklists
+#
+# All hosts and domains in the blocklist are converted to a '0.0.0.0 friendlysite.com' format.
+# Filters with a leading space (example: ' friendlysite.com') will match:
+# '0.0.0.0 friendlysite.com' but not '0.0.0.0 notsofriendlysite.com'
+#
+# A whitelist filter without a leading space  (example: 'friendlysite') will match:
+# '0.0.0.0 friendlysite.de' and '0.0.0.0 notsofriendlysite.com'.
+#
+# Empty lines and lines starting with a '#' are ignored.
 ############################################################################################################
 # Randoms
  loggly.com
@@ -20,10 +26,21 @@
  docs.google.com
  api.uca.cloud.unity3d.com
  ipinfo.io
+ motherless.com
+ s.shopify.com
+ v.shopify.com
+ ipify.org
+ api.ipify.org
+ q.stripe.com
+ assets.adobedtm.com
+ adobedtm.com
+ c.evidon.com
+ xd.adobelanding.com
 
 # Legit license servers
  ereg.adobe.com
  ereg.wip3.adobe.com
+ activation.adobedtm.com
 
 # raghavdua1995
  boards.greenhouse.io
@@ -67,17 +84,6 @@
 # ookangzheng
 # Tinder app sms verification
  etl.tindersparks.com
-
- s.shopify.com
- v.shopify.com
- ipify.org
- api.ipify.org
- q.stripe.com
- assets.adobedtm.com
- adobedtm.com
- activation.adobedtm.com
- c.evidon.com
- xd.adobelanding.com
 
 # cdns
  cdn.ravenjs.com
@@ -190,6 +196,7 @@
 
 # taken from msteves black closed tickets
  s.gateway.messenger.live.com
+ client-s.gateway.messenger.live.com
 
 # For windows internet connection detection
  www.msftncsi.com
@@ -989,9 +996,6 @@
 # https://github.com/StevenBlack/hosts/issues/419
  s0.2mdn.net
 
- av.com
- motherless.com
-
 # https://github.com/StevenBlack/hosts/issues/415
  teslathemes.com
  piwik.org
@@ -1293,3 +1297,7 @@
 # https://github.com/notracking/hosts-blocklists/pull/160
  music.163.com
 .music.163.com
+
+# https://github.com/notracking/hosts-blocklists/pull/161
+# fixes shadowplay
+ gfe.nvidia.com
