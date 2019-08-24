@@ -61,7 +61,6 @@
  gsp1.apple.com
  www.apple.com
  www.appleiphonecell.com
- ipv6.msftncsi.com
  connectivitycheck.android.com
  android.clients.google.com
  connectivitycheck.gstatic.com
@@ -198,9 +197,13 @@
  s.gateway.messenger.live.com
  client-s.gateway.messenger.live.com
 
-# For windows internet connection detection
+# For windows internet connection detection. Some windows apps require a valid OS online state for them to operate.
  www.msftncsi.com
+ ipv6.msftncsi.com
  msftncsi.com
+ www.msftconnecttest.com
+ ipv6.msftconnecttest.com
+ msftconnecttest.com
 
 # Google (these domains are not used for tracking)
  analytics.google.com
