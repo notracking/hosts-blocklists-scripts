@@ -1310,3 +1310,9 @@
 
 # Should be for Google store
  .gvt2.com
+
+# https://github.com/notracking/hosts-blocklists/issues/171
+ unpkg.com
+ www.unpkg.com
+ habrahabr.ru
+ salesforce.com
