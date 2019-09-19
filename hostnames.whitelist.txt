@@ -13,6 +13,7 @@
 # Empty lines and lines starting with a '#' are ignored.
 ############################################################################################################
 # Randoms
+ esprima.org
  loggly.com
  www.msn.com
  arc.msn.com
@@ -36,6 +37,11 @@
  adobedtm.com
  c.evidon.com
  xd.adobelanding.com
+ pega.com
+ api.hostip.info
+ gumtree.co.za
+ myfreecams.com
+ www.myfreecams.com
 
 # Legit license servers
  ereg.adobe.com
@@ -120,23 +126,17 @@
 # From https://www.reddit.com/r/raspberry_pi/comments/5j1trl/i_love_how_effective_pihole_is_i_barely_woke_up/dbdkalg/
  info.seek.com
  gumtree.com.au
- bit.ly
  j.mp
- t.co
- goo.gl
  opensubtitles.org
  www.opensubtitles.org
- netflix.com
  ea.com
  proxy.novafusion.ea.com
- s3.amazonaws.com
  ipchicken.com
  open.spotify.com
  puu.sh
  dl.dropbox.com
  tomshardware.com
  pushover.net
- alluremedia.com.au
  kickstarter.com
  www.kickstarter.com
  static.kickstarter.com
@@ -147,11 +147,11 @@
 
 # Other
  aliexpress.com
+ s.click.aliexpress.com
  answers.microsoft.com
  marktplaats.nl
  www.marktplaats.nl
  storage.googleapis.com
- wordpress.com
 
 # For reddit
  embed.ly
@@ -170,7 +170,6 @@
 .letsencrypt.org
 
 # Various entries preventing breaking of functional behaviour
- qq.com
  dlglobal.qq.com
  com-verification.id
  steamcommunity.com
@@ -192,10 +191,6 @@
  putlocker.is
  home.wanadoo.nl
  bjbgc.com
-
-# taken from msteves black closed tickets
- s.gateway.messenger.live.com
- client-s.gateway.messenger.live.com
 
 # For windows internet connection detection. Some windows apps require a valid OS online state for them to operate.
  www.msftncsi.com
@@ -240,21 +235,14 @@
 
 # Windows update Whitelists based on data from https://github.com/crazy-max/WindowsSpyBlocker
 # Windows 7 update servers
- au.download.windowsupdate.com
- ctldl.windowsupdate.com
  download.microsoft.com
- download.windowsupdate.com
  ds.download.windowsupdate.com
- fe2.update.microsoft.com
  fg.ds.b1.download.windowsupdate.com
  microsoftwindowsupdate.net
- windowsupdate.com
- windowupdate.org
  www.download.windowsupdate.com
 
 # Windows 8.1 update servers
  au.download.windowsupdate.com
- au.v4.download.windowsupdate.com
  bg.v4.a.dl.ws.microsoft.com
  bg.v4.emdl.ws.microsoft.com
  bg1.v4.a.dl.ws.microsoft.com
@@ -263,17 +251,11 @@
  bg2.v4.emdl.ws.microsoft.com
  bg5.v4.a.dl.ws.microsoft.com
  bg5.v4.emdl.ws.microsoft.com
- ctldl.windowsupdate.com
- download.windowsupdate.com
- fe2.update.microsoft.com
  fe2.wq.microsoft.com
  fe2.ws.microsoft.com
  fg.v4.download.windowsupdate.com
  microsoftwindowsupdate.net
- sls.update.microsoft.com
  v4.download.windowsupdate.com
- windowsupdate.com
- windowupdate.org
 
 # Windows 10 update servers
  au.download.windowsupdate.com
@@ -306,7 +288,6 @@
  title.mgt.xboxlive.com
  xsts.auth.xboxlive.com
  title.auth.xboxlive.com
- ctldl.windowsupdate.com
  attestation.xboxlive.com
  xboxexperiencesprod.experimentation.xboxlive.com
  xflight.xboxlive.com
@@ -325,12 +306,12 @@
  www.emptyloop.com
 
 # Skype
+ client-s.gateway.messenger.live.com
  s.gateway.messenger.live.com
  ui.skype.com
  pricelist.skype.com
  apps.skype.com
  m.hotmail.com
- s.gateway.messenger.live.com
  sa.symcb.com
  s1.symcb.com
  s2.symcb.com
@@ -348,7 +329,6 @@
 
 #from https://github.com/nlopez/adblock_hosts/blob/master/adblock_hosts/adblock_hosts.py
  sysctl.org
- raw.githubusercontent.com
  hosts-file.net
  www.hosts-file.net
 
@@ -357,27 +337,16 @@
  sinaimg.cn
 
 # https://wally3k.github.io/ (Whitelist suggestions part)
- google.com
  webcache.googleusercontent.com
  chrome.google.com
  dropbox.com
  dl.dropboxusercontent.com 
- msftncsi.com
- www.msftncsi.com
- dns.msftncsi.com
- netflix.com
  cdn.embedly.com
  ax.phobos.apple.com.edgesuite.net
- www.kickstarter.com
- static.kickstarter.com
  gitter.im
- ea.com
  proxy.novafusion.ea.com
- gravatar.com
- tomshardware.com
  alluremedia.com.au
  www.theguardian.com
- surveymonkey.com
  secure.surveymonkey.com
 
 # https://github.com/notracking/hosts-blocklists/issues/12
@@ -395,7 +364,6 @@
  accounts.pkr.com.invalid
 
 # whitelist from (approved only): http://www.dshield.org/feeds/suspiciousdomains_whitelist_approved.txt
- baidu.com
  ce5.at
  demon-networks.com
  dl.360safe.com
@@ -437,6 +405,7 @@
 # false call https://github.com/notracking/hosts-blocklists/issues/19
 # false call https://github.com/notracking/hosts-blocklists/issues/20
  lithium.com
+ .lithium.com
  jdownloader.org
  www.jdownloader.org
 
@@ -445,6 +414,7 @@
  www.pastebin.com
 
 # https://github.com/notracking/hosts-blocklists/issues/22
+# https://github.com/notracking/hosts-blocklists/issues/70
  tenforums.com 
  www.tenforums.com
  eightforums.com
@@ -474,22 +444,14 @@
  clients4.google.com
  clients5.google.com
  www.bit.ly
- bit.ly
  ow.ly
  j.mp
- goo.gl
+ dns.msftncsi.com
  msftncsi.com
- www.msftncsi.com
- ea.com
  res.cloudinary.com
- gravatar.com
- rover.ebay.com
  imgs.xkcd.com
- netflix.com
  alluremedia.com.au
- tomshardware.com
  dl.dropbox.com
- api.ipify.org
 
 # most commonly whitelisted hostnames PiHole
  via.placeholder.com
@@ -502,7 +464,6 @@
 
 # https://github.com/AdguardTeam/AdguardDNS/issues/63 
  googleadapis.l.google.com
- alexa.com
 
 # https://moz.com/top500
 # removed ad servers, use test_whitelist.sh before submitting!
@@ -566,7 +527,6 @@
  stumbleupon.com
  huffingtonpost.com
  issuu.com
- gravatar.com
  imdb.com
  ascii.co.uk
  feedburner.com
@@ -1027,6 +987,8 @@
 # https://github.com/notracking/hosts-blocklists/issues/31
  kiev.ua
 
+# Used for Google Play store app updates
+# https://github.com/itc-ger/hosts-blocklists/commit/3b6368cdd03f04b326dd8f9632d3d1a7a961460b
 # https://github.com/notracking/hosts-blocklists/pull/33
  redirector.gvt1.com
  gvt1.com
@@ -1107,10 +1069,6 @@
 # https://github.com/notracking/hosts-blocklists/issues/69
  webmd.com
 
-# https://github.com/notracking/hosts-blocklists/issues/70
- tenforums.com
- www.tenforums.com
-
 # https://github.com/notracking/hosts-blocklists/issues/72
 # https://github.com/notracking/hosts-blocklists/issues/104
  kijiji.ca
@@ -1122,10 +1080,6 @@
 
 # should just not be blocked
  users.telenet.be
-
-# Used for Google Play store app updates
-# https://github.com/itc-ger/hosts-blocklists/commit/3b6368cdd03f04b326dd8f9632d3d1a7a961460b
- redirector.gvt1.com
 
 # https://github.com/StevenBlack/hosts/issues/609
  rebelmouse.com
@@ -1141,9 +1095,6 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/78
  solvemedia.com
-
-# https://github.com/notracking/hosts-blocklists/issues/79
- zencdn.net
 
 # https://github.com/notracking/hosts-blocklists/issues/81
  cfvod.kaltura.com
@@ -1177,6 +1128,7 @@
  redirector.googlevideo.com
 
 # https://github.com/notracking/hosts-blocklists/issues/102
+# https://github.com/notracking/hosts-blocklists/issues/79
  zencdn.net
  vjs.zencdn.net
 
@@ -1316,3 +1268,71 @@
  www.unpkg.com
  habrahabr.ru
  salesforce.com
+
+# https://www.reddit.com/r/pihole/comments/bppug1/introducing_the/eqm1gis?utm_source=share&utm_medium=web2x
+ socialize.eu1.gigya.com
+
+# https://www.reddit.com/r/pihole/comments/bppug1/introducing_the/er81ico?utm_source=share&utm_medium=web2x
+ www.nextplatform.com
+
+# https://en.wikipedia.org/wiki/Zombo.com
+ zombo.com
+ www.zombo.com
+ html5zombo.com
+ www.html5zombo.com
+
+# AMD mailing
+ storage.pardot.com
+
+# Stripe checkout
+ stripecdn.map.fastly.net
+
+# Patreon checkout
+ js.braintreegateway.com
+
+# Paypal community
+ ppl.i.lithium.com
+
+# Snapchat
+ gcs.sc-cdn.net
+
+# To download Adobe Shockwave Player
+ fpdownload.macromedia.com
+
+# Clothing store
+ jackjones.com
+
+# German provider
+ mobilcom-debitel.de
+
+# Prevents the use of FANDOM/Wikia's Discussions posts
+ services.fandom.com
+
+# Assets (images) for montrealgazette.com
+ postmediamontrealgazette2.files.wordpress.com
+
+# Hulu Live TV
+ assets.huluim.com
+
+# For Egde browser sync
+ activity.windows.com
+
+# For Linux Mind and various others
+ evowise.com
+ .evowise.com
+
+# Torrent tracker
+ tracker.trackerfix.com
+
+# Newsletter host
+ revue.com
+
+# Breaks Sling TV
+ clientstream.launchdarkly.com
+
+# Legit cloud monitor service
+ .dynatrace.com
+ dynatrace.com
+
+# For facebook app comments
+ graph.facebook.com
