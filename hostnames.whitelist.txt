@@ -12,7 +12,36 @@
 #
 # Empty lines and lines starting with a '#' are ignored.
 ############################################################################################################
+# From top1000000 test
+ test-iq.org
+ puzz.com
+ indiamart.com
+ madison.com
+ www.fashionista.com
+ fashionista.com
+ www.plarium.com
+ plarium.com
+ indystar.com
+ paperlesspost.com
+ ashleyrnadison.com
+ smarturl.it
+ scribol.com
+ nj.com
+ searchencrypt.com
+ myway.com
+ coupons.com
+ www.ask.com
+ ask.com
+ beenverified.com
+ www.beenverified.com
+ live.net
+ flipboard.com
+ cdn.flipboard.com
+
 # Randoms
+ dbs.com
+ cdn-apple.com
+.cdn-apple.com
  esprima.org
  loggly.com
  www.msn.com
@@ -140,6 +169,7 @@
  kickstarter.com
  www.kickstarter.com
  static.kickstarter.com
+ clients1.google.com
  clients2.google.com
  clients3.google.com
  clients4.google.com
@@ -299,6 +329,12 @@
  licensing.xboxlive.com
  eds.xboxlive.com
  www.xboxlive.com
+ v10.events.data.microsoft.com
+ us-v10.events.data.microsoft.com
+ eu-v10.events.data.microsoft.com
+ v20.events.data.microsoft.com
+ us-v20.events.data.microsoft.com
+ eu-v20.events.data.microsoft.com
 
 # Emptyloop hosts-file.net fake
  unlocker.emptyloop.com
@@ -1336,3 +1372,6 @@
 
 # For facebook app comments
  graph.facebook.com
+
+# For CBS app video playing
+ om.cbsi.com
