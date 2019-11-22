@@ -1393,3 +1393,9 @@
 # clamd anti virus
  clamav.net
  .clamav.net
+
+# https://github.com/notracking/hosts-blocklists/issues/194
+ images.performgroup.com
+
+# legit tool
+ daemon-tools.cc
