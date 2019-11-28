@@ -1399,3 +1399,6 @@
 
 # legit tool
  daemon-tools.cc
+
+# https://github.com/notracking/hosts-blocklists/issues/195
+ nrdp.nccp.netflix.com
