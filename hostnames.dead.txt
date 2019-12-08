@@ -1,11 +1,12 @@
 ##########################################################################################################
 # Source: https://github.com/notracking/hosts-blocklists-scripts
-# Last update: Sat 07 Dec 2019 08:14:22 AM CET
+# Last update: Sun 08 Dec 2019 08:10:54 AM CET
 #
 # This list of dead hostsnames is used and updated for https://github.com/notracking/hosts-blocklists
 #
 # All dead hostnames respond NXDOMAIN on A, AAAA, CNAME and NS requests (via 1.1.1.1)
 ##########################################################################################################
+0000mps.webpreview.dsl.net
 0077777700140002.myhomescreen.tv
 01bvxp4ze2.bradul.creatory.org
 01daa.luvbr.com
@@ -30,7 +31,6 @@
 1.forgetstore.com
 1.letvlive.com
 1.miniporn.ru
-0000mps.webpreview.dsl.net
 1.qt86.com
 1.xuexi.la
 1.zouning.net
@@ -59,9 +59,9 @@
 1y614plpluk2lelfkn67.mbservicesyorkshire.co.uk
 2-bit.net.ru
 2.kaktakkk.ru
+2.letvlive.com
 2.mobixs.cn
 2.mykora.net
-2.letvlive.com
 206938-deu-prob-mitteilung-benutzer.vorbeugung-sicher.gq
 207-87-18-203.wsmg.digex.net
 22.duote.org
@@ -159,6 +159,7 @@
 4kqd3hmqgptupi3p.859rkn.top
 4kqd3hmqgptupi3p.8kcfnk.bid
 4kqd3hmqgptupi3p.91006j.bid
+4kqd3hmqgptupi3p.9ildst.top
 4kqd3hmqgptupi3p.a0g0o7.bid
 4kqd3hmqgptupi3p.adevf4.top
 4kqd3hmqgptupi3p.anypicked.red
@@ -288,6 +289,7 @@
 4kqd3hmqgptupi3p.z8ijgn.bid
 4kqd3hmqgptupi3p.z97f9v.bid
 4w5wihkwyhsav2ha.dreamtest.at
+4w5wihkwyhsav2ha.fastdances.at
 4w5wihkwyhsav2ha.grandhaus.at
 4w5wihkwyhsav2ha.payfactor.at
 5.xlmywdemotic.review
@@ -393,8 +395,6 @@
 52uo5k3t73ypjije.cc0r87.bid
 52uo5k3t73ypjije.cfu46r.bid
 52uo5k3t73ypjije.cjc2jn.top
-4kqd3hmqgptupi3p.9ildst.top
-4w5wihkwyhsav2ha.fastdances.at
 52uo5k3t73ypjije.cm5ohx.bid
 52uo5k3t73ypjije.cm898n.bid
 52uo5k3t73ypjije.cmfkru.top
@@ -519,6 +519,7 @@
 52uo5k3t73ypjije.o08a6d.top
 52uo5k3t73ypjije.o0hwme.bid
 52uo5k3t73ypjije.o5xcnd.bid
+52uo5k3t73ypjije.o6fa2g.bid
 52uo5k3t73ypjije.o8hpwj.bid
 52uo5k3t73ypjije.o8hpwj.top
 52uo5k3t73ypjije.o9w43w.bid
@@ -668,6 +669,7 @@
 700135--nutzung-sicher-validierung.vorkehrung-sicherheitssystem.ml
 709293-de-gast-sicher-benutzer.service-paypal-info.ml
 73.duote.org
+744396-deu-prob-angabe-validierung.sicher-sicherheitsabfrage.ml
 74nfnjhlq45nkgws4hbdbk45wekfjhqw4talefgnv.curryfort.at
 758161-deutschland-nutzung-mitteilung-account.vorkehrung.gq
 758205-deu-nutzung-sicherheit-nachweis.sicherheitshilfe-schutz.cf
@@ -690,21 +692,22 @@
 8ruzz.allcpa.006238.xyz
 8shnyu9zrfgzgglwe9ed.littlematchagirl.com.au
 909.09023.31698.minijozveh.ir
+910457-deu-prob-sicherheit-account.vorkehrung-sicherheitssystem.ml
 911.sos-empleados.net
 94dbhbj3l4blaeyfgl7q45glbaer.giponfeste.at
 957328-hb.adomik.com
 9bc0jymdlmwrsb0oam8h.littlematchagirl.com.au
 9bsemeihgubtuhdwqlt1.bosch-web-marketing.co.uk
+9en.esses.ml
 9hrds.wolfcrap.at
 9oxigfyv1n.bradul.creatory.org
+9qwavrdjxnnvwtxywikj.littlematchagirl.com.au
 9skpaunhpfwohojcznz5.littlematchagirl.com.au
 a.0day.kiev.ua
 a.0e4b0abb1f69821da471689f323e049b.com
 a.6d47c1118927cf53ba9654931df80e8d.com
 a.ab90be9135de1428ae387956ebd06722.com
 a.adexchangemachine.com
-52uo5k3t73ypjije.o6fa2g.bid
-9qwavrdjxnnvwtxywikj.littlematchagirl.com.au
 a.b.c.d.e.f.gwtoys.cn
 a.b.c.d.e.gwtoys.cn
 a.b.c.d.gwtoys.cn
@@ -723,8 +726,6 @@ a.jurnalu.ru
 a.karmatrail.club
 a.killergram-girls.com
 a.lwinl.com
-744396-deu-prob-angabe-validierung.sicher-sicherheitsabfrage.ml
-9en.esses.ml
 a.mjlnbx.cn
 a.musiclegs.fr
 a.oururl.bid
@@ -856,6 +857,7 @@ ad.e-viral.com
 ad.edision-nord.it
 ad.emlakeki.com
 ad.enews.com.tw
+ad.espn.starwave.com
 ad.evozi.com
 ad.ezcybersearch.com
 ad.f1cd.ru
@@ -889,6 +891,7 @@ ad.internapoli.it
 ad.investopedia.com
 ad.isohunt.com
 ad.j4il.com
+ad.jaumo.com
 ad.jmg.com
 ad.jokeroo.com
 ad.jsnbrynb.com
@@ -909,6 +912,7 @@ ad.mittelbayerische.de
 ad.mygamesol.com
 ad.nate.com
 ad.novasol.com
+ad.obuy.tw
 ad.onad.eu
 ad.onlinechange.biz
 ad.openmatch.co.kr
@@ -949,6 +953,7 @@ ad.tgdaily.com
 ad.thehill.com
 ad.tijdbeursmedia.nl
 ad.tiscali.com
+ad.tomshardware.com
 ad.top50.to
 ad.topsport.bg
 ad.topwar.ru
@@ -1141,6 +1146,7 @@ ad209.ezcybersearch.com
 ad21.atlas.cz
 ad21.ezcybersearch.com
 ad210.ezcybersearch.com
+ad211.ezcybersearch.com
 ad212.ezcybersearch.com
 ad213.ezcybersearch.com
 ad214.ezcybersearch.com
@@ -1278,6 +1284,7 @@ ad66.ezcybersearch.com
 ad67.ezcybersearch.com
 ad68.ezcybersearch.com
 ad69.ezcybersearch.com
+ad7.atlas.cz
 ad7.ezcybersearch.com
 ad70.ezcybersearch.com
 ad71.ezcybersearch.com
@@ -1327,6 +1334,7 @@ adclient.rottentomatoes.com
 adclk.com-ssl.biz
 adcommerce.ebaypartnernetwork.com
 adcontrol.tudou.com
+adcontroller.unicast.com
 adcount.hollywood.nl
 adcount.ohmynews.com
 adcounter.globeandmail.com
@@ -1513,6 +1521,7 @@ ads.clamav.net
 ads.clara.net
 ads.clickad.com
 ads.cliclic.net
+ads.clipconverter.cc
 ads.cluster01.oasis.zmh.zope.net
 ads.cmediaworld.com
 ads.cnczone.com
@@ -1555,6 +1564,7 @@ ads.dnonline.com.br
 ads.doko.jp
 ads.dontpanicmedia.com
 ads.dot1media.com
+ads.dotfront.com
 ads.dothads.com
 ads.doubleviking.com
 ads.dumpalink.com
@@ -1599,6 +1609,7 @@ ads.fora.tv
 ads.forbes.com
 ads.forodecostarica.com
 ads.fortunecity.co.uk
+ads.fortunecity.fr
 ads.foxhome.com
 ads.foxkidseurope.net
 ads.fp.sandpiper.net
@@ -1721,6 +1732,7 @@ ads.meropar.jp
 ads.metropol.dk
 ads.miniclip.com
 ads.mininova.org
+ads.mixbg.net
 ads.mixi.jp
 ads.mmediatags.com
 ads.mndaily.com
@@ -1977,6 +1989,7 @@ ads.wikipartes.com
 ads.winvite.com
 ads.wnd.com
 ads.worldpages.com
+ads.wunderground.com
 ads.x10.com
 ads.x10.net
 ads.xboxic.com
@@ -2040,6 +2053,7 @@ ads3.ihaberadserver.com
 ads3.net2day.de
 ads3.udc.advance.net
 ads3.virtumundo.com
+ads3.wunderground.com
 ads3.zdnet.com
 ads3.zenotecnico.com
 ads4.canoe.ca
@@ -2497,6 +2511,7 @@ amazon.de.iw-konto-iwg-amazon-1p8.ru
 amazon.de.je-konto-0qf-amazon-ghw.ru
 amazon.de.jt-amazon-wx30k.ru
 amazon.de.my-amapay.com
+amazon.de.myamapay.com
 amazon.de.neue-agbs.com
 amazon.de.neueagb.com
 amazon.de.newssend0.com
@@ -2649,6 +2664,7 @@ apple.identityverificaition.com
 apple.it-secure1.store.apple.apple-idacount-italia.terapt.com
 apple.itunes.confirm.your.account.go.first.page.now.apple.mehmetaslan.com.tr
 apple.itunesconnect.su
+apple.map-iphone.com
 apple.mapconnect.info
 apple.phishing.at.all.possible.subdomins.of.gwtoys.cn
 apple.verify-billingaccount.com
@@ -2891,6 +2907,7 @@ bankofamerica.chat-host.org
 bankofamerica.com-account-verifcation-update.com.s4disk.com
 bankofamerica.com-activity.soundstrategyaccounts.com.au
 bankofamerica.com-onlinebanking-online-banking.go.thevoiceofchinese.net
+bankofamerica.com.checking.information.details.maqlar.net.br
 bankofamerica.com.earth-eg.org
 bankofamerica.com.libfoobar.so
 bankofamerica.com.login.informtion.update.new.myworkplacedigest.com
@@ -2945,23 +2962,6 @@ banner.wirenode.com
 banner2.babenet.nl
 banner2.isobarturkiye.net
 banner2.opovo.com.br
-910457-deu-prob-sicherheit-account.vorkehrung-sicherheitssystem.ml
-ad.espn.starwave.com
-ad.jaumo.com
-ad.obuy.tw
-ad.tomshardware.com
-ad211.ezcybersearch.com
-ad7.atlas.cz
-adcontroller.unicast.com
-ads.clipconverter.cc
-ads.dotfront.com
-ads.fortunecity.fr
-ads.mixbg.net
-ads.wunderground.com
-ads3.wunderground.com
-amazon.de.myamapay.com
-apple.map-iphone.com
-bankofamerica.com.checking.information.details.maqlar.net.br
 bannerads.mantecabulletin.com
 bannerads.ostbayern-tourismus.de
 bannerbrazil.pontob.com.br
@@ -2993,6 +2993,7 @@ banners.heavenmedia.com
 banners.hetnet.nl
 banners.inetfast.com
 banners.ipotd.com
+banners.japantoday.com
 banners.kfmb.com
 banners.krsk.ru
 banners.lifeserv.com
@@ -3274,6 +3275,7 @@ ca.pf.fcgab.com
 ca.service.enligne.credit-agricole.fr.stb.entreebam.inc-system.com
 ca18740.tmweb.ru
 cache.elmundo.es
+cache.unicast.com
 cacheserve.prestigecasino.com
 cadas-atauliza.esy.es
 caf230cs.beget.tech
@@ -3827,6 +3829,7 @@ craigslist.account.verification.topmcf.com
 crashes.autodanger.ru
 creampie.afdss.info
 create.followerinfo.xyz
+creatiby1.unicast.com
 creative.ad121m.com
 creative.ak.facebook.com
 creative.ak.fbcdn.net
@@ -4016,6 +4019,7 @@ diazepam.razma.net
 dietoftoday.ca.pn
 digi.adhostcenter.com
 digital-cable-descrambler.planet-high-heels.com
+digitauact.sslblindado.com
 dilalpurhs.edu.bd
 dileconme.hotmail.ru
 dimc.edu.bd
@@ -4108,6 +4112,7 @@ dropbox.digitalsurveyorske.com
 dropbox.fr-voir-le-documet.eu-inc.info
 dropbox.i9edu.net.br
 dropbox.lolog.net
+dropbox.mini-shop.si
 dropbox.preciouspetforever.com
 dropbox.weelpointz.com
 dropbox.xclubtoronto.com
@@ -4190,6 +4195,7 @@ e.967nd.cn
 e.980he.cn
 e.9mf0a.cn
 e.9n3ig.cn
+e.9xws7p.cn
 e.admin60.com
 e.adsdsu.cn
 e.aduiz.com
@@ -4564,6 +4570,7 @@ ffoqr3ug7m726zou.hy6dxo.bid
 ffoqr3ug7m726zou.hzrekn.top
 ffoqr3ug7m726zou.i4ucg2.bid
 ffoqr3ug7m726zou.iocvou.top
+ffoqr3ug7m726zou.jye7lt.top
 ffoqr3ug7m726zou.kfymbh.top
 ffoqr3ug7m726zou.l4dlll.bid
 ffoqr3ug7m726zou.l6r7i9.top
@@ -4606,6 +4613,7 @@ ffoqr3ug7m726zou.yv3uwa.bid
 ffoqr3ug7m726zou.zee0xr.top
 ffoqr3ug7m726zou.zio9yg.bid
 ffoqr3ug7m726zou.zjfbxy.top
+ffoqr3ug7m726zou.zkxb17.top
 ffoqr3ug7m726zou.zn90h4.bid
 ffoqr3ug7m726zou.zpjpsf.top
 ffoqr3ug7m726zou.zu3fzc.bid
@@ -4902,6 +4910,7 @@ hajierpoil8.pe.hu
 halleberrynude.ca.tt
 hamrin0t.beget.tech
 hanata.pp.ua
+hao.315hyw.com
 harry.bradweb.co.uk
 harvardbp.vo.llnwd.net
 hbpub.vo.llnwd.net
@@ -4949,6 +4958,7 @@ hjhqmbxyinislkkt.12gsjz.top
 hjhqmbxyinislkkt.12m58x.top
 hjhqmbxyinislkkt.12zucf.top
 hjhqmbxyinislkkt.13bcem.top
+hjhqmbxyinislkkt.13eymq.top
 hjhqmbxyinislkkt.13fmby.top
 hjhqmbxyinislkkt.13khiv.top
 hjhqmbxyinislkkt.13kn4l.top
@@ -5184,6 +5194,7 @@ images.skenzo.com
 images.topguncustomz.com
 images.v3.com
 images2.nytimes.com
+imagesc.net-temps.com
 imageserv.livingnet.de
 imamnhearte.hotmail.ru
 img.ads.kompas.com
@@ -5396,6 +5407,7 @@ js.rutor.net.pl
 js.selectornews.com
 js.static.tebaidu.cn
 js.vidoza.co
+jskrnekewe.mofans.net
 json.gewuwen.com
 jsys.analogpoint.com
 judithrust.5gbfree.com
@@ -5408,6 +5420,7 @@ justinbieber.reviewbuckz.com
 jutrack.dp.ua
 jvauto29.free.fr
 jvlqkkutcpgjtwyu2atl.littlematchagirl.com.au
+jxad.jx163.com
 jxlog.istreamsche.com
 jyareview-document.pdf-iso.webapps-security.review-2jk39w92.ab5nights.com
 jybsac.net.pe
@@ -5494,6 +5507,7 @@ krsa2gno.youre-todays-lucky-sweeps-winner.com
 kserv.krldysh.ru
 kt.garcom.kz
 kuciorn.hosstinger.info
+kudunkal.heliohost.org
 kuhni.goodtrend2.ru
 kukuku0.alarmandburglarsystems.com.au
 kuliahpagi.96.lt
@@ -5753,6 +5767,7 @@ m.1x3td.cn
 m.1yjlm.com
 m.247pb.cn
 m.24ihe.cn
+m.3r76q.cn
 m.3t48d.cn
 m.3tx8zr.cn
 m.408uo.cn
@@ -6099,6 +6114,7 @@ mhsn.edu.bd
 micardiss.ql.st
 microad.thumbnail-web.com
 microencapsulation.readmyweather.com
+microsoft-portal.dynv6.net
 microsoft.com-it2-dye1.premi-fedelta-degli-utenti.us
 microsoft.com-msoft52.info
 microsoft.shopgoat.co.in
@@ -6261,6 +6277,7 @@ mtccsun.imtech.ernet.in
 mtquiz.blufysh.com
 mtrack.port25251.com
 mtrcs.samba.tv
+mtsnu-miftahululum.sch.id
 mtu.edu.quizandshare.com
 mtx.allabout.co.jp
 mu-in-f167.1e100.net
@@ -6333,6 +6350,7 @@ nbparking-lb-1977168523.us-east-1.elb.amazonaws.com
 nc-log.excite.co.jp
 nc2199.eden5.netclusive.de
 ncs.eadaily.com
+nd11mx1-a-fixed.sancharnet.in
 ndl1mc1-a-fixed.sancharnet.in
 ndl1mx1-a-fixed.sancharnet.in
 neirong.baidu.com
@@ -6999,6 +7017,7 @@ paypal.com.signin.webapps.com-unsualactivity.cf
 paypal.com.ticket-case-ld-3651326.info
 paypal.com.uk.signin.priauth.nav.f9a348bf60bbc6569f2.solutionslaw.com.au
 paypal.com.update-cgi-informationsecour.mxhecqbulyadinru4pjwgofs3z5ctiady6mk.mxhecqbulyadinru4pjwgofs3z5ctiady6mk.mxhecqbulyadinru4pjwgofs3z5ctiady6mk.hrbelectric.com
+paypal.com.update-limited.accounts.interdom.info
 paypal.com.verif-case-id-0005-1119-6663-2954.com
 paypal.com.verif-case-id-2220-7773-6664-5145.com
 paypal.com.verify.account.locale-x.en-us.logged-in.account-summary.verify.gon543.com
@@ -7354,6 +7373,7 @@ premios.promociones-viabcp.ml
 premium.ascensionweb.com
 presleywebs.uk.pn
 presse.grpvessel.com
+priscure.heliohost.org
 private-myetherwallet.quanta.im
 privati-nexi-it-sicurezza-aggiornamento.kozow.com
 privati.portale-titolari-nexi-italia-online-verifica-nexi.it.infomazione.nexi-identita.conto.nexi.codicecliente.3224521.info.nexi.oceanfronthotels.com
@@ -8001,6 +8021,7 @@ secure.160117rd.xyz
 secure.alert.bank.ofamerica.check-account.fitwoodlands.com
 secure.alior.przelewy24-7.pl
 secure.apple.appleid.info.momcpum.com.my
+secure.auth.kevinyou.com
 secure.auth.login.wf-south.today
 secure.bank-america.cf
 secure.bankofamerica.account-disabled.verduresarl.com
@@ -8134,7 +8155,9 @@ sentia.mite.ac.in
 sentrix.wltechnology.com
 seomatrix.webtrackingservices.com
 seoshop.taurosmedia.com
+serg.pics-money.ru
 serv.ads.pixiv.org
+serv.bangsri.web.id
 servads.aip.org
 servbot.furaffinity.net
 serve.m-ave.net
@@ -8162,6 +8185,7 @@ service-confirmation-customer-info.freeegyptradio.com
 service-confirmation-customer-support.traxlerenterprises.com
 service-confirmation-customers.jakarta6666666.com
 service-paypal.provab.com
+service.a1aruba.com
 service.avail.net
 service.bfast.nl
 service.confirm-id.rpwebdesigner.com.br
@@ -8198,6 +8222,7 @@ sfd.lahazone.com
 sfhfdlf.5gbfree.com
 sfrsfr1g.beget.tech
 sgikjkjftfg.webstarterz.com
+sgpes.trt11.jus.br
 sgx3.cloudhost.id
 shantuan.meyouandtlc.com
 share7.xii.jp
@@ -8266,6 +8291,7 @@ siteadvisor.com-br.site
 sitebrand.geeks.com
 sjbaiduadv1.redou.com
 sjboc.dreamhosters.com
+ska.energia.cz
 skcnimfibivt35otaq80.mbservicesyorkshire.co.uk
 skill.skilljam.com
 sky.kies.co.kr
@@ -8290,6 +8316,7 @@ smknurulislamgeneng.sch.id
 smmu-ipv6.smmu.edu.cn
 smolny.https443.org
 smpn2blado.sch.id
+smpn2wonosalamdemak.sch.id
 smpn5jpr.sch.id
 smpn9cilacap.sch.id
 smsboxinfoserveursillimite.esy.es
@@ -8465,6 +8492,7 @@ stats.welt.de
 stats.yourminis.com
 stats2.dooyoo.com
 stats2.rte.ie
+status.kino-dom.org
 steam.steamscommunity.pro
 steamcommunity.steamid.gq
 steamgamesnetwork.net.com
@@ -8519,6 +8547,7 @@ suntrust.com-personal.ml
 suntrust.comeoqwerty.pranavitours.com
 suntrustealrts.esy.es
 super.spx.co.uk
+superwebnet2018-com.umbler.net
 suportfanpage2.accountfanspage9888.ml
 support-account.chordguitarkito.com
 support-info.pe.hu
@@ -8780,6 +8809,7 @@ track.msadcenter.khrg.com
 track.msadcenter.kpuo.com
 track.msadcenter.lngl.com
 track.msadcenter.mazp.com
+track.msadcenter.mkqa.com
 track.msadcenter.moas.com
 track.msadcenter.nge.com
 track.msadcenter.pcp.com
@@ -8907,10 +8937,12 @@ trk.alskeip.com
 trk.flirtsformen.site
 trk.newtention.net
 trk.yadomedia.com
+tronuprising.heliohost.org
 trutor.org.pl
 ts.wikianime.ru
 tsbonlinesupport.altervista.org
 tsms-ad.tsms.com
+tsr.zlatoff.ru
 tste.ivillage.com
 tste.mcclatchyinteractive.com
 tt.onmypc.org
@@ -8964,6 +8996,7 @@ uiwhjhds.hol.es
 uk-apple-update.godsrestorationministries.org
 uk3oi.adgze.cn
 uket5rhai9wuxn5xhfvm.littlematchagirl.com.au
+ukonline.hc0.me
 ukrsvit.ukrmir.info
 ulic.baidu.com
 ultra.infoart.ru
@@ -8973,6 +9006,7 @@ uniprix.nouvelobs.com
 uniprix.sdv.fr
 uniservi.org.pk
 united-airline-fare.100pantyhose.com
+unknown.counsellor.gov.cn
 unlink.altitude.lv
 unlock.sms.code.confirm.wf-south.today
 uno.flipflapflo.net
@@ -9174,6 +9208,7 @@ update-account.wellsfargo.optimumcash.net
 update-apple-compte.serverid2090.com
 update-apple.com.betawihosting.net
 update-infored.jalotuvua.com
+update-now-chase.com.usahabaru.web.id
 update-usaa.com.usahabaru.web.id
 update-your-account-information.pedelectric.com.au
 update-your-account.unidadversusindependencia.es
@@ -9369,6 +9404,7 @@ view.protect.docxls.arabiantentuae.com
 vip.cfcnet.to
 vip.liguhyhy.xyz
 vip.molisija.vip
+vip.pai76.com
 vip1.tw.adserver.yahoo.com
 vipminisowt.esy.es
 virusdetection.com-one.net
@@ -9772,6 +9808,7 @@ wowonder.alvarohurtado.com
 wp.twells.com.hostingmurah.co
 wp.zontown.com
 wpad.cinci.rr.com
+wpconte.heliohost.org
 wrosttaygb.5gbfree.com
 wrutor.org.pl
 ws.xjb.ac.cn
@@ -10266,6 +10303,7 @@ www.weekendlk.top
 www.westbournec.com
 www.whatuwhatuwhatuwant.com
 www.whereugetxxx.com
+www.wifijia.net
 www.wilddreams.info
 www.wnmssjejsn.com
 www.womenbaby.com
@@ -10316,6 +10354,7 @@ www172.lpwangzhan.com
 www18.sonho-de-natal-e-aqui.website
 www198.jixnbl.com
 www2.a-counter.kiev.ua
+www2.account-update.amazon.co.jp.e07835d95d66576e95afa9646d9e94d3.top
 www2.activebestakamaiflash.icu
 www2.ad.tomshardware.com
 www2.amazon.co.jp.anamz-ooor-co.monster
@@ -10337,6 +10376,7 @@ www2.smalltypeconcreteflash.rocks
 www2.topgoldhowflash.icu
 www2.upgradebestonlineflash.icu
 www2.yoursseparatebestaflash.icu
+www21.counsellor.gov.cn
 www214.ttrtw.com
 www218.aeconomiaquenaoacaba.website
 www230.dm599.com
@@ -10404,6 +10444,7 @@ x.goo.ne.jp
 x.vipergirls.to
 x0md.r0tfo.top
 x0pocln5.beget.tech
+x25.2mydns.com
 x25.plorp.com
 x5.goo.ne.jp
 x5engqblicfklf6x0mf6.littlematchagirl.com.au
