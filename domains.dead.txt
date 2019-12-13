@@ -1,11 +1,14 @@
-##########################################################################################################
+###############################################################################################################
 # Source: https://github.com/notracking/hosts-blocklists-scripts
-# Last update: Fri 13 Dec 2019 09:13:05 AM CET
+# Last update: Fri 13 Dec 2019 09:24:44 AM CET
+# Number of dead hostnames: 28183
+# License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+# Buy me a beer!: https://www.paypal.me/notracking
 #
 # This list of dead domains is used and updated for https://github.com/notracking/hosts-blocklists
-#
-# All domains in this list are unregistered and can be safely removed from any blocklist
-##########################################################################################################
+# All domains in this list have been unregistered based on the whois data for at least 3 days in a row
+# Domains listed in here can be safely removed from any blocklist
+###############################################################################################################
 000007.ru
 0133hao.net
 02jffu242n.com
