@@ -198,6 +198,30 @@
  letsencrypt.org
 .letsencrypt.org
 
+# Hosts used for supplying blocklist sources
+ mvps.org
+.mvps.org
+ someonewhocares.com
+.someonewhocares.com
+ yoyo.org
+.yoyo.org
+ lehigh.edu
+.lehigh.edu
+ dshield.org
+.dshield.org
+ shallalist.de
+.shallalist.de
+ adtidy.org
+.adtidy.org
+ easylist-downloads.adblockplus.org
+ www.void.gr
+ void.gr
+ www.fanboy.co.nz
+ fanboy.co.nz
+ phishing.army
+ osint.bambenekconsulting.com
+ bambenekconsulting.com
+
 # Various entries preventing breaking of functional behaviour
  dlglobal.qq.com
  com-verification.id
