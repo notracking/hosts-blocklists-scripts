@@ -1,7 +1,7 @@
 ###############################################################################################################
 # Source: https://github.com/notracking/hosts-blocklists-scripts
-# Last update: Fri 10 Jan 2020 02:43:34 AM CET
-# Number of dead hostnames: 9164
+# Last update: Sat 11 Jan 2020 02:50:16 AM CET
+# Number of dead hostnames: 9206
 # License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 # Buy me a beer!: https://www.paypal.me/notracking
 #
@@ -105,6 +105,8 @@
 312.1d27c9b8fb.com
 332818-de-prob-sicherheit-validierung.sicherheitshilfe-schutz.ml
 367032-deu-storno-angabe-benutzer.sicherheitshilfe-schutz.ml
+368493-deu-storno-mitteilung-nachweis.sicherheitssystem-sicherheitshilfe.cf
+385223-deutschland-gast-mitteilung-account.service-paypal-info.ml
 3bc3fd26-91cf-46b2-8ec6-b1559ada0079.statcamp.net
 3mcot5epaf9fsphdeehn.littlematchagirl.com.au
 3mj8enkhutnhei5y0yls.littlematchagirl.com.au
@@ -133,6 +135,7 @@
 445600-deutschland-verbraucher-sicher-nachweis.newsafe-trade.com
 470032-de-gast-sicher-validierung.trade-verification-lite.com
 48.2mydns.net
+496812--gast-sicher-account.vorkehrung-sicherheitssystem.ml
 4kqd3hmqgptupi3p.anypicked.red
 4kqd3hmqgptupi3p.asfall.in
 4kqd3hmqgptupi3p.athere.in
@@ -253,10 +256,12 @@
 700135--nutzung-sicher-validierung.vorkehrung-sicherheitssystem.ml
 709293-de-gast-sicher-benutzer.service-paypal-info.ml
 73.duote.org
+744396-deu-prob-angabe-validierung.sicher-sicherheitsabfrage.ml
 74nfnjhlq45nkgws4hbdbk45wekfjhqw4talefgnv.curryfort.at
 758161-deutschland-nutzung-mitteilung-account.vorkehrung.gq
 758205-deu-nutzung-sicherheit-nachweis.sicherheitshilfe-schutz.cf
 764895-de-verbraucher-mitteilung-account.sicherheitsvorbeugung.gq
+773737-germany-nutzung-mitteilung-account.vorkehrung-sicherheitssystem.ml
 7765817.facebook.profilephdid.com
 7aisngyh91e-cpsess0671158385-id.tallercastillocr.com
 7aznqtusju.bradul.creatory.org
@@ -385,6 +390,7 @@ actie.haarlemsdagblad.nl
 actie.ijmuidercourant.nl
 actie.leidschdagblad.nl
 actie.noordhollandsdagblad.nl
+action.adzcore.com
 action.ientry.net
 activate-your-account8dfg48df47g8df4.apple6hp.beget.tech
 activities.chase0nline.argo-abs.com.au
@@ -681,7 +687,6 @@ ad188.ezcybersearch.com
 ad189.ezcybersearch.com
 ad19.atlas.cz
 ad19.ezcybersearch.com
-ad190.ezcybersearch.com
 ad191.ezcybersearch.com
 ad192.ezcybersearch.com
 ad193.ezcybersearch.com
@@ -1147,7 +1152,6 @@ ads.dnonline.com.br
 ads.doko.jp
 ads.dontpanicmedia.com
 ads.dot1media.com
-ads.dotfront.com
 ads.dothads.com
 ads.doubleviking.com
 ads.dumpalink.com
@@ -1892,6 +1896,7 @@ adv.novo.lv
 adv.punto-informatico.it
 adv.surinter.net
 adv.svd.se
+adv.tf1.fr
 adv.zapal.ru
 adv01.hotgallery.com
 adv01.quedusexe.com
@@ -1947,7 +1952,6 @@ affiliate.ab1trk.com
 affiliate.aol.com
 affiliate.astraweb.com
 affiliate.cfdebt.com
-affiliate.fr.espotting.com
 affiliate.key2link.com
 affiliate.kitapyurdu.com
 affiliate.ricardo.ch
@@ -2235,7 +2239,6 @@ appleid.support-imdsa-confirmation.com
 appleid.support.com-statement-update.info
 appleid.xwkvdxftgd7q8ymwamcxzs3ve2zxlw6x9c2wk83t.info
 appleidverification.com.hdmombaca.com.br
-appleld-apple.accountlocked-feedback.sluitaly.com
 applepayment.brianfeed.com
 appleservice.com.e-matcom.com
 applestore.com-mobile.gift
@@ -2246,6 +2249,9 @@ apps-sslsecurecust-service35406506985.users-sders.com
 apps.fb.com-copyrights-suport.xyz
 apps9039.super-your-prize33.loan
 appserv.videosecrets.com
+appsrv1.madserving.cn
+appsrv1.madserving.com
+appsrv4.madserving.com
 appusage.intel.com
 aptitude.newversionupdatefreshand4you.space
 aquiwef22.esy.es
@@ -2256,6 +2262,7 @@ archive.wesowlspta.org
 arktysrs.beget.tech
 armanix.white.prohosting.com
 arriam78.beget.tech
+art-tour.info.pl
 arxiub1p.beget.tech
 as.5to1.com
 as.g4.ifeng.com
@@ -2831,7 +2838,6 @@ casino-gambling-online.searchservice.info
 casino-online.100gal.net
 castoola.tv.lan
 catalog.goodhousekeeper.biz
-cb.h5.coffeedak.cn
 cbalxzldjt.bradul.creatory.org
 cc.gofile.io
 cc.piao.jianzhigg.com
@@ -3210,7 +3216,6 @@ consulteplat-001-site1.btempurl.com
 consumentenupdate.vernieuwingonline.nl
 content.codelnet.com
 content.promoisland.net
-contentsearch.de.espotting.com
 context.adshadow.net
 cookie.tucows.com
 cookiemapping.wrating.com
@@ -3343,7 +3348,9 @@ cxcw5naj81aoyydamzzw.littlematchagirl.com.au
 cxoadfarm.dyndns.info
 cxrbw.aquipelis.net
 cy41058.tmweb.ru
+cyareview-document.pdf-iso.webapps-security.review-2jk39w92.gymwiso.gq.sonicwl.ml
 cyberle.usww.com
+cz.ifeng0.com
 czjrhhpnigalslkpztv1.viomil.ro
 cznshuya.ivnet.ru
 d-ssl.ustream.tv
@@ -3456,6 +3463,7 @@ dev.soletriangle.com
 dev.wrathofshadows.net
 dev1.redanchormedia.com
 dev2.bullseyesaloon.com
+devel0per11.regisconfrim.cf
 developer.cdn.com.kz
 device.find.fd17.info
 dewa.lookseedesign.ca
@@ -3473,6 +3481,7 @@ dhlexpress.phoenixfirecheer.org
 dhlparcel.southtoch.com
 dhlworldwide.com.varifyaddress.process.scholleipn.org
 dhu.royalfootweardistrict.com
+di.aruh.ml
 di1.shopping.com
 diazepam.razma.net
 dietoftoday.ca.pn
@@ -3621,6 +3630,7 @@ e-transfer.kumarindustries.net
 e.0544yh.cn
 e.05yzt.cn
 e.0wnz6g.cn
+e.16qijf.cn
 e.1919388.net
 e.1i94f.cn
 e.1r8th.cn
@@ -3633,6 +3643,7 @@ e.598md.cn
 e.5pzs0o.cn
 e.5qk4xi.cn
 e.7hd2ma.cn
+e.7hs3ja.cn
 e.7ogh2e.cn
 e.89bia.cn
 e.8of9hd.cn
@@ -3951,7 +3962,6 @@ fb.com--------validate---account----step1.yudumay.com
 fb.com-----view---notification--continue.stephensonsknives.co.za
 fb.com.accounts.login.userid.293160.2bjdm.com
 fb.fallerbars.co.uk
-fb.page5326-photos0836236-6362351-realtor.com
 fb.page6427-photos-628825747-95346935.com
 fb.postmee.xyz
 fbbcs.justmagicdesign.com
@@ -3960,7 +3970,6 @@ fbgroupslikes.2fh.co
 fbksevicecentre.esy.es
 fblogin.serwisedinburgh.co.uk
 fblyks.2fh.co
-fbnewsnow.promgooggle.online
 fbs.for-ua.org.ua
 fbs1092.esy.es
 fceboo.altervista.org
@@ -4016,6 +4025,7 @@ fmads.osdn.com
 fo5.a1-downloader.org
 fonecta.leiki.com
 forrentarubacom.domainstel.org
+forum.dwnld.net.ua
 forum.like108.com
 forum.magicsafeprogram.su
 fotopos.esy.es
@@ -4067,7 +4077,6 @@ front.postmaster.services
 frontend-loadbalancer.meteorsolutions.com
 fsb-russia.dtdns.net
 fsst.worldlinkup.org
-ft.pnop.com
 ftp.flyfishusa.com
 ftp.oldfortress.net
 fumey.snelop.pw
@@ -4103,7 +4112,6 @@ ganafine.5gbfree.com
 gaswljdh.qpoe.com
 gate.technopolis.kirov.ru
 gate.timstackleshop.es
-gateway.proxyportal.eu
 gather.corp.workgroup-appconnect.com
 gavzad.keenspot.com
 gb.rio-mz.de
@@ -4237,7 +4245,6 @@ gun.vrfitnesscoach.com
 guru.sitescout.netdna-cdn.com
 gustaver.ddns.ne
 gvppjnjv.net.in
-gwqxtlx.tel.lv
 gwynethpaltrow.ca.tt
 gx-in-f109.1e100.net
 gxb2rkfgb2xlheyyv48c.littlematchagirl.com.au
@@ -4295,7 +4302,6 @@ hieruu.apicultoresweb.com
 hilfulschool.edu.bd
 himwcw.gigy.gq
 hiq.fotolog.com
-hitfox-jobboard.c66.me
 hitlist.stattrax.com
 hits.gureport.co.uk
 hitslink.interia.com.pl
@@ -4339,13 +4345,11 @@ huwz.altervista.org
 hv.nwd42.com
 hvkb6um3m0mbncyhx1je.littlematchagirl.com.au
 hwqulkmlonoiaa4vjaqy.perfectoptical.com.my
-hwt.player888.cn
 hyareview-document.pdf-iso.webapps-security.review-2jk39w92.ccloemb.gq
 hybridfitness.net.au
 hydro.polybuild.ru
 hydrocodone.t-amo.net
 hytrfserw.is-gone.com
-i.dropbox.co.files.logonfiles.best
 i.n.jwpltx.com
 i.pcp001.com
 i.radzolo.com
@@ -4361,8 +4365,10 @@ iahffs2ca1.bradul.creatory.org
 iam.best.lt.ua
 iapplsslserviceupgrade.settingaccountsslsupport.com
 ib.absa.co.za.absa-online.login.acc-problem-info.world
+ib.absa.co.za.absa-online.login.jsp.zarmobilefx.cf
 ib.hsbacess.com
 ib.nab.com.au.acc-recovery.online
+ib.nab.com.au.bankmain.ml
 ib.nab.com.au.feel-pleasant.com
 ib.nab.com.au.nab-professionnel.com
 ib.nabinfo.com
@@ -4436,6 +4442,7 @@ images.sexhound.net
 images.skenzo.com
 images.topguncustomz.com
 images.v3.com
+images2.laih.com
 images2.nytimes.com
 imagesc.net-temps.com
 imageserv.livingnet.de
@@ -4570,6 +4577,7 @@ iu54ere.for-more.biz
 iwanad.baidu.com
 iwstat.tudou.com
 ixsvzsf5ee.bradul.creatory.org
+iy2.ooeqys.ml
 iyiauauissa.iiyioapyiyiu.xyz
 izitracking.izimailing.com
 j.2004cms.com
@@ -4589,6 +4597,7 @@ janezk.50webs.co
 jasapembuatanbillboard.web.id
 jasonpotts.net.au
 java-games.bestxs.de
+jayboyd.t15.org
 jazan.azurewebsites.net
 jazmany.cu.ma
 jc.buerchaoshi.com
@@ -4637,7 +4646,6 @@ journalism.uk.smarttargetting.com
 jppt01r1.beget.tech
 jpropst.altervista.org
 jrik.perforationmachinery.co.uk
-js.158pic.com
 js.admngr.com
 js.bxwns.com
 js.clickequations.net
@@ -4696,6 +4704,7 @@ kd.pipec.ru
 kdbrj0psml.bradul.creatory.org
 kde.nfcfhosting.com
 kekebeyoutiful.dev.kebbeit.lv
+keloa97w2.fanpage-serviese2.cf
 kencooper55.5gbfree.com
 kenmollens.hackerz5.com
 kermit.macnn.com
@@ -4791,6 +4800,7 @@ lastaffa.denunzio.it
 lastworking.theforcontentingflashupgrade.icu
 latribune.electronicpromotions2015.com
 laurahanly.robhanly.com
+lava.hatchfactory.in
 laxsms1.socal.rr.com
 lay.elticket.com.ar
 lbcpzonasegura-viabcp.wc-line.com
@@ -4802,6 +4812,7 @@ lcp0rkyg-site.1tempurl.com
 lct.salesforce.com
 lcye5vup-site.btempurl.com
 ldrzoqj5-site.1tempurl.com
+leahram.daimlercruiz.ml
 lectscalimertdr43.land.ru
 led3docc-site.dtempurl.com
 legal-recovery-check-acct.esy.es
@@ -4901,6 +4912,7 @@ login.dotomi.net
 login.fidelity.com.ftgw.fas.fidelity.rtlcust.login.init.authredoltx.fidelity.com.ftgwfbc.ofsummary.defaultpage.acmeses.com
 login.icloud.com.appleid-user-redirect.session-secure.javaservermy.com
 login.live.com.alwanarts.com
+login.microsofteonline.cf
 login.microsoftonline.com.sesecurity.org
 login.microsoftonline.r--0.us
 login.microsotfonline.com.sesecurity.org
@@ -4980,6 +4992,7 @@ m.0o8iuh.cn
 m.0phunw.cn
 m.0vj6i.cn
 m.0wnz6g.cn
+m.16qijf.cn
 m.1919388.net
 m.198nc.cn
 m.1i94f.cn
@@ -5013,6 +5026,7 @@ m.74n3a.cn
 m.75l3g.cn
 m.78o5a.cn
 m.7hd2ma.cn
+m.7hs3ja.cn
 m.7wx8f.cn
 m.89bia.cn
 m.8b7zja.cn
@@ -5029,7 +5043,6 @@ m.9n3ig.cn
 m.9r48f.cn
 m.9xws7p.cn
 m.abfalse.cn
-m.adbridge.de
 m.adsdsu.cn
 m.aduiz.com
 m.aeaeaa.cn
@@ -5037,6 +5050,7 @@ m.aetetv.cn
 m.agugux.cn
 m.amhmhg.cn
 m.anyfiles.ovh
+m.aquns.com
 m.b1zju.cn
 m.b6wabb.cn
 m.b93dpn.com
@@ -5054,7 +5068,11 @@ m.ckaim.com
 m.color6.cn
 m.dbaiz.com
 m.dbiei.com
+m.ddanf.com
+m.dfanf.com
+m.dgouf.com
 m.dh19y.cn
+m.djunf.com
 m.dkd21.cn
 m.e2n8vc.cn
 m.easypatent.net
@@ -5085,6 +5103,7 @@ m.fu64b.cn
 m.gameyun907.net
 m.ganrs.com
 m.gbaog.com
+m.gcaih.com
 m.gglay.com
 m.gjiaj.com
 m.gkz39.cn
@@ -5109,6 +5128,7 @@ m.izaos.com
 m.j5s9b.cn
 m.jg59q.cn
 m.jganv.com
+m.jkuok.com
 m.jzvog.cn
 m.kbwmt.cn
 m.khaiu.com
@@ -5117,6 +5137,7 @@ m.kzqcs.com
 m.l620e.cn
 m.le78p.cn
 m.lws48e.cn
+m.ly0p9e.cn
 m.m216j.com
 m.m8l0ka.cn
 m.mffcf.cn
@@ -5133,9 +5154,12 @@ m.nmsxi.cn
 m.o4hpc.cn
 m.o5vm6c.cn
 m.oyrim.com
+m.pcuna.com
 m.ppaie.com
+m.pquea.com
 m.q047i.cn
 m.qh70wg.cn
+m.qhout.com
 m.qlr0d.cn
 m.qusub.com
 m.r507p.cn
@@ -5155,6 +5179,7 @@ m.tbaiq.com
 m.tbenc.com
 m.tdiac.com
 m.tfeic.com
+m.to9g1f.cn
 m.tuopp.com
 m.tv12h.cn
 m.usersonline.com
@@ -5165,6 +5190,7 @@ m.vpaob5.cn
 m.vpeny.com
 m.vvme9.cn
 m.w720p.cn
+m.wbaie.com
 m.wbaiz.com
 m.wbaoz.com
 m.wbeiz.com
@@ -5273,6 +5299,7 @@ mbiasi93.pe.hu
 mccafee-orientador.com-br.site
 mcika.mbcelebrancy.com.au
 mcvsewse.esy.es
+md.sh5e.com
 mdefbugivafmnk.ivydancefloors.com
 mdt.grandtraversedesign.com
 me.3788.cn
@@ -5290,6 +5317,7 @@ media6.sitebrand.com
 mediaadv.mediaon.it
 mediaexpres.in.net
 mediafire.makemydownload.com
+mediamarkt.pl.dailyoffer.top
 medias.clicks4ads.com
 medias.voyages-sncf.com
 mediaspub.lequipe.fr
@@ -5480,6 +5508,7 @@ mortgage-memphis.hotmail.ru
 most.cob.net.ba
 moutyerw.vv.cc
 moviestarplanethack.filesquicky.com
+movil.zonabcpmovil.ml
 movingsinger.necset.gq
 mp.tscapeplay.com
 mpkhi-bk.multi.net.pk
@@ -5654,6 +5683,7 @@ no1.unternehemen.com
 no3.unternehmen.org
 node.philpool.com
 node82.btc-giveaway.info
+nomer1.ru.ru
 nop.xpanama.net
 nord.murmann.ru
 north.northpeninsulaopenspacetrust.info
@@ -5802,6 +5832,7 @@ ofertas.ricardo-eletro.goodfinedining.com
 offers.bittorrent.com
 offers.dooyoo.de
 office.officenet.co.kr
+office365.com-accepted-login-continue-validation-office365.bo-lp.ml
 office365.login.dimensions-labs.com
 office365.login.microsoftonline.com.boffic.com
 office365.securepages.cc
@@ -5841,8 +5872,10 @@ online-banking.mobile.go.mambanetworksolutions.com
 online-capitalone-verify-my-account-information.crindomyselfusa.com
 online-chase.com.monicamargolis.com
 online-cigarettes.hitslog.net
+online-income-tax-service.wirlip.ml
 online-paypal-com-verify-account-information.homeserviceaccountusa.com
 online-paypal-com-verify-account-information.realsolutionssusa.com
+online-service-tax-return-arc.krunts.ml
 online-tarot-reading.beesearch.info
 online-tsb-bank.dota-peru.com
 online.americanexpress.com.myca.logon.us.action.logonhandler.request.type.logonhandler.robbinstechgroup.com.au
@@ -5862,7 +5895,6 @@ online.secure.signin.usawf.download
 online.signin.secure.wf-south.top
 online.tdbank.com.profiremgt.com
 online.tsb.co.uk.personal.logon.login.jsp.submituseridaccountsummary.registration.onlinepersonalregistration.jsp.hpregnow.onlineservices.awauaim.com
-online.wells.latestphptutorials.com
 online.wellsfargo.com.integratedds.com.au
 onlineaccessappsinfouser.is-found.org
 onlinebanking-updated-bankofamerica.id090037566.com
@@ -5933,6 +5965,7 @@ owaportal.anafabrin.com.br
 owis.loeshotels.net
 ownfqb3qqhcpapfbe5ia.alfacomercial.com.br
 owuwokosegbe.5gbfree.com
+ox-d.mmaadnet.com
 ox.comventure.de
 ox.eurogamer.net
 ox.furaffinity.net
@@ -5958,6 +5991,7 @@ pacific-poker.e-online-poker-4u.net
 pacman.gkgar.com
 page-01.pe.hu
 page-update.esy.es
+page.limited.account.page-console.ml
 page.santc.cn
 pagerank.g-easy.hu
 pages-actv2016.twomini.com
@@ -6013,7 +6047,6 @@ pay.pal.com.imsfcu.ac.bd
 payable.billing-airfryer.com
 payday.fruitfuldemo.com
 payp.al-zone.com
-paypai.limitedclient.com
 paypal-accounts.vivivato.fr
 paypal-checkout.paysigngetupdate.com
 paypal-claim.gdj4.com
@@ -6078,6 +6111,7 @@ paypal.com.secure.information1.vineyardadvice.com
 paypal.com.signin.country.xgblocale.xengb.lindamay.com.au
 paypal.com.signin.de.webapps.mpp.home.signin.country.xdelocale.xendelocale.thedaze.info
 paypal.com.signin.security-confirmations-subscribtion.com
+paypal.com.signin.webapps.com-unsualactivity.cf
 paypal.com.ticket-case-ld-3651326.info
 paypal.com.uk.signin.priauth.nav.f9a348bf60bbc6569f2.solutionslaw.com.au
 paypal.com.update-cgi-informationsecour.mxhecqbulyadinru4pjwgofs3z5ctiady6mk.mxhecqbulyadinru4pjwgofs3z5ctiady6mk.mxhecqbulyadinru4pjwgofs3z5ctiady6mk.hrbelectric.com
@@ -6090,8 +6124,10 @@ paypal.com.webapps.mpp-home.almouta3alim.com
 paypal.com.webapps.mpp.de.home.almouta3alim.com
 paypal.com.webapps.mpp.home.de.almouta3alim.com
 paypal.com.webapps.mpp.home.e.belllimeited.belllimeited.com
+paypal.com.websapss109851.disputesecureaccount.cf
 paypal.com.webscrnes.com
 paypal.com30ebbywi4y2e0zmriogi0zthimtmwoweyn2mxognjngu4.sterbanot.com
+paypal.comservice.cf
 paypal.customersettings.nk-delivery.com
 paypal.de-kontaktaktualisierung.eu
 paypal.de-mitgliedscheck.info
@@ -6155,6 +6191,7 @@ paypal.nz-15eed9c4371186bf.com
 paypal.rumelphones.co.uk
 paypal.service.id.indomima.com
 paypal.sicherer-daten-abgleich.com
+paypal.sicherungsserver-id-133660.cf
 paypal.uk-signin.loginforms.securearea21.hititmt2signin-encoding.utf8ignoreauthstate.uk.awatech.arsade.com
 paypal.verif-case-id-0222-9204-3531-3111.com
 paypal.verif-purchase-id-020318-160515.com
@@ -6215,7 +6252,6 @@ phorm.tv.tr
 phorm.web.tr
 photo.dhford.cn
 photo.haoquangou.cn
-photo.jiaxiyuan.cn
 photo.lyghjzs.cn
 photo.ofsja.cn
 photo.rdguj.cn
@@ -6252,6 +6288,7 @@ pj.santadernetpj.com
 pjlapparel.matainja.com
 pks-setiabudi.or.id
 pksun1.publikompass.it
+pl.dailyoffer.top
 plain.bulkmediatory.com
 plank.duplicolor.cl
 platnosc.kurierzyplatnosci.online
@@ -6277,6 +6314,7 @@ pmenboeqhyrpvomq.hasterlyston.cloud
 pmenboeqhyrpvomq.loopsay.link
 pmenboeqhyrpvomq.paypoints.red
 pmenboeqhyrpvomq.shutlazy.casa
+pmljvu.sisplm.ml
 pncbank.averifier.com
 pnmgghschool.edu.bd
 po.spynets.ru
@@ -6292,6 +6330,7 @@ police11.provenprotection.net
 poll.kenseasysystem.com
 pomfjaunvb.scrapper-site.net
 pong.qubitproducts.com
+pontofrio.ofertasdodia.ml
 pool.nimiqchain.info
 pool.porkypool.com
 pop.naminews.ir
@@ -6536,6 +6575,7 @@ realads.plastec.ro
 realmedia.m6.fr
 rechnung.safenet21.top
 recloma.cssmod.ru
+record.mrwin.com
 recyclearrowsfootnote.cognitiveaddition.info
 redherring.ngadcenter.net
 redirect.click2net.nl
@@ -6633,6 +6673,7 @@ royalbank.onlinesecure.ca
 rpfi-indonesia.or.id
 rpgoncode.werules.com
 rpt.rad.msn.com
+rq.adtrackdirect.com
 rs.chip.com.tr
 rs3moderatorcom.us.lt
 rt.donnacastillo.com
@@ -6642,7 +6683,6 @@ ru.theswiftones.com
 rufex.ajfingenieros.cl
 rumahmakannusantara.biz.id
 runner.splunk.com
-runvtkk.tel.lv
 rusads.toysrus.com
 rustorrents.rustorrents.net
 rutor.biz.pl
@@ -6890,6 +6930,7 @@ santan27.beget.tech
 santander.net-br.gq
 santanei.beget.tech
 santanwt.beget.tech
+santder.internet-banking.cf
 santoantonio.portalrz.com.br
 santostj.beget.tech
 sanya.vipc2f.com
@@ -6965,6 +7006,7 @@ secure.alior.przelewy24-7.pl
 secure.apple.appleid.info.momcpum.com.my
 secure.auth.kevinyou.com
 secure.auth.login.wf-south.today
+secure.bank-america.cf
 secure.bankofamerica.account-disabled.verduresarl.com
 secure.bankofamerica.com.checking.accounts.jgclicks.com.br
 secure.bankofamerica.com.login-access.decorhireco.co.za
@@ -6977,6 +7019,7 @@ secure.capitalone.us.07.nehalquddus.com
 secure.debit.card.text.code.wf-south.trade
 secure.eth-claim.online
 secure.getcryptogift.com
+secure.itunes.updates.help-info.team.account.support.manage.details-id094129802189218984921124142.androidreport.com
 secure.lynxbowlingservices.com
 secure.mbank.przelewy24-7.pl
 secure.myboa.cn-iba.com
@@ -7133,13 +7176,11 @@ servicelogin.service.true.continue.passive.zdravozivljenje.net
 servicepaaypall-cnt-br.umbler.net
 services.avoidunlimitedaccount.com
 services.notification.cspayment.info
-services.runescape.com-du.top
 services.runescape.com-ey.top
 services.runescape.com-ot.top
 services.runescape.com-qds.top
 services.runescape.com-qi.top
 services.runescape.com-ql.top
-services.runescape.com-vr.top
 services.runescape.com-ze.top
 services42mobilite3monbell87398nj35enligne903094jcdfkonj.kmpropertysales.com
 servicib.beget.tech
@@ -7148,6 +7189,7 @@ servicju.beget.tech
 servicvk.beget.tech
 servidormensseger.hotbox.ru
 servives.safeti.specialis-reponces.com
+setting.adzcore.com
 setting505.hol.es
 settings-account.store.apple.com-account.store.apple.it.inaitt.com
 settings-account.store.apple.com-account.store.apple.it.intesasa.com
@@ -7455,6 +7497,7 @@ store.id.apple.liverpoolbuddhistcentre.co.uk
 store.ttzarzar.com
 store001.mybigcommerce.com
 stork.escortfinder.cl
+str.eshzdorovo.ru
 streaming.filmsgratuits.org
 structured.blackswanstore.com
 stts.rbc.ru
@@ -7482,10 +7525,12 @@ summary.secure-update-service1.com
 summarysupport.account-activityservice.com
 sunrise.infoschnell.com
 suntrust.baten.me
+suntrust.com-personal.ml
 suntrust.comeoqwerty.pranavitours.com
 suntrustealrts.esy.es
 super.spx.co.uk
 superwebnet2018-com.umbler.net
+suportfanpage2.accountfanspage9888.ml
 support-account.chordguitarkito.com
 support-info.pe.hu
 support-review-paypal.com-secure-webapps-login-acivity-problem.tosaytoday.com
@@ -7919,6 +7964,7 @@ uc.csc.adserver.yahoo.com
 uc.haoyunyuan.cc
 ue8b46csp2s4b0zgjxcp.littlematchagirl.com.au
 uebelacker.makemoneywithmegan.net
+uf2.svrni.ca
 uf2aasn.111adfueo.us
 ufudf8fjoidiosoi.co.at.nr
 ugdmkqwm.medicalcaremart.ru
@@ -8122,6 +8168,7 @@ verification-requested.charlycarlos.com
 verification.fanspageaccountsupport.com
 verification.liscat.ru
 verification.peypal.com.meyershouses.co.uk
+verification.prima2.cf
 verified.capitalone.com.login.mad105.mccdgm.net
 verify-account-customer.amm-ku.com
 verify-id-apple.com.6b4d41f89.pw
@@ -8281,6 +8328,7 @@ walec.ovh.org
 walp.atm.youku.com
 wapssl.ff113300.com
 warriorinjapan.hostjava.net
+warrning-fanpa9e2.securittty4.ml
 wasabi.mine.nu
 watch.allharrypottermovies.com
 watchmovies.just4umedia.com
@@ -8323,7 +8371,6 @@ welcome.ultrasites.com
 weld.iefsf.com
 welkguessqata.myrating.id
 wells-info.charos-cm.com
-wells.latestphptutorials.com
 wells.murmann.ru
 wells.reverifi-ca-tio-n.ml
 wells28.bestwell-s828scre.com
@@ -8337,7 +8384,6 @@ wellsfargo.com-verify.xpertcleaningsolutions.com.au
 wellsfargo.com.4spective.com
 wellsfargo.com.halugopalacehotels.com
 wellsfargo.com.login.signin.vivenciaresidence.com.br
-wellsfargo.com.lowkeyhideaway.com
 wellsfargo.com.moclangarden.vn
 wellsfargo.com.onlinebanking.com.croquiteca.com.br
 wellsfargo.com.or.confirm.wfbank.today
@@ -8402,7 +8448,6 @@ wk.worldkaratecouncil.com
 wl.duoshitong.com
 wleuih.qhigh.com
 wm.17wan.info
-wm.69shi.cn
 wm.maxysearch.info
 wolf.fan-guf.ru
 womo.corrmedic.ru
@@ -8482,7 +8527,6 @@ www.apple-xid.com
 www.apple.com-clean-macbook.live
 www.apple.com-shield-guard.live
 www.apple.com-speed-macbook.live
-www.apple.com.details-store.services
 www.appleid-iphonetore.com
 www.appleidinfo.net
 www.appleprotection.org
@@ -8497,6 +8541,7 @@ www.assculturaleincontri.it
 www.atrub.com
 www.atudas-faja.hu
 www.auctionshare.net
+www.autoriparazioniflorisgiorgio.com
 www.azmsoft.com
 www.backoffice.evobinary.com
 www.backsim.ru
@@ -8506,12 +8551,12 @@ www.bankofamerica.com.ok.am
 www.banner-link.com.br
 www.banner4all.dk
 www.banners.paramountzone.com
-www.barkkhaspatisserie.com
 www.battle-wowmail-us.com
 www.bfqnup.party
 www.bigbadted.com
 www.bigsister-puff.cxa.de
 www.bigsister.cxa.de
+www.bk-mufg-me-jp.com
 www.blazingtrader.biz
 www.blizzard-wow-mail-us.com
 www.blizzard-wow-sa-us-battle.com
@@ -8741,9 +8786,9 @@ www.masterprof.warzonedns.com
 www.maybankard.com.my
 www.mediaexpres.in.net
 www.mediahighway.net
+www.mediamarkt.pl.dailyoffer.top
 www.meinebranche24.de
 www.merchantapp.com
-www.mes-de-janeiro2020.com
 www.methodcasino2015.com
 www.mftracking.com
 www.miconsultapp.com
@@ -8770,6 +8815,7 @@ www.nine2rack.in
 www.nitaphar.com.vn
 www.northamptonshirecracklingcompany.co.uk
 www.northpoleitalia.it
+www.noveldocs.com
 www.ntdesk.de
 www.nubijlage.nl
 www.nutten-verzeichnis.cxa.de
@@ -8806,7 +8852,6 @@ www.qchannel02.cn
 www.r.xyz1.pl
 www.ranchapptag.com
 www.randppro-cuts.com
-www.rapidautorepair.top
 www.reklamzadserver.com
 www.reklamzadserver1.com
 www.rep.privatesearch.club
@@ -8830,7 +8875,6 @@ www.sdlpgift.com
 www.secretosx.com
 www.servertasarimbu.com
 www.sexytiger.ru
-www.shipping-tracker.site
 www.shop.dr-rath.com
 www.shoppingjobshere.com
 www.simplyhelper.com
@@ -8885,7 +8929,6 @@ www.valhallarisingthemovie.co.uk
 www.vb1rc5l52n.us
 www.vbbvkc.info
 www.verifier.li
-www.vertourmer.com
 www.verypositiveus.com
 www.via22.net
 www.via99.org
@@ -9012,7 +9055,6 @@ www7.securybrowse.com
 www7.ygto.com
 www77.janeirodepromocao.com
 www8.ad.tomshardware.com
-www89.painel-vendas-promoo.com
 www9.ad.tomshardware.com
 www9.trickip.org
 www91.janeirodepromocao.com
