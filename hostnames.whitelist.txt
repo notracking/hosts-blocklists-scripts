@@ -511,6 +511,10 @@
  alluremedia.com.au
  dl.dropbox.com
 
+# Linkshortner, but it's really only used for tracking purposes.
+# Should start working on a better solution for these kind of crap services that will only lead to linkrot.
+ prf.hn
+
 # most commonly whitelisted hostnames PiHole
  via.placeholder.com
  placeholder.com
