@@ -87,8 +87,8 @@
 # pi-hole commonly whitelisted domains: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212/15
  h-sdk.online-metrix.net
  cdn.cpnscdn.com
- v20.vortex-win.data.microsoft.com  
- v10.vortex-win.data.microsoft.com  
+ v20.vortex-win.data.microsoft.com
+ v10.vortex-win.data.microsoft.com
  f1.media.brightcove.com
  prod.telemetry.ros.rockstargames.com
  captive.apple.com
@@ -102,7 +102,7 @@
  dev.virtualearth.net
  ecn.dev.virtualearth.net
  t0.ssl.ak.dynamic.tiles.virtualearth.net
- t0.ssl.ak.tiles.virtualearth.net 
+ t0.ssl.ak.tiles.virtualearth.net
  delivery.vidible.tv
  img.vidible.tv
  videos.vidible.tv
@@ -398,7 +398,7 @@
  webcache.googleusercontent.com
  chrome.google.com
  dropbox.com
- dl.dropboxusercontent.com 
+ dl.dropboxusercontent.com
  cdn.embedly.com
  ax.phobos.apple.com.edgesuite.net
  gitter.im
@@ -456,7 +456,7 @@
 # scorito.com
  rackcdn.com
 
-# buggy entriesÂhttps://github.com/notracking/hosts-blocklists/issues/16
+# buggy entriesï¿½https://github.com/notracking/hosts-blocklists/issues/16
  pmenboeqhyrpvomq.
  olark.com
 
@@ -473,11 +473,11 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/22
 # https://github.com/notracking/hosts-blocklists/issues/70
- tenforums.com 
+ tenforums.com
  www.tenforums.com
  eightforums.com
- emptyloop.com 
- jwplatform.com 
+ emptyloop.com
+ jwplatform.com
  ooyala.com
 
 # https://github.com/notracking/hosts-blocklists/issues/23
@@ -524,7 +524,7 @@
  imagesak.secureserver.net
  appleid.apple.com
 
-# https://github.com/AdguardTeam/AdguardDNS/issues/63 
+# https://github.com/AdguardTeam/AdguardDNS/issues/63
  googleadapis.l.google.com
 
 # https://moz.com/top500
@@ -1099,7 +1099,7 @@
 
 # invalid address (crashes some unix system)
 # https://github.com/notracking/hosts-blocklists/issues/52
- streamillimité.com
+ streamillimitï¿½.com
 
 # https://github.com/notracking/hosts-blocklists/issues/56
  apresolve.spotify.com
@@ -1438,3 +1438,20 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/201
  edgekey.net
+
+# https://www.reddit.com/r/pihole/comments/8d15la/cbs_all_access_roku_app_not_working_with_pihole/
+ om.cbsi.com
+ cbsi.com
+
+# Fox News
+# https://discourse.pi-hole.net/t/cant-watch-fox-news-live/1563/3?u=jacob.salmela
+ widget-cdn.rpxnow.com
+ rpxnow.com
+
+# Twitch client
+ cdn-gl.imrworldwide.com
+ seccdn-gl.imrworldwide.com
+
+ # Amazon Alexa and Amazon Shopping app
+ device-metrics-us-2.amazon.com
+ device-metrics-us.amazon.com
