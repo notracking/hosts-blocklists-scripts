@@ -38,6 +38,7 @@
  cdn.flipboard.com
 
 # Randoms
+ logrocket.com
  dbs.com
  cdn-apple.com
 .cdn-apple.com
@@ -1452,6 +1453,10 @@
  cdn-gl.imrworldwide.com
  seccdn-gl.imrworldwide.com
 
- # Amazon Alexa and Amazon Shopping app
+# Amazon Alexa and Amazon Shopping app
  device-metrics-us-2.amazon.com
  device-metrics-us.amazon.com
+
+# https://github.com/notracking/hosts-blocklists/issues/216
+# Still a linkredirector with only tracking as purpose, however these should be blocked by different means
+ viglink.com
