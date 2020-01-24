@@ -37,7 +37,18 @@
  flipboard.com
  cdn.flipboard.com
 
+# symantect Records user logins to management console
+ oms.symantec.com:
+
+# prevents the first time visiting google.com in a session from being blocked
+ device-provisioning.googleapis.com
+
+# CNAME for fonts.google.com
+ gstaticadssl.l.google.com
+
 # Randoms
+ signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
+ privacy-policy.truste.com
  logrocket.com
  dbs.com
  cdn-apple.com
@@ -80,6 +91,14 @@
 # raghavdua1995
  boards.greenhouse.io
 
+# For Xbox live achievements
+ v20.vortex-win.data.microsoft.com
+ v10.vortex-win.data.microsoft.com
+ onecollector.cloudapp.aria.akadns.net
+
+# google CDN cache
+ csi.gstatic.com
+
 # Windows ipv6 tunneling (for ipv6 web support)
  win10.ipv6.microsoft.com
  win8.ipv6.microsoft.com
@@ -88,8 +107,6 @@
 # pi-hole commonly whitelisted domains: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212/15
  h-sdk.online-metrix.net
  cdn.cpnscdn.com
- v20.vortex-win.data.microsoft.com
- v10.vortex-win.data.microsoft.com
  f1.media.brightcove.com
  prod.telemetry.ros.rockstargames.com
  captive.apple.com
@@ -112,12 +129,17 @@
  conviva.com
  livepassdl.conviva.com
 
+# Bitlocker backup key
+ g.live.com
+ g.msn.com
+
 # fixes sanoma video not playable
  snmmd.nl
 
 # ookangzheng
 # Tinder app sms verification
  etl.tindersparks.com
+ .tindersparks.com
 
 # cdns
  cdn.ravenjs.com
@@ -135,6 +157,7 @@
 # anudeepND
  cse.google.com
  ec-ns.sascdn.com
+ sascdn.com
  widget-cdn.rpxnow.com
  dev.virtualearth.net
  ecn.dev.virtualearth.net
@@ -286,8 +309,17 @@
 .gravatar.com
  gravatar.com
 
+# for windows live login
+.msa.akadns6.net
+ akadns6.net
+ login.live.com
+ live.com
+
 # Windows update Whitelists based on data from https://github.com/crazy-max/WindowsSpyBlocker
 # Windows 7 update servers
+ msedge.net
+ www.msedge.net
+ audownload.windowsupdate.nsatc.net
  download.microsoft.com
  ds.download.windowsupdate.com
  fg.ds.b1.download.windowsupdate.com
