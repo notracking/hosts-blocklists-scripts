@@ -38,7 +38,7 @@
  cdn.flipboard.com
 
 # symantect Records user logins to management console
- oms.symantec.com:
+ oms.symantec.com
 
 # prevents the first time visiting google.com in a session from being blocked
  device-provisioning.googleapis.com
