@@ -38,7 +38,7 @@
  cdn.flipboard.com
 
 # symantect Records user logins to management console
- oms.symantec.com:
+ oms.symantec.com
 
 # prevents the first time visiting google.com in a session from being blocked
  device-provisioning.googleapis.com
@@ -173,6 +173,7 @@
 
 # Required for watching espn
  livepassdl.conviva.com
+ conviva.com
 
 # From https://www.reddit.com/r/raspberry_pi/comments/5j1trl/i_love_how_effective_pihole_is_i_barely_woke_up/dbdkalg/
  info.seek.com
@@ -1088,6 +1089,13 @@
  redirector.gvt1.com
  gvt1.com
 
+# Samsung TV's Amazon Prime Video app
+ samsungcloudsolution.com
+ time.samsungcloudsolution.com
+
+# Samsung smart TV's network issue
+ cdn.samsungcloudsolution.com
+
 # https://github.com/notracking/hosts-blocklists/issues/31
  graph.instagram.com
  graph.facebook.com
@@ -1357,6 +1365,7 @@
 
 # Should be for Google store
  .gvt2.com
+ gvt2.com
 
 # https://github.com/notracking/hosts-blocklists/issues/171
  unpkg.com
@@ -1422,6 +1431,9 @@
 # Newsletter host
  revue.com
 
+# DirectTV Now
+ s.zkcdn.net
+
 # Breaks Sling TV
  clientstream.launchdarkly.com
 
@@ -1459,6 +1471,11 @@
 # legit tool
  daemon-tools.cc
 
+# Netflix
+ ichnaea.netflix.com
+ appboot.netflix.com
+ secure.netflix.com
+
 # https://github.com/notracking/hosts-blocklists/issues/195
  nrdp.nccp.netflix.com
 
@@ -1471,6 +1488,11 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/201
  edgekey.net
+
+# more roku
+ z.cdn.turner.com
+ manifest.auditude.com
+ auditude.com
 
 # https://www.reddit.com/r/pihole/comments/8d15la/cbs_all_access_roku_app_not_working_with_pihole/
  om.cbsi.com
@@ -1492,3 +1514,6 @@
 # https://github.com/notracking/hosts-blocklists/issues/216
 # Still a linkredirector with only tracking as purpose, however these should be blocked by different means
  viglink.com
+
+# https://github.com/nextdns/lists/blob/master/exclusions/bundles/ads-trackers
+ app.link
