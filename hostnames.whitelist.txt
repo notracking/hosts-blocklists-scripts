@@ -43,6 +43,9 @@
 # prevents the first time visiting google.com in a session from being blocked
  device-provisioning.googleapis.com
 
+# cannot login to epic launcher when blocked
+ tracking.epicgames.com
+
 # CNAME for fonts.google.com
  gstaticadssl.l.google.com
 
