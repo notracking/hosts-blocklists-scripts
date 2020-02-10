@@ -50,6 +50,7 @@
  gstaticadssl.l.google.com
 
 # Randoms
+ gstatic.com
  signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
  privacy-policy.truste.com
  logrocket.com
@@ -1496,6 +1497,7 @@
  z.cdn.turner.com
  manifest.auditude.com
  auditude.com
+ lb.production-public.tubi.io
 
 # https://www.reddit.com/r/pihole/comments/8d15la/cbs_all_access_roku_app_not_working_with_pihole/
  om.cbsi.com
@@ -1520,3 +1522,11 @@
 
 # https://github.com/nextdns/lists/blob/master/exclusions/bundles/ads-trackers
  app.link
+
+# candycrush / king.com
+# https://github.com/lightswitch05/hosts/issues/56
+ midasplayer.com
+ k1.midasplayer.com
+
+# https://github.com/notracking/hosts-blocklists/issues/232
+ shoppy.gg
