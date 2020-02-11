@@ -49,6 +49,15 @@
 # CNAME for fonts.google.com
  gstaticadssl.l.google.com
 
+# vi.nl
+ vendorlist.consensu.org
+ quantcast.mgr.consensu.org
+ static.quantcast.mgr.consensu.org
+ consensu.org
+
+# for video hosting on various news sites
+ jwplayer.com
+
 # Randoms
  gstatic.com
  signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
