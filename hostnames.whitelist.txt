@@ -1521,16 +1521,9 @@
  cdn-gl.imrworldwide.com
  seccdn-gl.imrworldwide.com
 
-# Amazon Alexa and Amazon Shopping app
- device-metrics-us-2.amazon.com
- device-metrics-us.amazon.com
-
 # https://github.com/notracking/hosts-blocklists/issues/216
 # Still a linkredirector with only tracking as purpose, however these should be blocked by different means
  viglink.com
-
-# https://github.com/nextdns/lists/blob/master/exclusions/bundles/ads-trackers
- app.link
 
 # candycrush / king.com
 # https://github.com/lightswitch05/hosts/issues/56
@@ -1539,3 +1532,8 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/232
  shoppy.gg
+
+# https://github.com/notracking/hosts-blocklists/issues/236
+ kayak.com
+ content.r9cdn.net
+ dualstack.kayak.map.fastly.net
