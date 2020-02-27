@@ -1556,3 +1556,7 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/244
  netdna-ssl.com
+
+# Privacy consent breaking various news sites, should be blocked by browser plugin
+ .privacy-center.org
+ privacy-center.org
