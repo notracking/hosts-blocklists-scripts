@@ -59,6 +59,8 @@
  jwplayer.com
 
 # Randoms
+ mywot.com
+ .mywot.com
  lib.rus.ec
  gstatic.com
  signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
@@ -338,7 +340,6 @@
  download.microsoft.com
  ds.download.windowsupdate.com
  fg.ds.b1.download.windowsupdate.com
- microsoftwindowsupdate.net
  www.download.windowsupdate.com
 
 # Windows 8.1 update servers
@@ -354,7 +355,6 @@
  fe2.wq.microsoft.com
  fe2.ws.microsoft.com
  fg.v4.download.windowsupdate.com
- microsoftwindowsupdate.net
  v4.download.windowsupdate.com
 
 # Windows 10 update servers
@@ -377,7 +377,6 @@
  tlu.dl.delivery.mp.microsoft.com
  v4.download.windowsupdate.com
  windowsupdate.com
- windowupdate.org
 
 # For xbox achievements
 # See https://www.reddit.com/r/xboxone/comments/5l7bm1/tech_piholeother_dns_users_additional_whitelist/
