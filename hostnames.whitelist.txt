@@ -49,6 +49,9 @@
 # CNAME for fonts.google.com
  gstaticadssl.l.google.com
 
+# getairmail / temp email
+ getnada.com
+
 # vi.nl
  vendorlist.consensu.org
  quantcast.mgr.consensu.org
@@ -1559,3 +1562,6 @@
 # Privacy consent breaking various news sites, should be blocked by browser plugin
  .privacy-center.org
  privacy-center.org
+
+# https://github.com/notracking/hosts-blocklists/issues/250
+ overstock.com
