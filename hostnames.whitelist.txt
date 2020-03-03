@@ -1560,8 +1560,12 @@
  netdna-ssl.com
 
 # Privacy consent breaking various news sites, should be blocked by browser plugin
- .privacy-center.org
+.privacy-center.org
  privacy-center.org
 
 # https://github.com/notracking/hosts-blocklists/issues/250
  overstock.com
+
+# https://github.com/notracking/hosts-blocklists/issues/252
+ partners.salesforce.com
+.partners.salesforce.com
