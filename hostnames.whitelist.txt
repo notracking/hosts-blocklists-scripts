@@ -63,7 +63,7 @@
 
 # Randoms
  mywot.com
- .mywot.com
+.mywot.com
  lib.rus.ec
  gstatic.com
  signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
@@ -158,7 +158,7 @@
 # ookangzheng
 # Tinder app sms verification
  etl.tindersparks.com
- .tindersparks.com
+.tindersparks.com
 
 # cdns
  cdn.ravenjs.com
@@ -513,7 +513,7 @@
 # false call https://github.com/notracking/hosts-blocklists/issues/19
 # false call https://github.com/notracking/hosts-blocklists/issues/20
  lithium.com
- .lithium.com
+.lithium.com
  jdownloader.org
  www.jdownloader.org
 
@@ -1380,7 +1380,7 @@
  nibis.de
 
 # Should be for Google store
- .gvt2.com
+.gvt2.com
  gvt2.com
 
 # https://github.com/notracking/hosts-blocklists/issues/171
@@ -1439,7 +1439,7 @@
 
 # For Linux Mind and various others
  evowise.com
- .evowise.com
+.evowise.com
 
 # Torrent tracker
  tracker.trackerfix.com
@@ -1454,7 +1454,7 @@
  clientstream.launchdarkly.com
 
 # Legit cloud monitor service
- .dynatrace.com
+.dynatrace.com
  dynatrace.com
 
 # For facebook app comments
@@ -1472,14 +1472,14 @@
 
 # Legit car site
  7zap.com
- .7zap.com
+.7zap.com
 
 # world of tanks/warships
  cpm.wargaming.net
 
 # clamd anti virus
  clamav.net
- .clamav.net
+.clamav.net
 
 # https://github.com/notracking/hosts-blocklists/issues/194
  images.performgroup.com
@@ -1569,3 +1569,6 @@
 # https://github.com/notracking/hosts-blocklists/issues/252
  partners.salesforce.com
 .partners.salesforce.com
+
+# https://github.com/notracking/hosts-blocklists/issues/255
+ lgin.msa.trafficmanager.net
