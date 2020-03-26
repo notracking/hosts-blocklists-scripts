@@ -36,6 +36,7 @@
  live.net
  flipboard.com
  cdn.flipboard.com
+ yimg.com
 
 # symantect Records user logins to management console
  oms.symantec.com
@@ -1598,3 +1599,6 @@
 # https://github.com/notracking/hosts-blocklists/issues/263
  nfscars.net
  www.nfscars.net
+
+# https://github.com/notracking/hosts-blocklists/issues/266
+ coronavirus.1point3acres.com
