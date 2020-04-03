@@ -1613,3 +1613,14 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/277
  nlrb.gov
+
+# https://github.com/notracking/hosts-blocklists/issues/282
+ app.link
+
+# https://github.com/notracking/hosts-blocklists/issues/279
+ inscname.net
+ insnw.net
+
+# Official putty download
+ chiark.greenend.org.uk
+ greenend.org.uk
