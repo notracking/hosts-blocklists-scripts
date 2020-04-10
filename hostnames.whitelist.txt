@@ -1590,8 +1590,9 @@
 # https://github.com/notracking/hosts-blocklists/issues/260
  auslogics.com
 
-# legit site
+# legit sites
  guidetopetersburg.com
+ nextdns.io
 
 # https://github.com/notracking/hosts-blocklists/issues/264
  coronavirus.app
@@ -1637,3 +1638,6 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/290
  drp.su
+
+# https://github.com/notracking/hosts-blocklists/issues/295
+ proxy-ssl.webflow.com
