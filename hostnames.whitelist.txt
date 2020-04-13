@@ -1651,3 +1651,6 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/301
  geoloc.arte.tv
+
+# https://github.com/DNSCrypt/dnscrypt-proxy/issues/1275
+ thepiratebay.org
