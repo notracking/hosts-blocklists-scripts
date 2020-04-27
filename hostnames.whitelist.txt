@@ -522,6 +522,10 @@
  pastebin.com
  www.pastebin.com
 
+# legit pastebin-like site, not blocking these.
+# https://github.com/notracking/hosts-blocklists/issues/329
+ paste.ee
+
 # https://github.com/notracking/hosts-blocklists/issues/22
 # https://github.com/notracking/hosts-blocklists/issues/70
  tenforums.com
@@ -1660,3 +1664,13 @@
 
 # Required scripts for solar system
  aliyuncs.com
+
+# https://github.com/notracking/hosts-blocklists/issues/328
+ d1lxz4vuik53pc.cloudfront.net
+
+# https://github.com/notracking/hosts-blocklists/issues/326
+ api.ximalaya.com
+
+# https://github.com/notracking/hosts-blocklists/issues/324
+ autoupdate.geo.opera.com
+ geo.opera.com
