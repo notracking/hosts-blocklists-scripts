@@ -1674,3 +1674,6 @@
 # https://github.com/notracking/hosts-blocklists/issues/324
  autoupdate.geo.opera.com
  geo.opera.com
+
+# https://github.com/notracking/hosts-blocklists/issues/330
+ yusercontent.com
