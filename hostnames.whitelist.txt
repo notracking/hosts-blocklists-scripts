@@ -1683,3 +1683,10 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/333
  ccmbg.com
+
+# https://github.com/notracking/hosts-blocklists/issues/332
+.settings-win.data.microsoft.com
+ settings-win.data.microsoft.com
+
+# https://github.com/AdguardTeam/AdGuardHome/issues/1325
+ gigatribe.com
