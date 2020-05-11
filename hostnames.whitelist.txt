@@ -1699,3 +1699,11 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/352
  go2cloud.org
+
+# https://github.com/notracking/hosts-blocklists/issues/353
+ ns-plexdirect.plex.tv
+ plex.direct
+ proxy00.spop.ams.plex.bz
+ thetvdb.plexapp.com
+ tvdb2.plex.tv
+
