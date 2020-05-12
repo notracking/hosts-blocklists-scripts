@@ -63,6 +63,7 @@
  jwplayer.com
 
 # Randoms
+ bazoom.com
  mywot.com
 .mywot.com
  lib.rus.ec
@@ -764,6 +765,7 @@
  wiley.com
  pbs.org
  un.org
+.un.org
  plesk.com
  buzzfeed.com
  jiathis.com
@@ -1707,3 +1709,28 @@
  thetvdb.plexapp.com
  tvdb2.plex.tv
 
+# Preventive covid generic whitelists
+ cdc.gov
+.cdc.gov
+ worldometers.info
+ coronavirus.jhu.edu
+ webmd.com
+ nhs.uk
+ www.who.int
+ who.int
+.who.int
+ rivm.nl
+ www.rivm.nl
+ ohio.gov
+ coronavirus.ohio.gov
+ health.pa.gov
+ coronavirus.gov
+ www.coronavirus.gov
+ osha.gov
+ www.osha.gov
+ maine.gov
+ www.maine.gov
+ ncdhhs.gov
+ covid19.ncdhhs.gov
+ paho.org
+.paho.org
