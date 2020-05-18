@@ -557,9 +557,6 @@
  clients3.google.com
  clients4.google.com
  clients5.google.com
- www.bit.ly
- ow.ly
- j.mp
  dns.msftncsi.com
  msftncsi.com
  res.cloudinary.com
@@ -569,7 +566,12 @@
 
 # Linkshortner, but it's really only used for tracking purposes.
 # Should start working on a better solution for these kind of crap services that will only lead to linkrot.
+# https://github.com/notracking/hosts-blocklists/issues/357
  prf.hn
+ buff.ly
+ www.bit.ly
+ ow.ly
+ j.mp
 
 # most commonly whitelisted hostnames PiHole
  via.placeholder.com
@@ -607,7 +609,6 @@
  yahoo.com
  flickr.com
  qq.com
- bit.ly
  godaddy.com
  buydomains.com
  vk.com
