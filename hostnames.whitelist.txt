@@ -1741,3 +1741,16 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/3591
  staticxx.facebook.com
+
+# required for aliexpress app to show images
+ ae01.alicdn.com
+
+# Legit utility provider
+ oru.com
+ www.oru.com
+
+# MS Store email
+ assets.micpn.com
+
+# Help pages for MS Outlook IOS APP
+ acompli.helpshift.com
