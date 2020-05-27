@@ -150,6 +150,10 @@
  conviva.com
  livepassdl.conviva.com
 
+# For "Your Phone/Browser Companion" to work in Win10
+ mobile.pipe.aria.microsoft.com
+ browser.pipe.aria.microsoft.com
+
 # Bitlocker backup key
  g.live.com
  g.msn.com
@@ -268,6 +272,7 @@
  bambenekconsulting.com
 
 # Various entries preventing breaking of functional behaviour
+ hardreset.info
  dlglobal.qq.com
  com-verification.id
  steamcommunity.com
@@ -570,8 +575,11 @@
  prf.hn
  buff.ly
  www.bit.ly
+ bit.ly
  ow.ly
  j.mp
+ amzn.to
+ amzn.com
 
 # most commonly whitelisted hostnames PiHole
  via.placeholder.com
@@ -1754,3 +1762,15 @@
 
 # Help pages for MS Outlook IOS APP
  acompli.helpshift.com
+
+# https://github.com/notracking/hosts-blocklists/issues/364
+ t.dripemail2.com
+
+# For REHL online learning videos to work
+ 79423.analytics.edgekey.net
+
+# The Rakuten Viber image send failed
+ s-bid.rmp.rakuten.com
+
+# Legit rom site
+ coolrom.com
