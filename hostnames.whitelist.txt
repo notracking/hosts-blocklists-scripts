@@ -63,6 +63,8 @@
  jwplayer.com
 
 # Randoms
+ ct.pinterest.com
+ customerevents.netflix.com
  bazoom.com
  mywot.com
 .mywot.com
@@ -571,7 +573,7 @@
  alluremedia.com.au
  dl.dropbox.com
 
-# Linkshortner, but it's really only used for tracking purposes.
+# Linkshortners, but it's really only used for tracking purposes.
 # Should start working on a better solution for these kind of crap services that will only lead to linkrot.
 # https://github.com/notracking/hosts-blocklists/issues/357
  prf.hn
@@ -582,6 +584,12 @@
  j.mp
  amzn.to
  amzn.com
+ bitly.com
+ www.bitly.com
+
+# Link redirectors for native ads, mostely used on commercial websites. These will be whitelisted, because of the primary intent of the visiting user.
+ ahd.ruten.com.tw
+ admarkt.marktplaats.nl 
 
 # most commonly whitelisted hostnames PiHole
  via.placeholder.com
@@ -1272,6 +1280,12 @@
 # https://github.com/notracking/hosts-blocklists/issues/105
  scontent.xx.fbcdn.net
 
+# Consent hosts (required to access sites)
+ collecting-consent.g5e.com
+ consent-manager-events.ogury.io
+ consent.cookiebot.com 
+ cookie.monster.com
+
 # https://github.com/notracking/hosts-blocklists/issues/107
  consent.cmp.oath.com
 
@@ -1541,6 +1555,7 @@
 # Twitch client
  cdn-gl.imrworldwide.com
  seccdn-gl.imrworldwide.com
+ client-event-reporter.twitch.tv
 
 # https://github.com/notracking/hosts-blocklists/issues/216
 # Still a linkredirector with only tracking as purpose, however these should be blocked by different means
@@ -1782,4 +1797,26 @@
 
 # Support client online broker
  server.iad.liveperson.net
+ iad.liveperson.net
 
+# For minecraft
+ minecraftprod.rtep.msgamestudios.com
+
+# For amazon app
+ aan.amazon.com
+ fls-na.amazon.com
+ aax-us-iad.amazon.com
+
+# Legit, though spammy poker site
+ www.888poker.com
+
+# Not used to serve ads from (some people require it for their jobs as webdeveloper)
+ ads.google.com
+ adwords.google.com
+
+# For playing video on cnn.com
+ data.cnn.com
+
+# File sharing site
+ www.4shared.com
+ 4shared.com
