@@ -1,4 +1,4 @@
-############################################################################################################
+W############################################################################################################
 # Source: https://github.com/notracking/hosts-blocklists-scripts
 #
 # This whitelist is used and updated for https://github.com/notracking/hosts-blocklists
@@ -395,6 +395,7 @@
 # For xbox achievements
 # See https://www.reddit.com/r/xboxone/comments/5l7bm1/tech_piholeother_dns_users_additional_whitelist/
 # and https://www.reddit.com/r/xboxone/comments/5khrrl/achievements_not_unlocking/
+ assets1.xboxlive.com
  v10.vortex-win.data.microsoft.com
  xbox.ipv6.microsoft.com
  device.auth.xboxlive.com
@@ -1686,6 +1687,7 @@
 
 # https://github.com/DNSCrypt/dnscrypt-proxy/issues/1275
  thepiratebay.org
+ www.thepiratebay.org
 
 # CNAME for post.nl
  tripolis.com
@@ -1821,6 +1823,9 @@
  www.4shared.com
  4shared.com
 
-# Legit site
+# Legit sites
  netguard.me
  em.bm23.com
+ itmagazine.ch
+ mobile.bet365.com
+ mijnknwu.knwu.nl
