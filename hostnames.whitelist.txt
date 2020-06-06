@@ -1,4 +1,4 @@
-W############################################################################################################
+############################################################################################################
 # Source: https://github.com/notracking/hosts-blocklists-scripts
 #
 # This whitelist is used and updated for https://github.com/notracking/hosts-blocklists
@@ -37,9 +37,10 @@ W###############################################################################
  flipboard.com
  cdn.flipboard.com
  yimg.com
-
+ us.i1.yimg.com
 # symantect Records user logins to management console
  oms.symantec.com
+ om.symantec.com
 
 # prevents the first time visiting google.com in a session from being blocked
  device-provisioning.googleapis.com
@@ -127,6 +128,9 @@ W###############################################################################
  win8.ipv6.microsoft.com
  win1710.ipv6.microsoft.com
 
+# Required for Windows 10 personalized ads opt-out
+ choice.microsoft.com
+
 # pi-hole commonly whitelisted domains: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212/15
  h-sdk.online-metrix.net
  cdn.cpnscdn.com
@@ -168,9 +172,22 @@ W###############################################################################
  etl.tindersparks.com
 .tindersparks.com
 
+# news12.com CDN
+ ftpcontent.worldnow.com
+
 # cdns
+ tag.aticdn.net
+ pic.pic-img.com
+ perr.h-cdn.com
+ gall.dcinside.com
  cdn.ravenjs.com
  crbcdn.jsfiddle.net
+ cdn.akubebas.com
+ cdn.appdynamics.com
+ cdn.mplxtms.com
+ cmp-cdn.ghostery.com
+# required for crunchy premium
+ cdn.segment.com
 
 # font cdns
 # https://github.com/notracking/hosts-blocklists/issues/120
@@ -180,6 +197,7 @@ W###############################################################################
  use.typekit.net
  typekit.net
  fast.fonts.net
+ p.typekit.net
 
 # anudeepND
  cse.google.com
@@ -228,16 +246,20 @@ W###############################################################################
 # Other
  aliexpress.com
  s.click.aliexpress.com
+ click.aliexpress.com
  answers.microsoft.com
  marktplaats.nl
  www.marktplaats.nl
  storage.googleapis.com
 
-# For reddit
+# For reddit (image/video CDNs)
  embed.ly
  embedly.com
  cdn.embedly.com
  cdn.embed.ly
+ m1.daumcdn.net
+ m1.nsimg.net
+ m2.nsimg.net
 
 # Spotify ios app
  spclient.wg.spotify.com
@@ -316,6 +338,7 @@ W###############################################################################
 
 # Skype professional
  secure.skypeassets.com
+ c.msn.com
 
 # Redtube
  phncdn.com
@@ -324,6 +347,7 @@ W###############################################################################
 # Youtube
  www.youtube-nocookie.com
  youtube-nocookie.com
+ imasdk.googleapis.com
 
 # For taobao.com
  g.alicdn.com
@@ -643,6 +667,7 @@ W###############################################################################
  mozilla.org
  myspace.com
  yandex.ru
+ informer.yandex.ru
  google.de
  blogger.com
  soundcloud.com
@@ -938,6 +963,7 @@ W###############################################################################
  gofundme.com
  senate.gov
  alibaba.com
+ img.alibaba.com
  theverge.com
  boston.com
  telegram.me
@@ -1143,6 +1169,7 @@ W###############################################################################
  graph.instagram.com
  graph.facebook.com
  graph.facebook.net
+ graph.accountkit.com
 
  coinbase.com
 .coinbase.com
@@ -1286,6 +1313,7 @@ W###############################################################################
  consent-manager-events.ogury.io
  consent.cookiebot.com 
  cookie.monster.com
+ consent.cookiebot.com
 
 # https://github.com/notracking/hosts-blocklists/issues/107
  consent.cmp.oath.com
@@ -1409,6 +1437,10 @@ W###############################################################################
 # fixes shadowplay
  gfe.nvidia.com
 
+# nvidia games not showing in list
+ images.nvidiagrid.net
+ services.gfe.nvidia.com
+
 # https://github.com/notracking/hosts-blocklists/issues/163
  nibis.de
 
@@ -1443,6 +1475,9 @@ W###############################################################################
 # Patreon checkout
  js.braintreegateway.com
 
+# Paypal
+ b.stats.paypal.com
+
 # Paypal community
  ppl.i.lithium.com
 
@@ -1466,6 +1501,7 @@ W###############################################################################
 
 # Hulu Live TV
  assets.huluim.com
+ t2.hulu.com
 
 # For Egde browser sync
  activity.windows.com
@@ -1495,6 +1531,7 @@ W###############################################################################
 
 # For CBS app video playing
  om.cbsi.com
+ public.vilynx.com
 
 # https://github.com/notracking/hosts-blocklists/issues/172
  rink.hockeyapp.net
@@ -1824,8 +1861,139 @@ W###############################################################################
  4shared.com
 
 # Legit sites
+ zoo.sandiegozoo.org
+ tv.sohu.com
+ ub.edu.ph
+ jiit.ac.in
+ jabu.edu.ng
  netguard.me
  em.bm23.com
  itmagazine.ch
  mobile.bet365.com
  mijnknwu.knwu.nl
+ alepuniv.edu.sy
+ blog.sina.com.cn
+ business.opera.com
+ news.ebc.net.tw
+
+# https://github.com/AdguardTeam/AdguardFilters/issues/30138
+ bi.medscape.com
+
+# https://github.com/Baufritz69/Pi-hole-Liste/issues/1
+ bravia.dl.playstation.net
+
+# content delivery cdn
+ c.live.com
+ c.live.com.nsatc.net
+
+# For t-online.de video playback
+ player.glomex.com
+
+# Required for online key activation
+ cap.cyberlink.com
+
+# For newsletter, still a clickjacker but should be blocked by other means
+ click.revue.email
+
+# Required for Cydia IOS jailbreak
+ cydia.saurik.com.cdngc.net
+
+# Foxnews cdn
+ d16s8pqtk4uodx.cloudfront.net
+
+# For sticker.co quiz
+ d26b395fwzu5fz.cloudfront.net
+
+# For Philips logon
+ d29usylhdk1xyu.cloudfront.net
+
+# Will drain Kindle battery when blocked, users are advised to disable tracking in the app settings
+ device-metrics-us.amazon.com
+ device-metrics-us-2.amazon.com
+
+# Blocked by malware lists, not serving malware anymore
+ dl.twitchdl.com
+
+# hdseans.pl video playback blocked
+ ebd.cda.pl
+
+# Yahoo video cast
+ edgecast-vod.yahoo.net
+
+# MS App center (legit), see: https://github.com/AdAway/adaway.github.io/issues/63
+ gate.hockeyapp.net
+ sdk.hockeyapp.net
+
+# Crashes nbc video app
+ geo.nbcsports.com
+
+# Breaks weather.com video
+ gscounters.us1.gigya.com
+
+# pcgamer.com video
+ hawk.pcgamer.com
+
+# Taobao pages sometimes tun blank
+ i.click.taobao.com
+
+# OPTIN apple reporting
+ idiagnostics.apple.com
+ idiagnostics.apple.com.akadns.net
+ securemetrics.apple.com
+
+# unbreaks youku (video platform)
+ images.sohu.com
+
+# Hubspot scripts hosts
+ js.hs-scripts.com
+ www.hs-scripts.com
+
+# Asus live update
+ liveupdate01.asus.com
+
+# Quora not usable
+ log.quora.com
+
+# Breaks video playback
+ m.exactag.com
+
+# required for webmail client
+ mailfoogae.appspot.com
+
+# Samsung multiscreen app
+ multiscreen.samsung.com
+ dev-multiscreen.samsung.com
+
+# Required for mixtape
+ my.mixtape.moe
+
+# Office 365
+ nexus.officeapps.live.com
+
+# Required for chat21 login
+ s-usc1c-nss-233.firebaseio.com
+
+# MS Edge (old version though)
+ s1325.t.eloqua.com
+
+# Uninstalls apps after reboot on samsung tv
+ samsungrm.net
+
+# Free file hoster
+ share.dmca.gripe
+ dmca.gripe
+
+# Required for google hashcode login
+ smartlock.google.com
+
+# Required for account login
+ sso.internetat.tv
+ ssor.tribdss.com
+
+# Yahoo video API
+ yql.yahoo.com
+
+# Taobao
+ click.aliexpress.com
+ s.click.taobao.com
+ s.click.tmall.com
