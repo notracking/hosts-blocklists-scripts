@@ -601,6 +601,10 @@
 # Linkshortners, but it's really only used for tracking purposes.
 # Should start working on a better solution for these kind of crap services that will only lead to linkrot.
 # https://github.com/notracking/hosts-blocklists/issues/357
+ tinyurl.com
+ ppt.cc
+ lihi.cc
+ yerl.org
  prf.hn
  buff.ly
  www.bit.ly
@@ -699,7 +703,6 @@
  dropbox.com
  amazonaws.com
  forbes.com
- tinyurl.com
  miibeian.gov.cn
  msn.com
  go.com
