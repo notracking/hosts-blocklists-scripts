@@ -42,11 +42,19 @@
  oms.symantec.com
  om.symantec.com
 
+# For Aeroplan loyalty program
+ om.aeroplan.com
+ som.aeroplan.com
+
 # prevents the first time visiting google.com in a session from being blocked
  device-provisioning.googleapis.com
 
 # cannot login to epic launcher when blocked
  tracking.epicgames.com
+
+# Loot Crate subscription
+ www.lootcrate.com
+ lootcrate.com
 
 # CNAME for fonts.google.com
  gstaticadssl.l.google.com
@@ -601,6 +609,8 @@
 # Linkshortners, but it's really only used for tracking purposes.
 # Should start working on a better solution for these kind of crap services that will only lead to linkrot.
 # https://github.com/notracking/hosts-blocklists/issues/357
+# https://github.com/notracking/hosts-blocklists/issues/377
+ aka.ms
  tinyurl.com
  ppt.cc
  lihi.cc
@@ -1560,6 +1570,9 @@
 # legit tool
  daemon-tools.cc
 
+# For experian.com to work
+ www.datadoghq-browser-agent.com
+
 # Netflix
  ichnaea.netflix.com
  appboot.netflix.com
@@ -2003,3 +2016,18 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/158
  polyfill.io
+
+# Netflix video playback on mobile
+# https://github.com/notracking/hosts-blocklists/issues/378
+ nflxvideo.net
+
+# https://github.com/notracking/hosts-blocklists/issues/376
+ public.sn.files.1drv.com
+
+# Chess ranking website
+ fide.com
+ www.fide.com
+
+# https://github.com/notracking/hosts-blocklists/issues/373
+ ct.sendgrid.net
+ .ct.sendgrid.net
