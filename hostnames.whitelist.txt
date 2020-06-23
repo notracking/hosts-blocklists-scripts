@@ -2030,4 +2030,17 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/373
  ct.sendgrid.net
- .ct.sendgrid.net
+.ct.sendgrid.net
+
+# https://github.com/notracking/hosts-blocklists/issues/380
+ yourlabs.org
+
+# https://github.com/notracking/hosts-blocklists/issues/379
+ en25.com
+ img.en25.com
+ eloqua.com
+ t.eloqua.com
+.t.eloqua.com
+
+# Shared webhost
+ ignorelist.com
