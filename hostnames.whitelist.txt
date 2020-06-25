@@ -2044,3 +2044,14 @@
 
 # Shared webhost
  ignorelist.com
+
+# https://github.com/notracking/hosts-blocklists/issues/382
+ shop.zaloapp.com
+ shop.zalo.me
+ zalo.me
+ zaloapp.com
+
+# https://github.com/notracking/hosts-blocklists/issues/384
+ biv.sony.tv
+ reg.biv.sony.tv
+ service.biv.sony.tv
