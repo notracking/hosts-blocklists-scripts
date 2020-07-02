@@ -72,6 +72,7 @@
  jwplayer.com
 
 # Randoms
+ ridefox.com
  ct.pinterest.com
  customerevents.netflix.com
  bazoom.com
@@ -2056,3 +2057,6 @@
  reg.biv.sony.tv
  service.biv.sony.tv
  update.biv.sony.tv
+
+# all subdomains should remain blocked: https://github.com/notracking/hosts-blocklists/issues/386
+ snssdk.com
