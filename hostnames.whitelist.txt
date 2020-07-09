@@ -72,6 +72,9 @@
  jwplayer.com
 
 # Randoms
+ dns1.registrar-servers.com
+ dns2.registrar-servers.com
+ emails.kickstarter.com
  ridefox.com
  ct.pinterest.com
  customerevents.netflix.com
@@ -2057,6 +2060,9 @@
  reg.biv.sony.tv
  service.biv.sony.tv
  update.biv.sony.tv
+ ssm1.internet.sony.tv
+ ssm2.internet.sony.tv
+ ssm3.internet.sony.tv
 
 # all subdomains should remain blocked: https://github.com/notracking/hosts-blocklists/issues/386
  snssdk.com
