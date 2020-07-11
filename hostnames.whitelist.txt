@@ -2066,3 +2066,6 @@
 
 # all subdomains should remain blocked: https://github.com/notracking/hosts-blocklists/issues/386
  snssdk.com
+
+# https://github.com/notracking/hosts-blocklists/issues/397
+ metrics.torproject.org
