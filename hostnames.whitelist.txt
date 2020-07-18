@@ -1140,6 +1140,7 @@
 
 # https://github.com/StevenBlack/hosts/issues/419
  s0.2mdn.net
+ 2mdn.net
 
 # https://github.com/StevenBlack/hosts/issues/415
  teslathemes.com
@@ -1844,6 +1845,7 @@
 
 # For REHL online learning videos to work
  79423.analytics.edgekey.net
+ analytics.edgekey.net
 
 # The Rakuten Viber image send failed
  s-bid.rmp.rakuten.com
@@ -2069,3 +2071,7 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/397
  metrics.torproject.org
+
+# required for unsubscribing from newsletters
+ now.eloqua.com
+ secure.eloqua.com
