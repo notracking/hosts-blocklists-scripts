@@ -2075,3 +2075,9 @@
 # required for unsubscribing from newsletters
  now.eloqua.com
  secure.eloqua.com
+
+# https://github.com/notracking/hosts-blocklists/issues/400
+ faygoluvers.net
+
+# legit site
+ teknik.io
