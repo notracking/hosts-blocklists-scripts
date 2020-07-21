@@ -614,6 +614,9 @@
 # Should start working on a better solution for these kind of crap services that will only lead to linkrot.
 # https://github.com/notracking/hosts-blocklists/issues/357
 # https://github.com/notracking/hosts-blocklists/issues/377
+# https://github.com/notracking/hosts-blocklists/issues/402
+ lnkd.in
+ adf.ly
  aka.ms
  tinyurl.com
  ppt.cc
@@ -1671,9 +1674,6 @@
 # Video hosting for local new sites
  vms.bluebillywig.com
 
-# Linkedin link shortner
- lnkd.in
-
 # https://github.com/notracking/hosts-blocklists/issues/258
  zoho.com
  zoho.in
@@ -2081,3 +2081,6 @@
 
 # legit site
  teknik.io
+
+
+
