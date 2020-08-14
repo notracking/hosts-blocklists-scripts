@@ -1994,6 +1994,10 @@
 
 # Required for chat21 login
  s-usc1c-nss-233.firebaseio.com
+# more firebase instances, should FIXME for pattern base whitelisting..
+# https://github.com/notracking/hosts-blocklists/issues/406
+ s-usc1c-nss-223.firebaseio.com
+ s-usc1c-nss-249.firebaseio.com
 
 # MS Edge (old version though)
  s1325.t.eloqua.com
