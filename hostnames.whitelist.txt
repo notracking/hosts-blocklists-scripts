@@ -2117,3 +2117,19 @@
 # https://github.com/notracking/hosts-blocklists/issues/420
  ris.api.iris.microsoft.com
 
+# German tv channels
+ hbbtv.superrtl.de
+ hbbtv.zdf.de
+ hbbtv.sixx.de
+ hbbtv.sat1.de
+ hbbtv.rtl2.de
+ hbbtv.redbutton.de
+ hbbtv.prosieben.de
+ hbbtv.kabeleins.de
+ hbbtv-1.eurosport.com
+ p-hbbtv.superrtl.de
+ hbbtv.3sat.de
+
+# https://www.wilderssecurity.com/threads/adguard-ad-blocker.342850/page-85#post-2656320
+ videoplaza.tv
+
