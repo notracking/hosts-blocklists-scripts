@@ -2144,3 +2144,20 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/430
  drift.com
+
+# https://github.com/notracking/hosts-blocklists/issues/435
+ js.intercomcdn.com
+
+# https://github.com/notracking/hosts-blocklists/issues/436
+ safelinks.protection.outlook.com
+.safelinks.protection.outlook.com
+
+# https://github.com/notracking/hosts-blocklists/issues/434
+# https://github.com/EnergizedProtection/block/issues/446
+ geolocation.onetrust.com
+ error.fc2.com
+ cafe24.com
+ ai.yimg.jp
+ 4ix.com
+ cdn.gotraffic.net
+ gotraffic.net
