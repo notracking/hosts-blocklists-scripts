@@ -2161,3 +2161,11 @@
  4ix.com
  cdn.gotraffic.net
  gotraffic.net
+
+# https://github.com/notracking/hosts-blocklists/issues/438
+ check.ddos-guard.net
+ ddos-guard.net
+
+# https://github.com/notracking/hosts-blocklists/issues/437
+ log.mmstat.com
+ mmstat.com
