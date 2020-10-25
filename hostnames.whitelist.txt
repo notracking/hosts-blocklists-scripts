@@ -2169,3 +2169,6 @@
 # https://github.com/notracking/hosts-blocklists/issues/437
  log.mmstat.com
  mmstat.com
+
+# https://github.com/notracking/hosts-blocklists/issues/442
+ filesusr.com
