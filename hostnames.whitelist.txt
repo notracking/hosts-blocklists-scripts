@@ -101,6 +101,7 @@
  nexusrules.officeapps.live.com
  om.cbsi.com
  docs.google.com
+ www.google.com
  api.uca.cloud.unity3d.com
  ipinfo.io
  motherless.com
@@ -2190,3 +2191,6 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/451
  filehorse.com
+
+# https://github.com/notracking/hosts-blocklists/issues/452
+ playncs.com
