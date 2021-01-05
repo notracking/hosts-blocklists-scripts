@@ -616,6 +616,8 @@
 # https://github.com/notracking/hosts-blocklists/issues/357
 # https://github.com/notracking/hosts-blocklists/issues/377
 # https://github.com/notracking/hosts-blocklists/issues/402
+ is.gd
+ 0x.co
  lnkd.in
  adf.ly
  aka.ms
@@ -2223,3 +2225,10 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/464
  marinetraffic.com
+
+# https://news.ycombinator.com/item?id=25624112
+ femto.pw
+
+# For Myx fitness
+ mdmdown.mayitek.com
+ mayitek.com
