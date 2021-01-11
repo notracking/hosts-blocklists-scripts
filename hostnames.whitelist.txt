@@ -2238,3 +2238,31 @@
 # https://github.com/notracking/hosts-blocklists/issues/469
  ib.snssdk.com
  snssdk.com
+
+# https://github.com/notracking/hosts-blocklists/issues/468
+# Link redirectors
+ go.redirectingat.com
+ redirectingat.com
+ go.skimresources.com
+ skimresources.com
+ visit.digidip.net
+ digidip.net
+# Google shopping
+ googleadservices.com
+ www.googleadservices.com
+ doubleclick.net
+ pagead.l.doubleclick.net
+# breaks mobile apps
+ branch.io
+ api.branch.io
+ api2.branch.io
+ cdn.branch.io
+
+# invalid domain extensions
+.local
+.localhost
+.example
+.invalid
+.onion
+.test
+
