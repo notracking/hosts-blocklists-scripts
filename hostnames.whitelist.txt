@@ -42,6 +42,9 @@
  oms.symantec.com
  om.symantec.com
 
+# kidblog
+ d2zah9y47r7bi2.cloudfront.net
+
 # For Aeroplan loyalty program
  om.aeroplan.com
  som.aeroplan.com
@@ -71,7 +74,64 @@
 # for video hosting on various news sites
  jwplayer.com
 
+# Online game
+ elvenar.com
+
 # Randoms
+ z.zz.ht
+ zapto.org
+ workona.com
+ weblockapp.com
+ webair.com
+ wallet.advcash.com
+ vcrypt.net
+ users.on.net
+ systweak.com
+ snap.com
+ skidrow-games.com
+ site5.com
+ sellix.io
+ s-forum.biz
+ rpgenerator.net
+ romsmania.com
+ raidforums.com
+ p.imgur.com
+ natcom.co.nz
+ magiskmanager.com
+ lps.innogames.com
+ lps.innogamescdn.com
+ lindy.co.id
+ kredytbank.com.ua
+ klusbeter.nl
+ kisshentai.net
+ kiks.yandex.ru
+ kemsos.go.id
+ kharkov.ua
+ jqueryscript.net
+ iwelt.de
+ iubenda.com
+ investingchannel.com
+ incredimail.com
+ hollyhockhill.com
+ hawaiisurf.com
+ freeroms.com
+ etn.fm
+ email.uber.com
+ ekg.riotgames.com
+ riotgames.com
+ drivethelife.com
+ cs.money
+ clien.net
+ ckk.ai
+ cba.pl
+ c.paypal.com
+ brakrock.be
+ blogtopsites.com
+ www.blogtopsites.com
+ api.nfl.com
+ admarkt.marktplaats.nl
+ 123greetings.com
+ livejasmin.com
  dns1.registrar-servers.com
  dns2.registrar-servers.com
  emails.kickstarter.com
@@ -316,6 +376,7 @@
  com-verification.id
  steamcommunity.com
  support.microsoft.com
+ diagnostics.support.microsoft.com
  yui.yahooapis.com
  i0.wp.com
  www.cheatengine.org
@@ -617,6 +678,10 @@
 # https://github.com/notracking/hosts-blocklists/issues/377
 # https://github.com/notracking/hosts-blocklists/issues/402
 # https://github.com/notracking/hosts-blocklists/issues/466
+ x.co
+ surl.me
+ br4.in
+ 5z8.info
  vk.cc
  is.gd
  0x.co
@@ -748,6 +813,7 @@
  amazon.co.uk
  livejournal.com
  mail.ru
+ r.mail.ru
  about.com
  reuters.com
  yahoo.co.jp
@@ -1002,6 +1068,8 @@
  scientificamerican.com
  mailchimp.com
  static.mailchimp.com
+ downloads.mailchimp.com
+ d1zgderxoe1a.cloudfront.net
  www.mailchimp.com
  theglobeandmail.com
  nypost.com
@@ -2266,3 +2334,10 @@
 .onion
 .test
 
+# https://github.com/notracking/hosts-blocklists/issues/472
+ patch.chelpus.com
+ chelpus.com
+
+# crappy cookie tracker for all Verizon Media sites, will otherwise break techcrunch, yahoo etc.
+ guce.advertising.com
+ advertising.com
