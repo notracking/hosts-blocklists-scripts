@@ -2341,3 +2341,6 @@
 # crappy cookie tracker for all Verizon Media sites, will otherwise break techcrunch, yahoo etc.
  guce.advertising.com
  advertising.com
+
+# https://github.com/notracking/hosts-blocklists/issues/473
+ qualtrics.com
