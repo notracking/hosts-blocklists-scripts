@@ -78,6 +78,9 @@
  elvenar.com
 
 # Randoms
+ sharepoint.com
+ api.onedrive.com
+ onedrive.com
  z.zz.ht
  zapto.org
  workona.com
@@ -489,6 +492,7 @@
  tlu.dl.delivery.mp.microsoft.com
  v4.download.windowsupdate.com
  windowsupdate.com
+ akadns.net
 
 # For xbox achievements
 # See https://www.reddit.com/r/xboxone/comments/5l7bm1/tech_piholeother_dns_users_additional_whitelist/
@@ -578,7 +582,7 @@
  symcd.com
  performgroup.com
  unk.vver.kiae.rr
- ssl-nl.persgroep.edgekey.neto
+ ssl-nl.persgroep.edgekey.net
  accounts.pkr.com.invalid
 
 # whitelist from (approved only): http://www.dshield.org/feeds/suspiciousdomains_whitelist_approved.txt
@@ -2344,3 +2348,6 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/473
  qualtrics.com
+
+# https://github.com/notracking/hosts-blocklists/issues/475
+ differencebetween.info
