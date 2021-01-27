@@ -2330,14 +2330,6 @@
  api2.branch.io
  cdn.branch.io
 
-# invalid domain extensions
-.local
-.localhost
-.example
-.invalid
-.onion
-.test
-
 # https://github.com/notracking/hosts-blocklists/issues/472
  patch.chelpus.com
  chelpus.com
