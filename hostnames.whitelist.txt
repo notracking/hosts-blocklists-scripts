@@ -162,7 +162,6 @@
  cdn.vidible.tv
  vidible.tv
  nexusrules.officeapps.live.com
- om.cbsi.com
  docs.google.com
  www.google.com
  api.uca.cloud.unity3d.com
@@ -210,7 +209,6 @@
 # pi-hole commonly whitelisted domains: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212/15
  h-sdk.online-metrix.net
  cdn.cpnscdn.com
- f1.media.brightcove.com
  prod.telemetry.ros.rockstargames.com
  captive.apple.com
  gsp1.apple.com
@@ -221,16 +219,12 @@
  connectivitycheck.gstatic.com
  appspot-preview.l.google.com
  dev.virtualearth.net
- ecn.dev.virtualearth.net
  t0.ssl.ak.dynamic.tiles.virtualearth.net
  t0.ssl.ak.tiles.virtualearth.net
  delivery.vidible.tv
  img.vidible.tv
  videos.vidible.tv
  edge.api.brightcove.com
- cdn.vidible.tv
- conviva.com
- livepassdl.conviva.com
 
 # For "Your Phone/Browser Companion" to work in Win10
  mobile.pipe.aria.microsoft.com
@@ -279,8 +273,6 @@
  cse.google.com
  ec-ns.sascdn.com
  sascdn.com
- widget-cdn.rpxnow.com
- dev.virtualearth.net
  ecn.dev.virtualearth.net
 
 # news video cdn
@@ -299,7 +291,6 @@
 # From https://www.reddit.com/r/raspberry_pi/comments/5j1trl/i_love_how_effective_pihole_is_i_barely_woke_up/dbdkalg/
  info.seek.com
  gumtree.com.au
- j.mp
  opensubtitles.org
  www.opensubtitles.org
  ea.com
@@ -310,7 +301,6 @@
  dl.dropbox.com
  tomshardware.com
  pushover.net
- kickstarter.com
  www.kickstarter.com
  static.kickstarter.com
  clients1.google.com
@@ -322,7 +312,6 @@
 # Other
  aliexpress.com
  s.click.aliexpress.com
- click.aliexpress.com
  answers.microsoft.com
  marktplaats.nl
  www.marktplaats.nl
@@ -473,24 +462,20 @@
  v4.download.windowsupdate.com
 
 # Windows 10 update servers
- au.download.windowsupdate.com
  au.v4.download.windowsupdate.com
  ctldl.windowsupdate.com
  displaycatalog.mp.microsoft.com
- dl.delivery.mp.microsoft.com
  download.windowsupdate.com
  emdl.ws.microsoft.com
  fe2.update.microsoft.com
  fe2.update.microsoft.com.akadns.net
  fe3.delivery.dsp.mp.microsoft.com.nsatc.net
  fe3.delivery.mp.microsoft.com
- fg.v4.download.windowsupdate.com
  microsoftwindowsupdate.net
  sls.update.microsoft.com
  sls.update.microsoft.com.akadns.net
  statsfe2.update.microsoft.com.akadns.net
  tlu.dl.delivery.mp.microsoft.com
- v4.download.windowsupdate.com
  windowsupdate.com
  akadns.net
 
@@ -498,7 +483,6 @@
 # See https://www.reddit.com/r/xboxone/comments/5l7bm1/tech_piholeother_dns_users_additional_whitelist/
 # and https://www.reddit.com/r/xboxone/comments/5khrrl/achievements_not_unlocking/
  assets1.xboxlive.com
- v10.vortex-win.data.microsoft.com
  xbox.ipv6.microsoft.com
  device.auth.xboxlive.com
  title.mgt.xboxlive.com
@@ -547,7 +531,6 @@
 # Plex
  my.plexapp.com
  plex.r.worldssl.net
- fls-na.amazon.com
 
 #from https://github.com/nlopez/adblock_hosts/blob/master/adblock_hosts/adblock_hosts.py
  sysctl.org
@@ -561,12 +544,9 @@
 # https://wally3k.github.io/ (Whitelist suggestions part)
  webcache.googleusercontent.com
  chrome.google.com
- dropbox.com
  dl.dropboxusercontent.com
- cdn.embedly.com
  ax.phobos.apple.com.edgesuite.net
  gitter.im
- proxy.novafusion.ea.com
  alluremedia.com.au
  www.theguardian.com
  secure.surveymonkey.com
@@ -600,7 +580,6 @@
 
 # https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues/1
  gesangsunterricht-hh.de
- mail.ru
  suche.t-online.de
 
 # https://github.com/notracking/hosts-blocklists/issues/13
@@ -644,7 +623,6 @@
  tenforums.com
  www.tenforums.com
  eightforums.com
- emptyloop.com
  jwplatform.com
  ooyala.com
 
@@ -665,16 +643,9 @@
 # https://wally3k.github.io/ (bottom of the page)
  rover.ebay.com
  s3.amazonaws.com
- clients2.google.com
- clients3.google.com
- clients4.google.com
- clients5.google.com
  dns.msftncsi.com
- msftncsi.com
  res.cloudinary.com
  imgs.xkcd.com
- alluremedia.com.au
- dl.dropbox.com
 
 # Linkshortners, but it's really only used for tracking purposes.
 # Should start working on a better solution for these kind of crap services that will only lead to linkrot.
@@ -748,7 +719,6 @@
  yahoo.com
  flickr.com
  qq.com
- godaddy.com
  buydomains.com
  vk.com
  baidu.com
@@ -768,7 +738,6 @@
  blogger.com
  soundcloud.com
  123-reg.co.uk
- github.com
  miitbeian.gov.cn
  wp.com
  jimdo.com
@@ -794,7 +763,6 @@
  google.co.uk
  dropbox.com
  amazonaws.com
- forbes.com
  miibeian.gov.cn
  msn.com
  go.com
@@ -834,12 +802,9 @@
  sina.com.cn
  time.com
  eepurl.com
- cdc.gov
- amzn.to
  constantcontact.com
  xing.com
  opera.com
- live.com
  harvard.edu
  google.it
  npr.org
@@ -942,7 +907,6 @@
  change.org
  blogspot.ca
  skype.com
- ow.ly
  cbc.ca
  directdomains.com
  wp.me
@@ -1079,7 +1043,6 @@
  nypost.com
  ucla.edu
  elpais.com
- ok.ru
  thetimes.co.uk
  feedly.com
  cdbaby.com
@@ -1326,7 +1289,6 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/67
  ssl.p.jwpcdn.com
- jwpcdn.com
 
 # https://github.com/notracking/hosts-blocklists/issues/68
  sentry.io
@@ -1625,9 +1587,6 @@
 .dynatrace.com
  dynatrace.com
 
-# For facebook app comments
- graph.facebook.com
-
 # For CBS app video playing
  om.cbsi.com
  public.vilynx.com
@@ -1684,7 +1643,6 @@
  lb.production-public.tubi.io
 
 # https://www.reddit.com/r/pihole/comments/8d15la/cbs_all_access_roku_app_not_working_with_pihole/
- om.cbsi.com
  cbsi.com
 
 # Fox News
@@ -1878,10 +1836,7 @@
 .cdc.gov
  worldometers.info
  coronavirus.jhu.edu
- webmd.com
- nhs.uk
  www.who.int
- who.int
 .who.int
  rivm.nl
  www.rivm.nl
@@ -2130,9 +2085,6 @@
  t.eloqua.com
 .t.eloqua.com
 
-# Shared webhost
- ignorelist.com
-
 # https://github.com/notracking/hosts-blocklists/issues/382
  shop.zaloapp.com
  shop.zalo.me
@@ -2309,7 +2261,6 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/469
  ib.snssdk.com
- snssdk.com
 
 # https://github.com/notracking/hosts-blocklists/issues/468
 # Link redirectors
@@ -2347,3 +2298,60 @@
 # Legit crypto exchange
  www.binance.com
  binance.com
+
+# https://github.com/notracking/hosts-blocklists/issues/481
+ www.techradar.com
+
+# https://github.com/notracking/hosts-blocklists/issues/480
+ adups.com
+
+# From top100 list
+ craigslist.org
+ healthline.com
+ homedepot.com
+ mail.yahoo.com
+ indeed.com
+ usps.com
+ quizlet.com
+ gamepedia.com
+ lowes.com
+ merriam-webster.com
+ steampowered.com
+ allrecipes.com
+ quora.com
+ britannica.com
+ bestbuy.com
+ rottentomatoes.com
+ play.google.com
+ roblox.com
+ zillow.com
+ bulbagarden.net
+ finance.yahoo.com
+ genius.com
+ realtor.com
+ medicalnewstoday.com
+ fedex.com
+ bankofamerica.com
+ investopedia.com
+ speedtest.net
+ chase.com
+ hulu.com
+ xfinity.com
+ dictionary.com
+ ups.com
+ verizon.com
+ wowhead.com
+ expedia.com
+ urbandictionary.com
+ foodnetwork.com
+ macys.com
+ apartments.com
+ ign.com
+ capitalone.com
+ costco.com
+ glassdoor.com
+ yellowpages.com
+ khanacademy.org
+ ny.gov
+ en.wikipedia.org
+ fandom.com
