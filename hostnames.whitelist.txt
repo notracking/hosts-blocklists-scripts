@@ -2355,3 +2355,13 @@
  ny.gov
  en.wikipedia.org
  fandom.com
+
+# https://github.com/notracking/hosts-blocklists/issues/482
+ s.media-imdb.com
+ media-imdb.com
+
+# https://github.com/notracking/hosts-blocklists/issues/483
+ url8807.global.passport.xiaomi.com
+ global.passport.xiaomi.com
+ passport.xiaomi.com
+ xiaomi.com
