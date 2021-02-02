@@ -2341,6 +2341,7 @@
  ups.com
  verizon.com
  wowhead.com
+ www.wowhead.com
  expedia.com
  urbandictionary.com
  foodnetwork.com
@@ -2352,9 +2353,13 @@
  glassdoor.com
  yellowpages.com
  khanacademy.org
+ www.khanacademy.org
+ www.ny.gov
  ny.gov
  en.wikipedia.org
+ www.wikipedia.org
  fandom.com
+ www.fandom.com
 
 # https://github.com/notracking/hosts-blocklists/issues/482
  s.media-imdb.com
@@ -2365,3 +2370,24 @@
  global.passport.xiaomi.com
  passport.xiaomi.com
  xiaomi.com
+
+# Gamestores
+ store.steampowered.com
+ www.epicgames.com
+ epicgames.com
+ www.gog.com
+ gog.com
+ www.origin.com
+ origin.com
+ www.humblebundle.com
+ humblebundle.com
+ ubisoftconnect.com
+ www.blizzard.com
+ blizzard.com
+ bethesda.net
+ www.greenmangaming.com
+ greenmangaming.com
+ itch.io
+
+# Required for Taobao website
+ click.simba.taobao.com
