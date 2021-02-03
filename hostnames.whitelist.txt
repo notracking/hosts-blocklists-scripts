@@ -653,6 +653,7 @@
 # https://github.com/notracking/hosts-blocklists/issues/377
 # https://github.com/notracking/hosts-blocklists/issues/402
 # https://github.com/notracking/hosts-blocklists/issues/466
+ bitly.ws
  x.co
  surl.me
  br4.in
@@ -660,6 +661,7 @@
  vk.cc
  is.gd
  0x.co
+ 0rz.tw
  lnkd.in
  adf.ly
  aka.ms
@@ -678,6 +680,9 @@
  bitly.com
  www.bitly.com
  s.id
+ www.ow.ly
+ www.j.mp
+ www.tinyurl.com
 
 # Link redirectors for native ads, mostely used on commercial websites. These will be whitelisted, because of the primary intent of the visiting user.
  ahd.ruten.com.tw
@@ -2391,3 +2396,19 @@
 
 # Required for Taobao website
  click.simba.taobao.com
+
+# Waybackmachine
+ web.archive.org
+ www.web.archive.org
+
+# Wordpress plugin support
+ djtflbt20bdde.cloudfront.net
+
+# Tinypass
+ cdn.tinypass.com
+
+# Dogers site
+ dodgersdigest.com
+
+# VPN host
+ get-express-vpn.com
