@@ -2412,3 +2412,6 @@
 
 # VPN host
  get-express-vpn.com
+
+# https://github.com/notracking/hosts-blocklists/issues/486
+ oasjs.kataweb.it
