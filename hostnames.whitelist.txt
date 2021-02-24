@@ -2424,3 +2424,9 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/497
  hostingprod.com
+
+# Binance api
+ api.binance.com
+
+# https://github.com/notracking/hosts-blocklists/issues/500
+ cloudns.cl
