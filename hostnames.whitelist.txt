@@ -2430,3 +2430,11 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/500
  cloudns.cl
+
+# https://github.com/notracking/hosts-blocklists/issues/505
+ kickass.cd
+
+# https://github.com/notracking/hosts-blocklists/issues/504
+ metric.gstatic.com
+ dnsotls-ds.metric.gstatic.com
+ 
