@@ -2453,3 +2453,10 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/532
  oasis.opstatics.com
+
+# https://github.com/notracking/hosts-blocklists/issues/534
+ backblazeb2.com
+ f000.backblazeb2.com
+
+# Blocklist provider
+ kriskintel.com
