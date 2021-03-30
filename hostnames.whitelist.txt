@@ -2460,3 +2460,8 @@
 
 # Blocklist provider
  kriskintel.com
+
+# https://github.com/notracking/hosts-blocklists/issues/546
+ hbbtv.qvc.de
+ hbbtvapp.sonnenklar.tv
+ hbbtv01p.anixe.net
