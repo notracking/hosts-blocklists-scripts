@@ -2499,3 +2499,11 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/572
  arkoselabs.com
+
+# Block access to several newssites
+ privacymanager.io
+ cookielaw.org
+ cookiebot.com
+
+# https://github.com/notracking/hosts-blocklists/issues/573
+ altervista.org
