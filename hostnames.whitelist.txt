@@ -2473,8 +2473,11 @@
  www.linkedin.com
 
 # https://github.com/notracking/hosts-blocklists/issues/554
+# https://github.com/notracking/hosts-blocklists/issues/577
  stat24.com
  ipla.hit.stat24.com
+ redefine.hit.stat24.com
+ redefine2.hit.stat24.com
 
 # https://github.com/notracking/hosts-blocklists/issues/553
  prodxnews1blob.blob.core.windows.net
