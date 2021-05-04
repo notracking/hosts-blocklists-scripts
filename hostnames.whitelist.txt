@@ -2513,3 +2513,11 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/579
  www.real-markt.de
+
+# https://github.com/notracking/hosts-blocklists/issues/580
+ wire.com
+.wire.com
+
+# Binance, blocked by tkip
+ api.binance.com
+.api.binance.com
