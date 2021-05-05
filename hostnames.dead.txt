@@ -1,7 +1,7 @@
 ###############################################################################################################
 # Source: https://github.com/notracking/hosts-blocklists-scripts
-# Last update: Tue 04 May 2021 03:25:42 AM CEST
-# Number of dead hostnames: 64491
+# Last update: Wed 05 May 2021 03:27:13 AM CEST
+# Number of dead hostnames: 64716
 # License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 # Buy me a beer!: https://www.paypal.me/notracking
 #
@@ -9,6 +9,7 @@
 # All dead hosts respond NXDOMAIN on A, AAAA, CNAME and NS requests (via 1.1.1.1) for at least 3 days in a row
 # Hostnames listed in here can be safely removed from any blocklist
 ###############################################################################################################
+0.104-193.openvpn.btcchina.com
 0.blackshadesdnss.no-ip.biz
 0.turkcedusunturkcekonus.com
 0.versiondat.xyz
@@ -19,7 +20,6 @@
 002.ccpowercrew.biz
 0022a601.pphost.net
 003.ccpowercrew.biz
-0039.00afrodithe.openvpn.www.eth.bw.com
 0077777700140002.myhomescreen.tv
 009boot.ddns.net
 00adrian.mendoza.dvsmall.com
@@ -139,7 +139,6 @@
 100.111.231.2.static.cdnserver.in
 100.admin5.com
 100k2.ddns.net
-101.boquan.net
 102.stream.livejasmin.com
 1020304.ddns.net
 1030408.servicesndt1.club
@@ -221,7 +220,6 @@
 1338099.casacam.net
 1356657.servicesgsp1.club
 135791.ddns.net
-139.api.nanopool.org
 13r.lg.ua
 14170.8wix.com
 143c9.hanashikoto.ru
@@ -540,7 +538,6 @@
 35948.us.to
 35buofa35.bankofamericaslpemr.com
 35sxssxs.duckdns.org
-360.anonymou5.com
 360lab.ddns.net
 365.algoaplastics.com
 365.mbrodet.com
@@ -1015,6 +1012,7 @@
 8rfsa21sa.pp.ua
 8ruzz.allcpa.006238.xyz
 8sbuofa8s.bankofamericaslpemr.com
+8sf1e4.saithingware.ru
 8t2.di91ba.cn
 8tbuortfa8t.bankofamericaslpemr.com
 8ubuofa8u.bankofamericaslpemr.com
@@ -1275,7 +1273,6 @@ aapumbnihs.duckdns.org
 aaqxlpmrsk.duckdns.org
 aarondrew313.ddns.net
 aas.guguilin.cn
-aass.ddns.net
 aassaassaa.ddns.net
 aassdd112230.ddns.net
 aassp.wgzty.cn
@@ -1436,6 +1433,7 @@ abxym.goruli.com
 abxzoebxxl.duckdns.org
 abyflvpdpg.duckdns.org
 ac-07616867.mehregantandis.ir
+ac.autoinsmsbb.com
 ac.facebookus-yuxmywo.ubicalo.co
 ac8.svcoding.com
 acc.aviation-group-sharepoint-238678376.ciclopower.com.br
@@ -1850,6 +1848,7 @@ accounts-cynthia.org.pl
 accounts-updateamazoonverify2456712674.sakitmamasku.com
 accounts.accountverification.tech
 accounts.check-webapp.xyz
+accounts.craigslist.getsecureorg.xyz
 accounts.getmyip.com
 accounts.googgles.xyz
 accounts.googie.com.security-checkup.network
@@ -2017,6 +2016,7 @@ ad.ezcybersearch.com
 ad.f1cd.ru
 ad.fantiki.net
 ad.fnnews.com
+ad.fo.net
 ad.freenet-rz.de
 ad.funshion.org.cn
 ad.gate24.ch
@@ -2597,7 +2597,6 @@ admin.onlychallenges.com
 admin.safersurf.com
 admin.solissol.com
 admin.targetad.net
-admin.teamworxs.co.za
 admin.waverevenue.com
 admin221.ddns.net
 adminben.dyndns-server.com
@@ -2613,6 +2612,7 @@ admzonc.kiju.com.cn
 adn.adneo.co.kr
 adn.kinkydollars.com
 adn.nsmartad.com
+adncxclcep.duckdns.org
 adnet.chicago.tribune.com
 adnet.sohu.com
 adnet.worldreviewer.com
@@ -2976,7 +2976,6 @@ ads.pdbarea.com
 ads.pdxguide.com
 ads.peninsulaclarion.com
 ads.penny-arcade.com
-ads.phillyadclub.com
 ads.pilotonline.com
 ads.place1.com
 ads.planet49.com
@@ -3363,6 +3362,7 @@ adserver.voir.ca
 adserver.weakgame.com
 adserver.wemnet.nl
 adserver.ya.com
+adserver.yahoo.co.jp
 adserver.zaz.com.br
 adserver01.ancestry.com
 adserver1.economist.com
@@ -3483,6 +3483,7 @@ adview.ppro.de
 advqyznycu.duckdns.org
 advrts-1.revenue-tracker.com
 advstat.xunlei.com
+advwujsdhs.duckdns.org
 adware.kogaryu.com
 adware.storesbiz.com
 adwatre123.ddns.net
@@ -3504,6 +3505,7 @@ adyteyfyue.ddns.net
 adyznbcovw.duckdns.org
 adz.afterdawn.net
 adzone.stltoday.com
+adzqigrwql.duckdns.org
 adzservice.theday.com
 ae86.decode0x.fun
 ae86.decode0x.host
@@ -3515,6 +3517,7 @@ aebaqpgltv.duckdns.org
 aebgxsoqir.duckdns.org
 aec.shjk123.net
 aecgbsjlvn.duckdns.org
+aechwneqdw.duckdns.org
 aecnyjusdb.ddns.net
 aecpa.addroits.com
 aedg.svcoding.com
@@ -3596,6 +3599,7 @@ afisa.nolsab.space
 afixphaszx.duckdns.org
 afmqlviozr.duckdns.org
 afmsstcljp.duckdns.org
+afnfnvgdco.duckdns.org
 afp.adpolestar.net
 afp.lakemneadows.com
 afp.wasu.cn
@@ -3636,6 +3640,7 @@ agent.wizztrakys.com
 agent0720jokeanalkim07-54545.portmap.host
 agentappservice.ddns.net
 agentlora.duckdns.org
+agentpurple.ac.ug
 agentwhite.ddns.net
 agera550312.ddns.net
 agers.duckdns.org
@@ -3675,6 +3680,7 @@ agsagasg-51850.portmap.host
 agscx335s.duckdns.org
 agswerysd.duckdns.org
 agtbobnfqh.duckdns.org
+agtczpcdgm.duckdns.org
 agufkpnvgb.duckdns.org
 aguileranude.1stok.com
 aguiyi123.ddns.net
@@ -3809,6 +3815,7 @@ airbnb.com.rooms-73497045.space
 airbnb.com.rooms75612.com
 airbnb.com3-rooms-checkin-acomodationid7648498623722217.com
 airbnb.fr.viewprop98222.fr
+airbnb.id-rooms.com
 airbnb.listings-9803441.com
 airbnb.long-term-rental-services.com
 airbnb.rooms-booking-29872891-checkin-now-29r7f78.com
@@ -3863,6 +3870,7 @@ ajvasyxcsd.duckdns.org
 ajxgxitauc.duckdns.org
 ajzixwbrlw.duckdns.org
 ak85h.mentriqq.com
+akbvnsijxs.duckdns.org
 akcqfcygbx.duckdns.org
 akcspvagzi.duckdns.org
 akdbjgufpq.duckdns.org
@@ -3883,6 +3891,7 @@ akiorg.batwoqishort.top
 akita14.ddns.net
 akjerzxuqb.duckdns.org
 akjoqljqlg.duckdns.org
+akkpaljjni.duckdns.org
 akkppoobow.duckdns.org
 akkuwechselberlin.shaxiacenter.top
 aklajosyij.duckdns.org
@@ -3989,6 +3998,7 @@ alger07.ddns.net
 algeria-23.no-ip.biz32
 algfkdkbv.biogenicherb.com
 algplwsokx.duckdns.org
+alhjchstdyfonlinstft.dns.army
 alhssoon123.ddns.net
 ali123.ddns.net
 ali1235.ddns.net
@@ -4168,6 +4178,7 @@ alyevacxbc.duckdns.org
 alyllyxxvw.duckdns.org
 alyssamilano.1stok.com
 alyssamilano.ca.tt
+alzaidocne.duckdns.org
 alzintani.ddns.net
 am.azonprim.com
 am.us.rothschildandco.com
@@ -4253,7 +4264,6 @@ ammagedom.ddns.net
 ammar12.ddns.net
 ammar2015.ddns.net
 ammarmaro.ddns.net
-ammarmoh47.ddns.net
 ammataranet.shuiacause.top
 ammazon.monsoon-sale.co
 ammmmlwbvg.duckdns.org
@@ -4264,6 +4274,7 @@ amom.ddns.net
 amosmarcus87.ddns.net
 amozan-support45631.loseyourip.com
 amozan.co.jp.zyxiyys.cn
+amozn.co.jp.facaibxedcrfvt.buzz
 amoznon.webstarterz.com
 amozon.archaeabiotech.com
 amozon.co.japan-dateup.japan-hokkaido.top
@@ -4324,6 +4335,7 @@ an0nd3v.ddns.net
 anb.intcom.kz
 anbg.addroits.com
 anbzrhmdtk.duckdns.org
+anccddee.ddns.net
 ancelon.webhop.net
 anchuzo.ddns.net
 and.lakemneadows.com
@@ -4338,11 +4350,11 @@ andqip.ddns.net
 andr.da-server.ru
 andr642010.ddns.net
 andreimolchanov.siteme.org
+andreshconcejal.solucioneslink.com
 andriod91.ddns.net
 androad12t.temp.swtest.ru
 androbeta.0pu.ru
 android-sdk31.transpera.com
-android.apps.us.to
 android1.ddns.net
 android101.ddns.net
 android1385.ddns.net
@@ -4575,6 +4587,7 @@ api.cmt.mob.com
 api.cowsnbullz.com
 api.data-monitor.info
 api.elementiumdev.com
+api.etc.labaleine.gg
 api.faceb00k.25march.com
 api.felinae.icu
 api.foozor.com
@@ -4727,7 +4740,6 @@ app.help-recovery-pages.my.id
 app.helppages2020.my.id
 app.home99act01.xyz
 app.ibaiducdn.com
-app.id-vk.com
 app.instpgehlprcvrysrvce01.my.id
 app.kmprt99adm001.my.id
 app.lakemneadows.com
@@ -4757,6 +4769,7 @@ app.salmacorp.net
 app.sdg56856hdf.my.id
 app.securepages-help.my.id
 app.securepagessite2020.my.id
+app.service-n26.bjanko.it
 app.sfetybsiness-page.my.id
 app.shikejz.com
 app.sign-appleince.com-statuslog1n-welcom3.gulmobulas.com
@@ -4826,6 +4839,7 @@ appcanceledorderapple88238787214.merenunglah.com
 appconfirmationdetectedlocationonwebservice.giize.com
 appconnect.bekapro.xyz
 appeid.appieid.co.jp-itunes.music-appstore.i7cgiv01.info
+appf.autoinsmsbb.com
 appgerenciamento-tk-com-br.umbler.net
 apphys-sucrodhasj242.efeknuy.com
 appid-information.about.your.purchase.akhirnyagapending2903.com
@@ -5027,6 +5041,7 @@ apple.com.mailupdateinfolock.com
 apple.com.network-click.com
 apple.com.nroie.cn
 apple.com.orderrefund-passidkey.miniamp.org
+apple.com.orglid.cn
 apple.com.pay-apps.services
 apple.com.ryawqu.cn
 apple.com.see-account.com
@@ -5125,6 +5140,7 @@ apple.support.security.account.updatealertlogin.com
 apple.support.securitylogin.email
 apple.supportcustomer7618.usuekama.com
 apple.supportteam-56269241.rindu02.com
+apple.supportverification9614.betteryouf.com
 apple.suppver1fication4892.rindu18.com
 apple.suspndedaccountyourupdate-yd7e82.com
 apple.uk-findmy.com
@@ -5531,6 +5547,7 @@ apps.appstore.payment-support.beadsahaojhb.com
 apps.appstore.payment-support.misslumirkomsul.com
 apps.confirmation-official-account.my.id
 apps.emailprogramdesktop.com
+apps.ios-games.printhaeke.com
 apps.ios-games.selanmntap.com
 apps.ios-games13.newaccountapple.com
 apps.nakshatrajewells.com
@@ -5600,6 +5617,7 @@ aprsgk-36447.portmap.host
 aprsgkpc-51401.portmap.host
 aprxfrprvb.duckdns.org
 aps.kemoge.net
+apssitemarquivrft.francecentral.cloudapp.azure.com
 apt.melotor.at
 apt.qumi.com
 aptgetgxqs3secda.onion.in.net
@@ -5633,6 +5651,7 @@ aqnzuhydrs.duckdns.org
 aqoqlwkeuw.duckdns.org
 aqpnwkfolr.duckdns.org
 aqrn.mentriqq.com
+aqrwpkumqe.duckdns.org
 aqtatcmtpp.duckdns.org
 aquae2015org.shaxiacd.top
 aquafeecom.shuiacensus.top
@@ -5690,6 +5709,7 @@ arglobal.wm01.to
 argoogle.ddns.net
 arhive.davidhacked.tk
 ariaaalikazm.ddns.net
+arigxfgoqv.duckdns.org
 arijanainebojsacom.chifanbudget.top
 arizonokjnet.tigshopping.top
 arjeiba2369.ddns.net
@@ -6013,6 +6033,7 @@ asmail1991.ddns.net
 asmarany.ddns.net
 asmarany.np-ip.biz
 asme1010.ddns.net
+asmgympcwm.duckdns.org
 asn.advolution.de
 asn.crs.com.pa
 asn.cunda.advolution.biz
@@ -6049,8 +6070,11 @@ assistenza.startourschi.com
 assshotgun.freedns.su
 assurancesproetrangercom.shuiacontrast.top
 assurancework.ddns.net
+astraal.poolvale.ddns.net
 astradark.ddns.net
+astralisb.pp.ua
 astralisc.pp.ua
+astralisgq.pp.ua
 astralisl.pp.ua
 astralisqq.pp.ua
 astralisv.pp.ua
@@ -6080,7 +6104,6 @@ at.campaigns.f2.com.au
 at.ceofreehost.com
 at.cowsnbullz.com
 at.mct01.com
-at.moonbeammagic.com
 at.pointbuysys.com
 at4p.porkaspk.com
 atbs.pwc.co.za
@@ -6166,6 +6189,7 @@ augnfkypkv.duckdns.org
 auhuizrljj.duckdns.org
 auid-jp.connect.nomaderho.com
 aukohxvsmn.ddns.net
+aulqypjkcx.duckdns.org
 aumdo6u.sulaimanc.net
 aunazoin.quba.marylly.club
 auniwvthcu.duckdns.org
@@ -6227,6 +6251,7 @@ authenticatingusers.securidaccount.com.userauthenticlogin.org
 authentication-account.apple.appleld.xahusaifs.xyz
 authentication-office365activites.go4explore.in
 authentication.account.appleld.fhuasifhs.xyz
+authentication.rijausupermarketonline.com
 authentication.steadystamp-vimor.club
 authenticationmode.libertyuniversity.officedeskportal.xyz
 authentif-am-zon.cloudaccess.host
@@ -6290,6 +6315,7 @@ autoupdatfreeee.coolwwweb.com
 autovonmanstein.x10.mx
 autowerkstattonline.chifanavoid.top
 auuxsiajus.duckdns.org
+auvrcehgdd.duckdns.org
 auvxlteeir.duckdns.org
 auw8duii3j5.gotdns.ch
 auxilio.cadastro-caixa.org
@@ -6764,6 +6790,7 @@ baitegevzr.duckdns.org
 bak.ignorelist.com
 bakgood.ddns.net
 bakq.svcoding.com
+baksproperty.gov.ug
 bakunthnathcollege.org.in
 bakup.firefox-sync.com
 baky.dxkogg1018bak.info
@@ -7017,7 +7044,6 @@ baz.downloadcor.xyz
 baznsjwjkl.duckdns.org
 bb.agenciadigital-app.com
 bb.antoniodiodato.net
-bb.appclientebb.info
 bb.cliente-app.live
 bb.comeseemedia.com
 bb.deriondar.at
@@ -7348,9 +7374,9 @@ betterperformance.goldenopps.info
 betul.ambil-hadiah.com
 beuxagguje.duckdns.org
 beveiliging-mijncards.noez.me
+beveragesmiami.solucioneslink.com
 bevestig.toestelip-verificatie.xyz
 bevqxjlfbi.ddns.net
-bewareofleaking.fromamazondiscounts.xyz
 bewareofleaking.newcardamaontoyou.icu
 bewareofleaking.rakutenmall.cyou
 bewareofleaking.rakutenmallcard.xyz
@@ -7363,6 +7389,11 @@ bexldlsbaa.ddns.net
 beydtjkyhs.duckdns.org
 beykozlufethet.ddns.net
 beyopbjkoq.duckdns.org
+bezpieczna-nasza-poczta.biz.pl
+bezpieczna-nasza-poczta.info.pl
+bezpieczna-nasza-poczta.net.pl
+bezpieczna-nasza-poczta.org.pl
+bezpieczna-naszapoczta.biz.pl
 bf-2.oujevais.com
 bf2back.sinip.es
 bf3.dyndns-ip.com
@@ -7567,6 +7598,7 @@ bixia.fymm.cn
 bixqjbsflj.ddns.net
 bixtrbnzle.duckdns.org
 biz5.kankan.com
+biznesplanet.bnpparlba.com
 bizwww.livejasmin.com
 bj02.cww.com
 bj45.porkaspk.com
@@ -7626,6 +7658,7 @@ bkpjoin.send20.gq
 bkpsugionovsmiakhalifa.m-whatsapp.ml
 bkpwhtaspp.whatsappyub.tk
 bkpwhyaaa.hoaztbokep.ga
+bkpzalllll.se.ke
 bkqmsneygi.ddns.net
 bksjrakubs.duckdns.org
 bktrafgkta.duckdns.org
@@ -7822,6 +7855,7 @@ bluntneo.ddns.net
 blvshsyefu.duckdns.org
 blwqsyswon.duckdns.org
 blxwsgskhi.duckdns.org
+blyblystdycomunicafb.dns.army
 blyqwrimny.duckdns.org
 blzingz.kozow.com
 blzkjniymu.duckdns.org
@@ -7861,6 +7895,7 @@ bmwfkliviw.duckdns.org
 bmwnviahkw.duckdns.org
 bmwnydtfpu.duckdns.org
 bmwzhlkaiz.duckdns.org
+bmxydznvxq.duckdns.org
 bmydcafbtw.duckdns.org
 bmylmmzyqd.duckdns.org
 bmyqdedqqe.duckdns.org
@@ -8172,6 +8207,111 @@ bqycsuhhri.duckdns.org
 bqzahtqyxj.duckdns.org
 br-sec-series.joomla.com
 br.cairesoutlet.com.br
+br.fbook-00488302.safimmo.com
+br.fbook-02630169.safimmo.com
+br.fbook-04613923.safimmo.com
+br.fbook-05446918.safimmo.com
+br.fbook-06190526.safimmo.com
+br.fbook-06667378.safimmo.com
+br.fbook-06669106.safimmo.com
+br.fbook-06681535.safimmo.com
+br.fbook-06990592.safimmo.com
+br.fbook-07155809.safimmo.com
+br.fbook-07985378.safimmo.com
+br.fbook-10202866.safimmo.com
+br.fbook-11127844.safimmo.com
+br.fbook-12399954.safimmo.com
+br.fbook-13428889.safimmo.com
+br.fbook-13449417.safimmo.com
+br.fbook-14243007.safimmo.com
+br.fbook-14588033.safimmo.com
+br.fbook-14688103.safimmo.com
+br.fbook-14783286.safimmo.com
+br.fbook-14811228.safimmo.com
+br.fbook-14956730.safimmo.com
+br.fbook-16222861.safimmo.com
+br.fbook-16551695.safimmo.com
+br.fbook-18737415.safimmo.com
+br.fbook-19023286.safimmo.com
+br.fbook-19797081.safimmo.com
+br.fbook-20908668.safimmo.com
+br.fbook-21413708.safimmo.com
+br.fbook-21496619.safimmo.com
+br.fbook-21542921.safimmo.com
+br.fbook-22990715.safimmo.com
+br.fbook-23356563.safimmo.com
+br.fbook-23655449.safimmo.com
+br.fbook-24563625.safimmo.com
+br.fbook-24992424.safimmo.com
+br.fbook-25044814.safimmo.com
+br.fbook-25805204.safimmo.com
+br.fbook-26247033.safimmo.com
+br.fbook-26678502.safimmo.com
+br.fbook-28446037.safimmo.com
+br.fbook-28587910.safimmo.com
+br.fbook-28661161.safimmo.com
+br.fbook-29388715.safimmo.com
+br.fbook-29724880.safimmo.com
+br.fbook-30469454.safimmo.com
+br.fbook-31260359.safimmo.com
+br.fbook-34502579.safimmo.com
+br.fbook-35978457.safimmo.com
+br.fbook-37420273.safimmo.com
+br.fbook-39611439.safimmo.com
+br.fbook-45677312.safimmo.com
+br.fbook-45888263.safimmo.com
+br.fbook-46869026.safimmo.com
+br.fbook-47014302.safimmo.com
+br.fbook-47842238.safimmo.com
+br.fbook-48044251.safimmo.com
+br.fbook-48299080.safimmo.com
+br.fbook-48531796.safimmo.com
+br.fbook-51527234.safimmo.com
+br.fbook-53112419.safimmo.com
+br.fbook-53114736.safimmo.com
+br.fbook-56616612.safimmo.com
+br.fbook-57130768.safimmo.com
+br.fbook-57779711.safimmo.com
+br.fbook-57953440.safimmo.com
+br.fbook-62409043.safimmo.com
+br.fbook-62536386.safimmo.com
+br.fbook-63490238.safimmo.com
+br.fbook-66190996.safimmo.com
+br.fbook-66344017.safimmo.com
+br.fbook-66352250.safimmo.com
+br.fbook-66606941.safimmo.com
+br.fbook-66816299.safimmo.com
+br.fbook-67516500.safimmo.com
+br.fbook-69238913.safimmo.com
+br.fbook-70367696.safimmo.com
+br.fbook-70644792.safimmo.com
+br.fbook-70753400.safimmo.com
+br.fbook-71115118.safimmo.com
+br.fbook-74441008.safimmo.com
+br.fbook-74570843.safimmo.com
+br.fbook-76042385.safimmo.com
+br.fbook-76526223.safimmo.com
+br.fbook-79208991.safimmo.com
+br.fbook-83177411.safimmo.com
+br.fbook-83287920.safimmo.com
+br.fbook-84651144.safimmo.com
+br.fbook-85317459.safimmo.com
+br.fbook-86273821.safimmo.com
+br.fbook-90550987.safimmo.com
+br.fbook-90863539.safimmo.com
+br.fbook-91444220.safimmo.com
+br.fbook-93345179.safimmo.com
+br.fbook-93858619.safimmo.com
+br.fbook-94449540.safimmo.com
+br.fbook-95148904.safimmo.com
+br.fbook-95769058.safimmo.com
+br.fbook-95972180.safimmo.com
+br.fbook-96371397.safimmo.com
+br.fbook-96546854.safimmo.com
+br.fbook-99220283.safimmo.com
+br.fbook-99405424.safimmo.com
+br.fbook-99457595.safimmo.com
+br.fbook-99844128.safimmo.com
 br.rawcomm.net
 bradesco.empresasonlinenegocios.website
 bradesco.empresasonlinesnegocios.website
@@ -8212,6 +8352,7 @@ brfstthgtu.duckdns.org
 brgb.addroits.com
 brgkcaesuj.duckdns.org
 brgzrpuqzg.duckdns.org
+brhbpalvik.duckdns.org
 brhlprszoe.ddns.net
 brhmwqfppj.duckdns.org
 brianawheeler.facebook.com.account.susp.sunnti.com
@@ -8361,6 +8502,7 @@ btdzovfxyq.duckdns.org
 bteodjogso.duckdns.org
 btg.listfash.com
 btghaeyqvg.duckdns.org
+btgufqyjqo.duckdns.org
 btirnnwijy.duckdns.org
 btjxipp.goruli.com
 btlaunch.baidu.com
@@ -8447,11 +8589,14 @@ buruanjoin6.whatsapp-youtubers.com
 buruanjoingrup18.getzitemff1.ga
 buscar.iphone-app.info
 buschfarbende.nckidoctor.gdn
+business-manager.page-fb-ads34232u37e643u2t21.com
+business-manager.page-fb-ads42342u37e632u2t11.com
+business-manager.page-fb-ads533445u37d632u2t43.com
+business-manager.page-fb-ads828376u37d632u2t29.com
 business-page-fb.item48o0gw36ncms40dqbeh.com
 business-page-fb.item7ue9kly9spbi55ywhnfw.com
 business-page.facebook.item3892763652325.com
 business-page.facebook.item92937263526.com
-business-page.fb.realtor-item3289837532.com
 business.es-paypal.com
 business.facebook-page29660481.com
 business.facebook-page52020463.com
@@ -8481,7 +8626,6 @@ butikedyta.cal24.pl
 butt-head.mos.ru
 butterfly-crm.solusaas.com
 butterfly.sinip.es
-butypolskasklep.nadi8.com
 buuwong-watts-project.bftrtdfg.com
 buvqlmznmi.duckdns.org
 buvwfqhklb.duckdns.org
@@ -8632,6 +8776,7 @@ bykertix-42900.portmap.io
 bykmmllppr.ddns.net
 bykmmllppr.duckdns.org
 byknikadzi.duckdns.org
+bymqckdojb.duckdns.org
 bypupufgto.duckdns.org
 byqitvopbm.duckdns.org
 byreuwkolo.topkorder.su
@@ -8642,6 +8787,7 @@ bytudhzqyc.duckdns.org
 byuabbazwk.duckdns.org
 byvjodpabt.duckdns.org
 bywozushgp.duckdns.org
+byxdedlsif.duckdns.org
 byzpjusxyg.duckdns.org
 bz.kimoo.com.tw
 bz2-y.svcoding.com
@@ -8698,8 +8844,8 @@ c.atw.kz
 c.baidu.com
 c.biomuders.at
 c.biz.weibo.com
+c.blissgood.ru
 c.blo.kz
-c.chaochao132.xyz
 c.clilka.su
 c.colofreed.pl
 c.czfllkbjleusjwellpulzgmou.org
@@ -8738,7 +8884,6 @@ c.kl6636.net
 c.kuaituisss.com
 c.lalaxqt.cn
 c.lbsbbw.cn
-c.lelangegg.cn
 c.lidia39.club
 c.lmj.su
 c.login.paypool.cf
@@ -8780,6 +8925,7 @@ c.wolfiot.xyz
 c.wrating.com
 c.wwng.su
 c.xianguonongchang.org
+c.xiaozhuyoupu.com
 c.xznykf.org
 c.ynlysg.com
 c.zae2.su
@@ -9367,6 +9513,7 @@ cfawmgbcvy.duckdns.org
 cfbavocatcom.shaxiaca.top
 cfdac.8g0ymk.cn
 cffbfzyyle.duckdns.org
+cffncgrszi.duckdns.org
 cfg.smt.docomo.ne.jp.nerfcewz.com
 cfg.smt.docomo.ne.jp.ngetestaja.com
 cfhx.f3322.org
@@ -9696,7 +9843,6 @@ chat.fnv.nl
 chat.joypage.xyz
 chat.phpchatrooms.com
 chat.queerline.de
-chat.whacxtdtsaaqp.pvip98.com
 chat.whaksapp.com
 chat.whatsa4bp.com
 chat.whatsaap.com.eventvip-freeitem.com
@@ -9860,12 +10006,10 @@ cheap-phentermine.polybuild.ru
 cheap-valium.polybuild.ru
 cheap-viagra.polybuild.ru
 cheap.alibobomoneyman.xyz
-cheaps.shopsales2021.com
 cheaptrainticket.cogbiz-infotech.com
 cheat12.ddns.net
 cheatkogama.ddns.net
 cheche.chickenkiller.com
-check-japan-amazon.jo1.top
 check-your-info-account-net-flix-e-id.busestec.com
 check.blogdns.com
 check.fiashupdate.xyz
@@ -9883,6 +10027,7 @@ checkin.travelsanignacio.com
 checking-update-sequence-routing.supstriveri.com
 checkingfree.thebig-centeralplacecontentprepared.review
 checkintests.azurewebsites.net
+checklist.buncgo.com
 checkout.pointbuysys.com
 checkpoint-bussiness-manager-corporation-2020.my.id
 checkpoint-manager-corporation-2020.my.id
@@ -10130,6 +10275,7 @@ cked.4horsemen.pw
 ckfnbojxgv.duckdns.org
 ckiguddjqo.ddns.net
 ckihzuthzs.duckdns.org
+ckiiowkddk.duckdns.org
 ckjsqogpmp.duckdns.org
 ckjzayshws.duckdns.org
 ckkguqobhv.duckdns.org
@@ -10359,6 +10505,7 @@ cmd32.ddns.net
 cmdgvzvyod.duckdns.org
 cme.svcoding.com
 cmf.bloodiedeh.com
+cmgoldcup.pp.ua
 cmhaufwplb.duckdns.org
 cmhcwthpck.ddns.net
 cmjciroaln.duckdns.org
@@ -10379,6 +10526,7 @@ cms3.kokdag.com
 cmshandelcom.shuiabrown.top
 cmulcfiron.verdva.com
 cmweypawss.ddns.net
+cmwnikicef.duckdns.org
 cmyjgevsqb.ddns.net
 cmyzearznp.duckdns.org
 cn.api.push.le.com
@@ -10513,7 +10661,6 @@ co.jp5.memberonlineprimesuscodee.xyz
 co.jp6.memberonlineprimesuscodee.xyz
 co.jp8.memberonlineprimesuscodee.xyz
 co.jp9.memberonlineprimesuscodee.xyz
-co.ncte-india.org.in
 co.uk-prime-subscription-id1032.adminit.com.au
 co.uk-prime-subscription-id3322.adminit.com.au
 co.uk-prime-subscription-id741625.adminit.com.au
@@ -10577,6 +10724,7 @@ codey.dyndns.org
 codzienne-wiadomosci10.microhost.com.pl
 codzienne-wiadomosci8.microhost.com.pl
 coeygzpfqy.duckdns.org
+cofdbcnnrz.duckdns.org
 coffeetodrivecom.shaxiabuy.top
 cofrvznfws.duckdns.org
 cogbcabwlz.duckdns.org
@@ -10711,6 +10859,7 @@ communitytrust.onlinesgroup.com
 communitytrust.onlinesgroupe.com
 comnaanmss.duckdns.org
 comodororox.crabdance.com
+comon.ac.ug
 comoveeorg.shaxiaput.top
 compact.wimpact.info
 compactiongames.gameaholic.com
@@ -10833,6 +10982,7 @@ consent.ddns.net
 consola2.nintendo3.life
 consolajuego.nintendowii12.email
 construchouse.vertegenwoordigers.be
+consty.ddns.net
 consupbiz.batwoqishort.top
 conta-caixa.br-informa.email
 contact.mesengerfacebookk.ml
@@ -10943,6 +11093,7 @@ corss042.ddns.net
 cortana.homelinux.com
 cortex8199.mooo.com
 cortfidentaler-aamazon-com.giize.com
+corvicro.chickenkiller.com
 corvo1997.ddns.net
 cosbeena.temp.swtest.ru
 cosecodelivery.org.uk
@@ -11761,6 +11912,7 @@ craigslist.org.account-verification-payment.bds45sd4df.xyz
 craigslist.org.post66872.com
 craigslist.pay-issue.org
 craigslist.posting-updates.com
+craigslist.posts-preview.com
 craigslist.preview-orders.online
 craigslist.preview-posts.com
 craigslist.review-listings.com
@@ -12065,6 +12217,7 @@ cukgpizsp.goruli.com
 cul.x2mp3.com
 culbsikurv.duckdns.org
 cule.ddns.net
+culkryezdz.duckdns.org
 culottes.premiumbrandd.com
 cumejarjaf.ddns.net
 cumtap.ddns.net
@@ -12089,6 +12242,7 @@ customer-update.der-co-jp.com
 customer-web-service.giize.com
 customer.jilaongling.online
 customer.login-amazon.info-officialwebsite.com
+customer.wellsfargo.ref-id435.work
 customercapital.asperlnx.us
 customercare-online-bdo-com-ph.loseyourip.com
 customercerepolicy-helps.berkorbansejenak.info
@@ -12123,7 +12277,6 @@ cvbjxigwnb.ddns.net
 cvcitnet.shaxiapurpose.top
 cvcittel.shaxiapurpose.top
 cvcmghkshz.duckdns.org
-cvcv.ddns.net
 cvfnahvbrg.duckdns.org
 cvg.smtbkw.cn
 cvgftzdglb.duckdns.org
@@ -12261,6 +12414,7 @@ czfacnihfg.duckdns.org
 czgobawuvr.duckdns.org
 czhjiulfob.duckdns.org
 czhost.ddns.net
+czirmfnzqz.duckdns.org
 czjoblavcg.duckdns.org
 czjy.goruli.com
 czllyxwwvv.duckdns.org
@@ -12580,6 +12734,7 @@ dawwxhjhib.duckdns.org
 daxbrbmwrj.duckdns.org
 day.lakemneadows.com
 daya4659.ddns.net
+dayabmbcpx.duckdns.org
 dayiyulecheng.tavmo.com
 daytcdsggb.duckdns.org
 daytedrejx.duckdns.org
@@ -12626,6 +12781,7 @@ dbtrlkiesj.duckdns.org
 dbwjwwiiih.duckdns.org
 dbwp.goruli.com
 dbyojkdvaz.duckdns.org
+dbzdfacnbc.duckdns.org
 dbzmmzdpbd.duckdns.org
 dc-45e81045-mail.cibur.ru
 dc-709edd6b9022.scissorsexertion.com
@@ -12714,6 +12870,7 @@ dddff.x8s0c.cn
 dddokciwsq.duckdns.org
 dddoossser.np-ip.org
 dde.jishengjc.com
+ddedsfkvav.duckdns.org
 ddefvpsowq.duckdns.org
 ddenxcywcq.duckdns.org
 dderrrviwx.duckdns.org
@@ -12924,6 +13081,7 @@ demo.store.xn--kaken-tbb.com
 demo.test.xn--blockchin-c2d.com
 demo.traffics.vip
 demo.tuzlapaslanmaz.com
+demo.voolatech.com
 demo.xn--blockchin-c2d.com
 demo.xn--lockchain-zy5d.com
 demo1.parsnet.space
@@ -13181,6 +13339,7 @@ dgojufnbwx.duckdns.org
 dgpd.mentriqq.com
 dgqnjnkfim.duckdns.org
 dgsqgcalqm.duckdns.org
+dgsqhitftb.duckdns.org
 dgtmhwdhdb.duckdns.org
 dgttttsfef.duckdns.org
 dguoyefd.yucupf.cn
@@ -13203,6 +13362,7 @@ dhgkozjnqd.duckdns.org
 dhgxc433.duckdns.org
 dhhafshiqo.duckdns.org
 dhhdtestserver.ddns.net
+dhihsglpqr.duckdns.org
 dhioulgyls.duckdns.org
 dhj.wsaufan.cn
 dhjwenmsub.duckdns.org
@@ -13237,6 +13397,7 @@ dhtaskssoj.duckdns.org
 dhvqifnacj.duckdns.org
 dhvrlffjur.duckdns.org
 dhwwwxxxlr.duckdns.org
+dhwyktfcqy.duckdns.org
 dhxepzyrms.duckdns.org
 dhxqrpjfti.duckdns.org
 dhyietqtxz.duckdns.org
@@ -13422,7 +13583,6 @@ dkylhukqag.duckdns.org
 dkymzooooo.duckdns.org
 dkzy.8866.org
 dl.bestofupload.info
-dl.dswzd.com
 dl.eduancm.com
 dl.haqo.net
 dl.liteflashedgemain.bid
@@ -13445,6 +13605,7 @@ dldqpvbapq.duckdns.org
 dldvtievqk.ddns.net
 dlee889.mywire.org
 dlfocrvbqz.duckdns.org
+dlhigfswry.duckdns.org
 dlielrvfhy.ddns.net
 dlinknas320.asuscomm.com
 dljyzhmecu.ddns.net
@@ -13484,6 +13645,7 @@ dmar-ksa.ddns.net
 dmarr.ddns.net
 dmemmxrrga.duckdns.org
 dmfcxozrtq.duckdns.org
+dmgltbstep.duckdns.org
 dmhobxknns.duckdns.org
 dmhokzldqv.duckdns.org
 dmiypehwsv.ddns.net
@@ -13963,7 +14125,6 @@ dotpay.ipocztexpolska.net
 dotpay.oppocztapolska.com
 dotpay.poczta-emonitoring.net
 dotpay.pocztapolskasa.pl
-dotpay.pocztexpolska48.net
 doubleclick.ddns.net
 doublegrace2020.ddns.net
 douda.ddns.net
@@ -14036,6 +14197,7 @@ dpkharazmicom.shaxianame.top
 dpligacom.shaxiabuy.top
 dpobbbooaf.duckdns.org
 dpobtggggg.duckdns.org
+dpoikprcws.duckdns.org
 dpompvvine.duckdns.org
 dpoocbbooo.duckdns.org
 dppivxhkln.duckdns.org
@@ -14060,6 +14222,7 @@ dqppdjppqq.duckdns.org
 dqsdqdda.ddns.net
 dqsmhbyhpr.duckdns.org
 dqthumbjyp.duckdns.org
+dqufofhvia.duckdns.org
 dquylyjqrj.duckdns.org
 dquynbcgns.duckdns.org
 dqvtheompa.duckdns.org
@@ -14071,6 +14234,7 @@ dr8jt.mentriqq.com
 draagon.ddns.net
 dragon-666.np-ip.biz
 dragonfire-49462.portmap.host
+dragonfire.ac.ug
 dragongamer.ddns.net
 dragonslayer22.ddns.net
 dragonstory.gamelum.com
@@ -14189,7 +14353,6 @@ dsfgcxd4444.duckdns.org
 dsfge4537.duckdns.org
 dsfgeer44.duckdns.org
 dsfger745fd.duckdns.org
-dsfghcb22.duckdns.org
 dsfgsd34.duckdns.org
 dsfgx3664.duckdns.org
 dsfgxcbsae.duckdns.org
@@ -14389,6 +14552,7 @@ dvla.vehicle-claim.com
 dvla.vehiclerefund.limited
 dvlagov.ukre8l6.com
 dvlaservices.goukvehicletaxit.org
+dvmkwarwel.duckdns.org
 dvncx.goruli.com
 dvoycgpnpc.duckdns.org
 dvqfhabyjh.duckdns.org
@@ -14469,8 +14633,6 @@ dylanups.np-ip.biz
 dymvjztfob.duckdns.org
 dyn-corp.ddns.net
 dyn.loolav.space
-dyname.europemis.com
-dynamic.fdkc.jumpingcrab.com
 dynamiceventmanager.ddns.net
 dynamicsac.perficient.com
 dynasty1-54164.portmap.host
@@ -14616,7 +14778,6 @@ e.adsdsu.cn
 e.aetetv.cn
 e.alobuta.net
 e.axs.su
-e.ayues.com
 e.bbvjs.com
 e.bgj216.cn
 e.bgj582.cn
@@ -14745,6 +14906,7 @@ e.kyyqhpi.cn
 e.l93stb.cn
 e.lancedu.com
 e.lbaoj.com
+e.lchar.com
 e.ldsfh.cn
 e.lguir.com
 e.lisla.cn
@@ -14786,6 +14948,7 @@ e.oyrim.com
 e.ozwqxi.cn
 e.p7wj8.cn
 e.pbino.com
+e.picbr.com
 e.pomkl.com
 e.ppaie.com
 e.ppidn.com
@@ -14838,7 +15001,6 @@ e.uchij.com
 e.uksnyf.cn
 e.us8l5b.cn
 e.uu0152q.cn
-e.uwmoghx.cn
 e.uzhaj.com
 e.v48bna.cn
 e.vbaof.com
@@ -15157,6 +15319,7 @@ echteshandwerkcom.shaxiapurpose.top
 echulvzfwp.duckdns.org
 ecialeventfreefire.19covidd.com
 ecjlzmeivy.duckdns.org
+eckonfxetn.duckdns.org
 eckrohrkesselcom.shaxiaca.top
 ecksdi.ddns.net
 eclean.or.kr
@@ -15344,6 +15507,7 @@ ee.online-paymonthly.com
 ee.pay-mybill.co.uk
 ee.paybill-online.co.uk
 ee.paybillonline.co.uk
+ee.payee-infosupports.com
 ee.paymentfailed.com
 ee.paymentinfo-amend.com
 ee.paymentmethod-update.com
@@ -15388,6 +15552,7 @@ ee.verify-authic.com
 ee.verify-infosupport.com
 ee.verify-paymonthly.com
 ee.verifymy-account.com
+ee.verlfy.com
 ee.wv26d.cn
 ee.x0u4o.cn
 ee.x8r9m.cn
@@ -15411,6 +15576,7 @@ eehkmqzhgh.duckdns.org
 eei.lobbycafe.cn
 eel.clerkssighs.com
 eelqb.clicklinkredirect.com
+eelxcgdkfh.duckdns.org
 eenc3.addroits.com
 eeperoxeug.duckdns.org
 eepmeieksw.duckdns.org
@@ -15515,6 +15681,7 @@ ehhjnlhcig.duckdns.org
 ehklarinfo.baerseventhere.top
 ehkzskmlxg.duckdns.org
 ehlkldypuf.duckdns.org
+ehlqlthcgo.duckdns.org
 ehltskhfat.duckdns.org
 ehotel.ddns.net
 ehpqmuaess.duckdns.org
@@ -15558,9 +15725,7 @@ eiogzsryrx.ddns.net
 eipqjrrbwh.duckdns.org
 eisstrahlernet.baerseventake.top
 eistee.1337.ath.cx
-eistee1337.ath.cx
 eit.folks.su
-eitbglobal.ojdinteractiva.com
 eitwzhehro.duckdns.org
 eiuhinssed.arinhi.xyz
 eiuuynydfx.duckdns.org
@@ -15593,7 +15758,6 @@ ejyhtenuom.duckdns.org
 ejyvbsvmva.duckdns.org
 ejzrjjljuq.duckdns.org
 ek8nq.addroits.com
-ekadewisari.web.id
 ekbznkvdau.duckdns.org
 ekehken.myddns.rocks
 ekfe.idanmei.cn
@@ -15845,6 +16009,7 @@ enldamizio.duckdns.org
 enleude.chifanbackground.top
 ennvqewhmu.duckdns.org
 ennxoocwkj.duckdns.org
+enquiry.pascally.com
 enreji.gov.tr
 enroitgsws.duckdns.org
 ensage.ddns.net
@@ -15852,7 +16017,6 @@ ensaraut.temp.swtest.ru
 enseureachaseses.aonlinebservices.website
 enstuiiano.duckdns.org
 enterprise.telesat.com.co
-entersandman.jumpingcrab.com
 entertainingberlincom.shuiabox.top
 entrnational-dhl.gotdns.ch
 entry-stats.huffingtonpost.com
@@ -15875,6 +16039,7 @@ eo.dybx992.top
 eo.hdschw.cn
 eo.lxujghc.cn
 eo.nftqkq.cn
+eo.ou6d.cn
 eo.sdagxz.xyz
 eo.szimic.cn
 eo.yhcrqzj.cn
@@ -15954,6 +16119,7 @@ eprice.ddns.net
 eprzfewaei.duckdns.org
 epson-printer-ink.beesearch.info
 eptablyaym.temp.swtest.ru
+eptumhzjou.duckdns.org
 epuhttttff.duckdns.org
 epusqkn.lnkredirect.com
 epview-buyynkecyd.huskhomes.com
@@ -16001,6 +16167,7 @@ er-manage-center.hol.es
 er.com.q2ws3.cn
 er6pe.svcoding.com
 erabbied3rrre61.e8273.pro
+eramxqbipi.duckdns.org
 erasmus-plius.tomasjs.com
 erbhjjnoal.duckdns.org
 erc-20.myetherwallet.bonus.tokens-mew.com
@@ -16246,6 +16413,7 @@ eumpldkrnz.duckdns.org
 euquerotchu.ddns.net
 euqwzzpugh.duckdns.org
 eur.a1.yimg.com
+eurdduuked.duckdns.org
 eurioooooo.ddns.net
 europe-verification-account.48929855.pro
 europecartouchecom.shaxiaadd.top
@@ -16316,6 +16484,7 @@ evothief.ddns.net
 evoydepxyq.duckdns.org
 evtehuiweg.duckdns.org
 evtwk.goruli.com
+evtyrmejlw.duckdns.org
 evumesstechnikcom.shaxiaapplication.top
 evumesstechnikcom.shaxiapurpose.top
 evwhtvmaiv.duckdns.org
@@ -16432,6 +16601,7 @@ exzepmpyqu.duckdns.org
 exzfduurom.duckdns.org
 exzumrfmhs.duckdns.org
 eybtjbgovg.duckdns.org
+eycdlqkiin.duckdns.org
 eycgybeuxt.ddns.net
 eydelnet.chifanaudit.top
 eydelnet.shaxiaput.top
@@ -16448,8 +16618,6 @@ eymdcvgoik.duckdns.org
 eynwbgafge.ddns.net
 eynwbgafge.duckdns.org
 eyprmwyhbb.duckdns.org
-eypshdjudm.duckdns.org
-eysbherpqt.duckdns.org
 eytojftoke.ddns.net
 eytvsfcrkr.duckdns.org
 eyuldbrwndcf.rzf.futbol
@@ -16496,6 +16664,7 @@ f.mzw000.com
 f.qcwzx.net.cn
 f.qtrip.cc
 f.rhovlnd.cn
+f.saithingware.ru
 f.samsung-lucky-winner.xyz
 f.smssapp.com
 f.yueyetiyu.com
@@ -16749,6 +16918,7 @@ facebook-log-in-attempt.aanibrothers.in
 facebook-log-in-attempt.anpez.org
 facebook-log-in-attempt.cartridgeconnexion.com
 facebook-log-in-attempt.gita-sangha.org
+facebook-log-in-attempt.pothood.com
 facebook-log-in-attempt.vhghss.com
 facebook-login-security-customer-support-ticket-82453.edman.me
 facebook-login-security-customer-support-ticket-83564.mcacor.pe
@@ -16838,6 +17008,7 @@ facebook.bazar.li
 facebook.bdxpress24.com
 facebook.bkhalifa.com
 facebook.bonk.vip
+facebook.bstvbd.com
 facebook.business-id-356166402.com
 facebook.business-page-realtor.ads87g76tyhrt84jr7fyf6dtt633.com
 facebook.business-page.ads8t3u235b54yhtr56u7sr4.com
@@ -16861,7 +17032,6 @@ facebook.com-check-4842639222.kranti-india.org
 facebook.com-check-7784434131.kranti-india.org
 facebook.com-check-9175642621.kranti-india.org
 facebook.com-check-9216800536.kranti-india.org
-facebook.com-check-9247671578.kranti-india.org
 facebook.com-checkpoint-confirm-account-login.gways.xyz
 facebook.com-disallow-72393400.spiritualfoodshq.com
 facebook.com-id1829.com
@@ -17031,6 +17201,7 @@ facebook.sanonymous.me
 facebook.secure-tranzaction-item.xyz
 facebook.secured.access.in.cmsqatar.net
 facebook.securelogin.page
+facebook.skitdesign.com
 facebook.starsacademy.ml
 facebook.steisy.yunersy.com.logiinfaacebook.biz
 facebook.streamhdmovie.info
@@ -17101,7 +17272,6 @@ facebooksecurityaccount.my.id
 facebookso-39491837.the222.ca
 facebookss21.my.id
 facebookupdate.com.page-business.online
-facebookupdate.driverhunter.com
 facebookupdatechecking.k52experts.com
 facebookuser.4990315item.online
 facebookverifylogin.kashi.com.ng
@@ -17120,6 +17290,7 @@ fachentoboss.weborra.com
 facker.ddns.net
 fackyouman123456789.ddns.net
 facturation.ddns.net
+factureaccedorangev1fr.e-consult.xyz
 fadefa.ddns.net
 fadepc.ddns.net
 fadfecxtzr.duckdns.org
@@ -17129,6 +17300,7 @@ faduqzjwkv.duckdns.org
 fadwairits.duckdns.org
 faehnrichwebnet.baerseventhere.top
 faesuwgxbn.duckdns.org
+fafdpcdbgr.duckdns.org
 faged.ddns.net
 faggot.freedns.su
 faggot09.freedns.su
@@ -17192,7 +17364,6 @@ fappingmonkey.ddns.net
 fapyaywjzl.duckdns.org
 faqbyydeqq.duckdns.org
 far.spargroarr.org
-farecnop.loftlm.ru
 fares123.ddns.net
 fargo.com.account.rpdwfsf.xyz
 farhanawais.ddns.net
@@ -17361,6 +17532,7 @@ fb7xw.mentriqq.com
 fb89.com2021w2822page311312-item-ad22h664.xyz
 fbaawyhrqb.duckdns.org
 fbapps.youtubefullvideos.com
+fbbdbcbsqr.duckdns.org
 fbc.animalscareness.xyz
 fbccsgsshm.duckdns.org
 fbccsjlota.duckdns.org
@@ -17439,6 +17611,7 @@ fbz-54044.portmap.io
 fbzm.pqnlorg.cn
 fc.nevisconsultants.com
 fc.yahoo.com.securemailbox.ga
+fcahxzhswl.duckdns.org
 fcalondon.org.uk
 fcauckmixy.duckdns.org
 fcbax.mentriqq.com
@@ -17479,6 +17652,7 @@ fd-fp3.wg1.b.yahoo.com
 fd7x9.webin.bid
 fd8a8df5.ddns.net
 fdartozxck.duckdns.org
+fdavjzejxg.duckdns.org
 fdazpqlvsl.duckdns.org
 fdbf.rogagot.com
 fdbscybuti.duckdns.org
@@ -17544,7 +17718,6 @@ fedqvivihh.duckdns.org
 fedsincoming.ddns.net
 feeaanqrdu.duckdns.org
 feed.connellycandyland.info
-feed.engage.im
 feed.hype-ads.com
 feed.teasermaster.ru
 feedads.googleadservices.com
@@ -17625,7 +17798,6 @@ ffaadd332211.altervista.org
 ffacebook-market-place-id347j34bc82.483224466-item.com
 ffalcony.zpato.org
 ffalxygoty.duckdns.org
-ffcezxlztm.duckdns.org
 ffdaykrwwk.duckdns.org
 ffdope.dyndns.dk
 ffdvttxdbx.ddns.net
@@ -17751,7 +17923,6 @@ fijhhwdnbe.duckdns.org
 fikdgonhto.duckdns.org
 fila.su170.org
 file.botvonline.com
-file.it-share.ro
 file.oculus-tech.com
 file.ok-tj.xyz
 fileexchangeserverprotocolsystemintergra.duckdns.org
@@ -17776,6 +17947,7 @@ fin.manvifinance.com
 final.blatnet.com
 final.pointbuysys.com
 final.poisedtoshrike.com
+finalfantasyxiv.com-nq.xyz
 finance-reports.everyday.com-w13.net
 finance.findingperry.com
 finance.foodforhat.com
@@ -17830,7 +18002,6 @@ firstupkingnum1.ddns.net
 firstyearclevelandorg.chifanbob.top
 firtstdata.kozow.com
 firukhnicj.duckdns.org
-fisabililah.ddns.net
 fiscal.canadaeast.cloudapp.azure.com
 fischerandfriendsnet.shaxiaaccommodation.top
 fischerandfriendsnet.shaxiaoh.top
@@ -18019,7 +18190,6 @@ fmridahonet.shaxiaprimary.top
 fmslopwwlssls.twilightparadox.com
 fmsmnrefro.duckdns.org
 fmsspwgyvl.duckdns.org
-fmuzliwxym.duckdns.org
 fmvfroh.newhotstore.su
 fmvkhbeadx.duckdns.org
 fmwab.lawapass.com
@@ -18102,7 +18272,6 @@ formore.for-more.biz
 formostafa.ddns.net
 forport.ddns.net
 forqlu.nckicruise.gdn
-forshana2a.net.cn
 forthemadix.ddns.net
 fortnitelol.kozow.com
 fortuna.richway.eu
@@ -18143,6 +18312,7 @@ fp.rentwoylas.com
 fpamkhlpkq.ddns.net
 fpanjeppcs.duckdns.org
 fpaqilucad.duckdns.org
+fpasnbjdex.duckdns.org
 fpb.kuhou.com
 fpcdlqhexh.duckdns.org
 fpert.qpoe.com
@@ -18345,6 +18515,7 @@ frwsbmumbz.duckdns.org
 frxer.ddns.net
 frxy404.ddns.net
 frzvjgjhte.duckdns.org
+fsafsxztrj.duckdns.org
 fsb-russia.dtdns.net
 fsdafdsfdsaflkjkxvzcuifsad.azureedge.net
 fsdfid.x10.mx
@@ -18365,6 +18536,7 @@ fsjzdjegkg.duckdns.org
 fskrhukqvs.duckdns.org
 fsm.payrolldeposit.org
 fsm.sysupdate.net
+fsmqpjcdhc.duckdns.org
 fsmsfhzpgs.duckdns.org
 fsoc.ddns.net
 fsocfsoc.ddns.net
@@ -18391,6 +18563,7 @@ fszyinfuhy.duckdns.org
 ft.psdzy.com
 ft4k.ailacabs.com
 ftbjqbwufx.duckdns.org
+ftclxuuixs.duckdns.org
 ftcncoioiy.duckdns.org
 ftdfad347r.6e3t.mwmt.xyz
 ftdgh.yqmmwh.cn
@@ -18571,6 +18744,7 @@ fwnjyucavu.duckdns.org
 fwnlmgjttv.duckdns.org
 fwnocklski.duckdns.org
 fwnxpkboya.duckdns.org
+fwocrpejvk.duckdns.org
 fwp89.dyndns-ip.com
 fwpnjrmawu.duckdns.org
 fwq.kuai-go.com
@@ -18588,6 +18762,7 @@ fxefbuxsvz.duckdns.org
 fxetyjxhcn.duckdns.org
 fxhrcnuket.duckdns.org
 fxirlyxgrx.duckdns.org
+fxjkwrcxtj.duckdns.org
 fxkggljdrb.duckdns.org
 fxlbcvgyqd.ddns.net
 fxnesyletb.duckdns.org
@@ -18670,6 +18845,7 @@ g.wrating.com
 g.zhangaiwan.com
 g.zhgdhe.com
 g.zhoukaika.com
+g0.x0lh.cn
 g00gle.dyndns.org
 g0n-d.mentriqq.com
 g1-b3.mentriqq.com
@@ -18774,7 +18950,6 @@ galfchwmvp.duckdns.org
 gali.keipta.us
 galichina.zaporizhzhe.ua
 gallapaox.dyndns.tv
-galleries.securesoft.info
 galleryimagesas.net.pl
 galleryimagesas.waw.pl
 gallica.mooo.com
@@ -18864,6 +19039,7 @@ gazetapolska.h2g.pl
 gazetapowiatowa.cal24.pl
 gazetawojewodzka.cal24.pl
 gazetkapl.cal24.pl
+gazkfdites.duckdns.org
 gb.tiuop.com
 gb02205510ccgshawks.biotopeorigin.org
 gb02205531ccgshawks.biotopeorigin.org
@@ -18996,6 +19172,7 @@ gdtzkvqeef.duckdns.org
 gdv.stomp.digital
 gdyn.trutv.com
 gdyxvcudtz.duckdns.org
+gdzdigxlgb.duckdns.org
 gdzy.alnawwar.com
 ge-6d.svcoding.com
 ge.camaziz.com
@@ -19046,6 +19223,7 @@ geo.mozilla.org
 geo.perezhilton.com
 geo.precisionclick.com
 geo.theawesomer.com
+geoghtvwef.duckdns.org
 geoiplookup.wikimedia.org
 george81-hall-ibqpwl.eohebv.com
 george81-hall-pvjvwm.eohebv.com
@@ -19057,7 +19235,6 @@ geqlyzmggr.duckdns.org
 geqpqqcppp.duckdns.org
 geqqqqddpe.duckdns.org
 ger35.mentriqq.com
-geranhujalim-001-site1.ctempurl.com
 gerencieapp-tk-com-br.umbler.net
 gereston.gotdns.ch
 gerewwihhh.duckdns.org
@@ -19069,9 +19246,9 @@ gerotron.gotdns.ch
 gerrh.duckdns.org
 gesaithvqz.duckdns.org
 geschaeftskunden.t-online.telekom-verif1ll.icu
+gesdpnmxod.duckdns.org
 gesiscom.nckiconsulting.gdn
 get-fucked.chickenkiller.com
-get-payment.irs.gov.covidirs.com
 get.azbnk.monster
 get.extra-files.com
 get.fletchapp.com
@@ -19102,6 +19279,7 @@ getkbhqlvo.duckdns.org
 getnewsoft.bestfreesitetocontent.info
 getnotified-5383822985.paykarsanaat.ir
 getout.besaba.com
+getpayment.ac.ug
 getpdfreader.13stripesbrewery.com
 getpdfreader.lilupicks.com
 getpmnnztf.duckdns.org
@@ -19116,7 +19294,6 @@ getsoftnow.smallandprecise2upgradesnew.review
 getsoftnow.smallandprecise2upgradingnew.review
 getstrafedout.ddns.net
 getting-page03265948.apple-appleid12.xyz
-gettingeverything.jumpingcrab.com
 gettingwebpage.billing-update3248769.xyz
 gettonatissime.cyprustimbermerchants.com
 gettyclouddp1.gettyimages.com
@@ -19188,11 +19365,11 @@ gghfqlnyzr.duckdns.org
 gghikoophy.duckdns.org
 ggiinanbpq.duckdns.org
 ggkang.ddns.net
+ggkiabfkxv.duckdns.org
 gglmao.system-ns.net
 ggnqcjbtiv.duckdns.org
 ggnxqurogh.duckdns.org
 ggoonfdgfx.duckdns.org
-ggounyirai.duckdns.org
 ggowsddibs.duckdns.org
 ggp1c.oujevais.com
 ggq61.oujevais.com
@@ -19236,6 +19413,7 @@ ghkiwuydmklopjdbcyuavxbnmsheyrhdgcvbzgyu.ydns.eu
 ghlpclb.goruli.com
 ghluuuwter.yujtrewtrey.from-ms.com
 ghmldilwfx.duckdns.org
+ghnzsepvgc.duckdns.org
 ghost.freedns.su
 ghost00710.ddns.net
 ghostdoor-36929.portmap.io
@@ -19439,8 +19617,6 @@ gmcuftxkvt.duckdns.org
 gmcuuyyhkd.duckdns.org
 gmeng.625323.com
 gmfxhgatvh.duckdns.org
-gmggfgyzrg.duckdns.org
-gmglfjybvl.duckdns.org
 gmgxtrebtc.duckdns.org
 gmjitltpzh.duckdns.org
 gmjlzwdxls.duckdns.org
@@ -19479,11 +19655,13 @@ gnjicvazvf.duckdns.org
 gnjkllelpn.duckdns.org
 gnjvntgzkk.duckdns.org
 gnlpcqjfwo.duckdns.org
+gnmpaoxzjr.duckdns.org
 gnnfqsnrtk.duckdns.org
 gnnmdlfolk.duckdns.org
 gnoibsbwrk.duckdns.org
 gnopvxfcaylt.rzf.futbol
 gnoqovijds.klontrek.org
+gnrgpkcqey.duckdns.org
 gnrzogbzao.duckdns.org
 gnskmmxqry.duckdns.org
 gnu.linuxrepository.xyz
@@ -19493,7 +19671,6 @@ gnvtb.goruli.com
 go.adjika.net
 go.blatnet.com
 go.conversionmasters.com
-go.datackap.info
 go.fcwr8.com
 go.gogolm.xyz
 go.goroost.com
@@ -19622,7 +19799,6 @@ goonozwqlf.duckdns.org
 gooodwin.ddns.net
 gooogleplay.ddns.net
 goostat.dhl-ok.com
-gopremium.mooo.com
 goqqxgjmfy.duckdns.org
 gorel1004.ze.am
 goronkrl.goruli.com
@@ -19632,6 +19808,7 @@ got.fanficforum.com
 got.poisedtoshrike.com
 got.popautomated.com
 gotchabitch.ddns.net
+gotjcajgvp.duckdns.org
 gotomail.ddns.net
 gotomyaccount-page.authmeskkaoza-0a9ss.com
 gotscharekcompanycom.shaxiaprimary.top
@@ -19725,7 +19902,6 @@ gov.uk-tax-it-or-lose-it.com
 gov.uk-tax-refund.info
 gov.uk-tax-service.com
 gov.uk-taxclaim.info
-gov.uk-taxclaim.net
 gov.uk-taxit-or-loseit.com
 gov.uk-taxit-orloseit.com
 gov.uk-taxmyvehicle-auth.co.uk
@@ -19796,6 +19972,7 @@ gq56h.svcoding.com
 gqazelxfgi.duckdns.org
 gqbyuehol.rogagot.com
 gqdlkownbb.duckdns.org
+gqdywxyjat.duckdns.org
 gqeixyzdrr.duckdns.org
 gqftrjiwez.duckdns.org
 gqfudetick.duckdns.org
@@ -19812,7 +19989,6 @@ gqrk2.lawapass.com
 gqsochupiu.duckdns.org
 gqtjbksyqo.duckdns.org
 gquchsdiju.duckdns.org
-gquijiayap.duckdns.org
 gqxfmqnvbl.duckdns.org
 gqxkwq.duckdns.org
 gqzdqdgolu.duckdns.org
@@ -19856,7 +20032,6 @@ grbtawhfcb.duckdns.org
 grcsnritme.duckdns.org
 grd.mytreegardenclub.com
 grdqeeqdii.duckdns.org
-greanvica.coinpoolit.webhop.me
 greatb.gbecorend.com
 greekmountains.theworkpc.com
 green.4107irishivy.info
@@ -20495,6 +20670,7 @@ gtfwupqeqp.ddns.net
 gtg22312.ddns.net
 gtggtgtsxk.duckdns.org
 gtguhmmmzz.duckdns.org
+gthjufdyfa.duckdns.org
 gthuuuhhgy.duckdns.org
 gtiavodnkr.duckdns.org
 gtjohgfhsl.duckdns.org
@@ -20545,7 +20721,6 @@ guiness.qubelab.org
 gukne.koreastar.website
 gulenterprises.ddns.net
 guliu2008.9966.org
-gulskvofqm.duckdns.org
 gulurhatturt.zapro.org
 gummitechniknet.shaxiasay.top
 gummitechnikorg.shaxiasay.top
@@ -20693,7 +20868,6 @@ gzbulheals.duckdns.org
 gzdfq.mentriqq.com
 gzfhjhpwoj.duckdns.org
 gzixowdlme.duckdns.org
-gzjmahgwxa.duckdns.org
 gzjxuijphw.duckdns.org
 gzkwxskfds.duckdns.org
 gzl.strongerchuckle.com
@@ -20967,6 +21141,7 @@ halifax.co.uk-de-register.com
 halifax.co.uk-devices.com
 halifax.co.uk-mobileappupdate-system-update.balesbudi.club
 halifax.co.uk-mobileappupdate-system-update.esenbogashuttle.com
+halifax.co.uk-mobileappupdate-system-update.gdtechnologist.com
 halifax.co.uk-mobileappupdate-system-update.khactinhbenh.com
 halifax.co.uk-mobileappupdate-system-update.mecheformacion.com
 halifax.co.uk-mobileappupdate-system-update.omuendustri.com
@@ -21369,7 +21544,6 @@ hard.ddns.net
 hard.dyndns.biz
 hardegginfo.shaxiaapplication.top
 hardenvscurry.my-router.de
-hardpr0x0r-56636.portmap.host
 harhar.ddns.net
 haribot.securezdns.pw
 harold.accesscam.org
@@ -21511,6 +21685,7 @@ haxor.kicks-ass.net
 haxorspamer.ddns.net
 haxuser.duckdns.org
 hayfarjohn.cloudaccess.host
+hayghpjbfd.duckdns.org
 hayzetebz.ddns.net
 hazelbrat.x10.bz
 hazelyggop.duckdns.org
@@ -21534,9 +21709,9 @@ hbmnpzkynf.duckdns.org
 hbnse.duckdns.org
 hbrm.svcoding.com
 hbrvfaxgpf.duckdns.org
+hbshgcjlgg.duckdns.org
 hbtkvhzrkg.duckdns.org
 hbtopp.goruli.com
-hbuwelnvsn.duckdns.org
 hbvdumbomo.duckdns.org
 hbvnplnejs.duckdns.org
 hbvubictqx.duckdns.org
@@ -21545,6 +21720,7 @@ hbyqqymxfb.duckdns.org
 hc84y.lawapass.com
 hcaps.org.in
 hcccboandq.duckdns.org
+hccoqhsemz.duckdns.org
 hcdyr.svcoding.com
 hce.piazzasteethed.com
 hcflaswtew.duckdns.org
@@ -21732,6 +21908,8 @@ herhedpkft.ddns.net
 herhedpkft.duckdns.org
 hermaken1.cloudaccess.host
 hermes.airad.com
+hermes.package-track.co.uk
+hermes.redelivery-track.com
 hermes.travel.pl
 hero.mmoc-ni.co.uk
 hero22.ddns.net
@@ -21997,6 +22175,7 @@ hit.wrengostic.com
 hitman1997.ddns.net
 hitme.struggle.cf
 hitmefag.hitmefag.cf
+hitqptrbmb.duckdns.org
 hits.gureport.co.uk
 hits.nextstat.com
 hitslink.interia.com.pl
@@ -22013,7 +22192,6 @@ hiyahakarr.ddns.net
 hizindrphs.duckdns.org
 hj-6.svcoding.com
 hj.axxhxw.cn
-hj.hmssna.com.cn
 hj.hvjjdnb.cn
 hj.qumixwt.cn
 hj.yuxwyxq.cn
@@ -22033,7 +22211,6 @@ hjg.eaebacc.cn
 hjg.gnrvnuv.cn
 hjg.jdxgwv.com.cn
 hjg.jfpbdn.com.cn
-hjg.jxlxtvh.cn
 hjg.khesxpk.cn
 hjg.nkkhmxn.cn
 hjg.pjtdpjl.cn
@@ -22048,6 +22225,7 @@ hjk.sygjls.com
 hjkds.hq2.best
 hjkxkreers.duckdns.org
 hjkzacjxym.duckdns.org
+hjmdiotolq.duckdns.org
 hjmdrujdfu.ddns.net
 hjmwsqazxs.fairfieldconstruction.org
 hjrdonysdj.duckdns.org
@@ -22089,6 +22267,7 @@ hl.yiyousf.com
 hlamkopnyq.duckdns.org
 hlamltjfxk.duckdns.org
 hldacrvxuy.duckdns.org
+hldbzuvjun.duckdns.org
 hldvkftbtx.duckdns.org
 hlgastibke.duckdns.org
 hlihxikbzy.duckdns.org
@@ -22280,6 +22459,7 @@ hmtime.chickenkiller.com
 hmuepeoqts.duckdns.org
 hmufuugyql.duckdns.org
 hmvvitimas.duckdns.org
+hmvyuoemxj.duckdns.org
 hmxdgharal.duckdns.org
 hmz04-25125.portmap.host
 hmznzxnhmg.duckdns.org
@@ -22356,6 +22536,7 @@ holleyallianzcom.baerqiprimary.top
 hollowtm.no.ip.biz
 hols.ddns.net
 holssgrubsukadhewasaw18.sogiftco.com
+holtroot.buncgo.com
 holyjack.no.ip.org
 holymoly.ddns.net
 holymoney.crabdance.com
@@ -22495,7 +22676,6 @@ hostpoint.ch.contessa-media.com.prunauneau.fr
 hostpoint.ch.gbp-events.com.prunauneau.fr
 hostpoint.ch.kovision.ch.prunauneau.fr
 hostpoint.ch.login.dashboard.dashboardalcatrasinvoice.com
-hosts.mysaol.com
 hostservernovoo.ddns.net
 hostsn.ddns.net
 hostspot.5gbfree.com
@@ -22566,6 +22746,7 @@ howemituxm.duckdns.org
 howupdateworks.beststubcontentsfrees.xyz
 hoxinfo.ddns.net
 hoy.licentiategubernatorial.com
+hoylxegnid.duckdns.org
 hozutraolb.duckdns.org
 hp.dns.hewlettpackerd.org
 hp.gonerallying.com
@@ -22663,7 +22844,6 @@ hrtmhbbany.duckdns.org
 hrvemqkpan.ddns.net
 hrzsuzgpnb.duckdns.org
 hs.bc-clientaccess.com
-hs.bc-customersecurity.com
 hs.bc-locked.com
 hs.bc-transactions.com
 hs.bcclientstatus.com
@@ -22823,6 +23003,7 @@ hsekrfmzgy.duckdns.org
 hserrerddd.duckdns.org
 hserrerwwj.duckdns.org
 hsffsefrre.duckdns.org
+hsfmipxifn.duckdns.org
 hsfwetxserr.duckdns.org
 hsgdetxbs.duckdns.org
 hsggyylkxx.duckdns.org
@@ -22949,7 +23130,6 @@ hub.bypass.obsidiancraft.com
 hubo.winmail01.cn
 hubs.ishtiben.com
 hucked.ddns.net
-hucosportcom.shaxiaoh.top
 hud8mxdt.computerhelpmirror.top
 hudos-tv.ddns.net
 hudson.sse0d3w.com
@@ -23014,7 +23194,6 @@ huwrxmsfac.duckdns.org
 huwryhtrxq.duckdns.org
 huxzhkytxy.duckdns.org
 huyazhibop.emilqunfa.xyz
-huyftdr.artisanent.info
 huyzctjwd.rogagot.com
 huzmrtaytl.duckdns.org
 huzqhsyisj.duckdns.org
@@ -23089,6 +23268,7 @@ hxfu.nz53h.cn
 hxhdsuzomi.duckdns.org
 hxhldyqoya.duckdns.org
 hxhyddnpoo.duckdns.org
+hxhyuohjrv.duckdns.org
 hxijbsdomo.duckdns.org
 hxjhzjajni.duckdns.org
 hxjvcmklpk.duckdns.org
@@ -23103,6 +23283,7 @@ hxs57.addroits.com
 hxsd345e.duckdns.org
 hxsfrbuuwf.duckdns.org
 hxsiutqipu.duckdns.org
+hxtnbhmctp.duckdns.org
 hxvmffozky.duckdns.org
 hxzezjiqac.duckdns.org
 hxzqirsksi.duckdns.org
@@ -23134,6 +23315,7 @@ hypemediahdy.waw.pl
 hyper-servers.ddns.net
 hyperdromegamecom.nckiparis.gdn
 hyperservice.ddns.net
+hypnctaidr.duckdns.org
 hypnfbpgfv.duckdns.org
 hypnosec.dyndns.org
 hypnvhpaqv.duckdns.org
@@ -23141,7 +23323,6 @@ hyq-c.addroits.com
 hyqu.yourashop.su
 hyqvbzasdb.duckdns.org
 hyqvtiavdv.duckdns.org
-hysdafge33.duckdns.org
 hytgder.artisanent.info
 hythrafax-30541.portmap.io
 hytt.goruli.com
@@ -23304,6 +23485,7 @@ icecontrolsaltcom.baerseventerm.top
 icelogin.dyndns.biz
 icewwraety.duckdns.org
 iceyrattedyou.ddns.net
+icgevdoyxe.duckdns.org
 ichbestellecom.chifanaudit.top
 ichbinw1337.ddns.net
 icheatedonyourcrush.ddns.net
@@ -23340,6 +23522,7 @@ icloud.com-helps.me
 icloud.com-id.apple-signin.info
 icloud.com-id.online-signin.info
 icloud.com-idcare.info
+icloud.com-ids.ru
 icloud.com-ifind.live
 icloud.com-imaps.com
 icloud.com-inc.ru
@@ -23348,6 +23531,7 @@ icloud.com-isignins.live
 icloud.com-itune.club
 icloud.com-locations.in
 icloud.com-log.info
+icloud.com-ltd.ru
 icloud.com-map-located-phone.com
 icloud.com-online.support
 icloud.com-pw.help
@@ -23427,6 +23611,7 @@ icloud.com.id-pbr.life
 icloud.com.id-sign-in.com
 icloud.com.inboxpreviewo.icu
 icloud.com.inboxreadl.icu
+icloud.com.inc-br.ltd
 icloud.com.info-location.live
 icloud.com.ios-finder.info
 icloud.com.ios-store.com
@@ -23501,6 +23686,7 @@ icloud.location-find.com
 icloud.logi-in.com
 icloud.login-info.site
 icloud.login-us.email
+icloud.nsdca.cn
 icloud.ryawqu.cn
 icloud.sacve.com.cn
 icloud.signinphone.com
@@ -23510,6 +23696,7 @@ icloud.support-ip.site
 icloud.track-iphones.com
 icloud.us.com-auth-id.me
 icloud.user-log-in.com
+icloud.xnsze.cn
 icloud.xvcua.com.cn
 icloud.ydiaz.com.co
 iclouds.fadly.id
@@ -23632,6 +23819,7 @@ idmsa.signin.secure-access-account.com
 idmsa.unusual.accountunlock.com-intlited.org
 idmsa.webservice.apple.com.steptofullmanagesupport.com
 idmsa.webservice.managedappleid.apple.com.waooefe.com
+idmsac.apple.com.idmswebauth.cscoe-system.com
 idomen.ddns.net
 idqvjyfykw.duckdns.org
 idrwkllyyd.duckdns.org
@@ -23717,6 +23905,7 @@ ig.nukefans.net
 igamerxd3.ddns.net
 igbingorg.shaxiacalendar.top
 igbwx.goruli.com
+igfazdtysd.duckdns.org
 igffffsfsk.duckdns.org
 igfssejjwj.duckdns.org
 igfsxwwvvi.duckdns.org
@@ -23780,7 +23969,6 @@ ihguhihzlz.duckdns.org
 ihgyrpxcuw.duckdns.org
 ihhfefcxbl.duckdns.org
 ihhuhznmzm.duckdns.org
-ihi96484.159875695.xyz
 ihiivvvhzz.duckdns.org
 ihkeslqhrq.duckdns.org
 ihktmaxoaw.duckdns.org
@@ -23873,6 +24061,7 @@ ilalyoyjkq.duckdns.org
 ilan.baynuri.net
 ilarioza.ddns.net
 ilavjeslxi.duckdns.org
+ilavorianmosy.eastus.cloudapp.azure.com
 ilckuiqvqr.duckdns.org
 ilfvsshnyw.duckdns.org
 ilhmy.gikorip.net
@@ -24055,7 +24244,6 @@ imthemaster.duckdns.org
 imthurnorg.chifanavoid.top
 imwekyaiby.duckdns.org
 imxiviuhqu.duckdns.org
-imxqpnmqog.duckdns.org
 imycyswppk.duckdns.org
 imylkxykxx.duckdns.org
 imytxjalga.duckdns.org
@@ -24115,7 +24303,6 @@ infinitewarfare.ddns.net
 influxdb.kanoak.com
 info-account-srvcsnetflix.holidayf1batamm.com
 info-confirmation-nabs.unioncarpetcleaning.com
-info-covid19.sman1dungaliyo.online
 info-kyufukinsoumu.congqgenfy.icu
 info-kyufukinsoumu.emtgdtc.cn
 info-servicepayacc.joxsdwq.com
@@ -24216,7 +24403,6 @@ ing.verlengtoegang-nl.website
 ingbank.nl.uid5.info
 ingbankieren.controleomgeving.website
 ingest.crittercism.com
-ingreso-solidario.nsytwa.cyou
 inhrcwegnw.duckdns.org
 iniandakenablokir.freefire9999.cf
 inicio.freefiredimanates-bonos.com
@@ -24361,7 +24547,6 @@ inpost.pl-hold.xyz
 inpost.pl-holdedorder.icu
 inpost.pl-holding.xyz
 inpost.pl-holdmoney.cyou
-inpost.pl-holdmoney.icu
 inpost.pl-holdmoney.xyz
 inpost.pl-holdorder.club
 inpost.pl-holdorder.cyou
@@ -24587,7 +24772,6 @@ inputbilling-app.controlmarketshop.com
 inqqqez.esy.es
 inqsneubrf.duckdns.org
 inryizmubv.duckdns.org
-insanitypk.chickenkiller.com
 insanitypks.chickenkiller.com
 insert.gloadmarket.com
 inside.securemediaserver.net
@@ -24654,7 +24838,6 @@ instagram.luvpm.in
 instagram.mcsite.tk
 instagram.mediahelpcenter.com
 instagram.meerai.eu
-instagram.mh6ti.ir
 instagram.mobile-loginpage.com
 instagram.muzegrafi.com
 instagram.new24.ga
@@ -24859,6 +25042,7 @@ ipkrzn.mystockclub.su
 ipkvlqesxf.duckdns.org
 iplqizqbbf.duckdns.org
 ipmygvbzha.duckdns.org
+ipnoqekcxc.duckdns.org
 ipo.pranavashram.in
 ipod.7oy.info
 ipomohi.gikorip.net
@@ -24951,6 +25135,7 @@ iservice.account-docx52125.vwqjivwqkfqw.com
 iservice.accsdocx-id22463.vjsugqwycwqjv.com
 iservice.accsdocx-id9721.jsqifuqwgjsq.com
 ishuqxsiem.duckdns.org
+ishzavywyp.duckdns.org
 isidongamjinc.lasurh.email
 isjqjaekow.ddns.net
 iskezqozes.duckdns.org
@@ -25015,6 +25200,8 @@ itau.cadastroclientes.com
 itau.cadastromobille.com
 itau.cardbanking.online
 itau.com.br.web8n.com
+itau.emprestimo2020.com
+itau.moduloappempresas.com
 itau.moduloempresarial.com
 itau.rozatti.cloud
 itau.sac-suport.com
@@ -25212,7 +25399,6 @@ ixszfeeufj.duckdns.org
 ixufpeqjw.rogagot.com
 ixuvqdtlno.duckdns.org
 ixwmgbczlw.duckdns.org
-ixxyllmmpc.duckdns.org
 iybaooxyjm.duckdns.org
 iybc.psdzy.com
 iybnyxbznc.duckdns.org
@@ -25269,6 +25455,7 @@ izrqiiplvj.ddns.net
 izskqhuijm.duckdns.org
 izsqbjpvkq.duckdns.org
 izub2qzmc5lv.talagaremix.com
+izvaplphax.duckdns.org
 izzbcbzaid.duckdns.org
 izzxttaryo.duckdns.org
 j-24.svcoding.com
@@ -25329,7 +25516,6 @@ jackas.gotdns.ch
 jackdroid1337.ddns.net
 jackdroid321.ddns.net
 jackhenrynetcommorg.unibiz.top
-jackhex.md5c.com
 jacking.connellycandyland.info
 jacknop79.ddns.net
 jacksonbr001.ddns.net
@@ -25378,7 +25564,6 @@ janfinas-48059.portmap.io
 jang.goongnam.com
 jangan-makannasi.sdaddsfs.com
 janpd.mentriqq.com
-janqwuhllw.duckdns.org
 januszp.stronazen.pl
 japan01.alert-ya2.com
 japanese.strangled.net
@@ -25420,7 +25605,6 @@ jayayy.ddns.net
 jaybrizzy.gotdns.ch
 jaycdcpjws.duckdns.org
 jaymaximus-61731.portmap.host
-jayylxjlvj.duckdns.org
 jayztools1.ddns.net
 jayztools2.ddns.net
 jayztools3.ddns.net
@@ -25704,6 +25888,7 @@ jjaqnfhhls.duckdns.org
 jjarzejxsj.duckdns.org
 jjblepkztz.duckdns.org
 jjbltylbxv.duckdns.org
+jjcumvqrwu.duckdns.org
 jjegvqtsfo.duckdns.org
 jjfergedwr.duckdns.org
 jjhlqxrgrt.ddns.net
@@ -26091,7 +26276,6 @@ joingrubwa.youtuber.eventff-564.cf
 joingrubwhatsapp-18plus.claims-71.cf
 joingrubwhatsapp.porno-xxx.ml
 joingrubwhatsappnew.sosmed-90.cf
-joingrubwhatsapprendygrub2547.maung42.ml
 joingrulwhatsapterbaru25.asli20.com
 joingrup-18.xxx-wa.com
 joingrup-18plus.viral18.net
@@ -26219,7 +26403,6 @@ joingrupwhatsappfreefire.grup-wa99.cf
 joingrupwhatsappfrontalgaming.eventitan-jj.ml
 joingrupwhatsappnew.porn-group.com
 joingrupwhatsappp.my.id
-joingrupwhatsappp18.hot6.gq
 joingrupwhatsappsex.free17.ga
 joingrupwhatssappbokepviral2k20.vidio-virall18.ml
 joingwhatsapyoutuber0k2yt.group-whatsapp97.gq
@@ -26242,7 +26425,6 @@ joinsange18.v7z.shop
 joinsbudigamingmabar.mygrupss31.cf
 joinsekarang.getsviip7.com
 joinswa.bokepindo.vipxs.tk
-joinswa.hol7.com
 joint-grub-whatsaap.hols72.tk
 jointflynet.shaxiasay.top
 jointish.ddns.net
@@ -26279,6 +26461,7 @@ joinwhatsappgroup.bokeps-simontok88.cf
 joinwhatsup.xxx-whatsapp.com
 joinxnxxgrup18.fresh2.org
 joinyabroh.claim654.com
+joisaugdug.duckdns.org
 jojez12.tinydns.xyz
 jojomo.ddns.net
 jojotheballer.dyndns-free.com
@@ -26328,13 +26511,11 @@ joshuahdn.ddns.net
 josjcnoozn.duckdns.org
 josjfyacod.duckdns.org
 jostat.mygoodsday.org
-jotagot.mypets.ws
 jouiivivvi.duckdns.org
 journal.tgeeks.co.tz
 journal4familycom.nckiparis.gdn
 journalism.uk.smarttargetting.com
 journey.unicef.de
-jovcxanion.duckdns.org
 jovemaprendiz.art.br
 joveness2.dyndns.info
 jovgxjuijb.duckdns.org
@@ -26463,7 +26644,6 @@ jpmorgan-chase-managing.awebauth.com
 jpmorgan-chase.mondeshr.com
 jpmorganchase.deptaccess.xyz
 jpmorganchase.toolsgatherllc.com
-jpnhjlwefq.duckdns.org
 jpnyofv.healthygenez.club
 jpqrliztqu.duckdns.org
 jpsbckzqrp.duckdns.org
@@ -26484,6 +26664,7 @@ jqeoqlsnyg.duckdns.org
 jqfnwkznpd.duckdns.org
 jqgkqetbks.duckdns.org
 jqhepemune.duckdns.org
+jqiclcudlw.duckdns.org
 jqjulxi.goruli.com
 jqjypgvuaw.duckdns.org
 jqlzunseja.duckdns.org
@@ -26492,7 +26673,6 @@ jqnmvf.rogagot.com
 jqoqrfmsnj.duckdns.org
 jqoxiqbgdb.duckdns.org
 jqpguztzhw.duckdns.org
-jqshyzdgqn.duckdns.org
 jqvsnzeqlz.duckdns.org
 jqxawfavcb.duckdns.org
 jqxxhwncyf.duckdns.org
@@ -26760,11 +26940,13 @@ jweojkpdob.duckdns.org
 jwhigykwav.duckdns.org
 jwhktveiey.duckdns.org
 jwhmocqgej.duckdns.org
+jwhzufdijh.duckdns.org
 jwkcdpgyej.duckdns.org
 jwllaopeti.ddns.net
 jwllxgsrnf.duckdns.org
 jwmighaeel.duckdns.org
 jwmxevgqje.ddns.net
+jwnbjeoomq.duckdns.org
 jwnvdxafcg.duckdns.org
 jwoegibxdl.duckdns.org
 jwqkzignxk.duckdns.org
@@ -26866,6 +27048,7 @@ jzsvsw.serviceorder.su
 jztmxqp.goruli.com
 jzueyfdlhp.duckdns.org
 jzvdfzfeua.duckdns.org
+jzvfnvsdrz.duckdns.org
 jzvtctqhiz.duckdns.org
 jzwk.svcoding.com
 jzxwuiuhuj.duckdns.org
@@ -26967,7 +27150,6 @@ kakawalid147.ddns.net
 kakawevich.temp.swtest.ru
 kakejake.ddns.net
 kakoro.mcdir.ru
-kalamiksndyonlinedeliverystoreservsnfqm.ydns.eu
 kale99.blog.co.uk
 kalebcurry.freedns.su
 kalenas.dyndns.org
@@ -27103,6 +27285,7 @@ kbkzwsbnkj.duckdns.org
 kblnysnsxv.duckdns.org
 kbnnutzfahrzeugenet.shaxiaact.top
 kbnnutzfahrzeugenet.shaxiapussy.top
+kbpsssnbli.duckdns.org
 kbqcnsxsoc.duckdns.org
 kbqlzotufe.duckdns.org
 kbqvwdhpnv.duckdns.org
@@ -27129,6 +27312,7 @@ kcvehlobbq.duckdns.org
 kcxwz.goruli.com
 kd.pipec.ru
 kd7k.svcoding.com
+kdbsxeteig.duckdns.org
 kdbzqjtnri.duckdns.org
 kdc2p.svcoding.com
 kddkfnwyzl.duckdns.org
@@ -27303,7 +27487,6 @@ khgigh.vd8943.cn
 khgtbvybqg.duckdns.org
 khhazaaazs.duckdns.org
 khhxukhrhl.duckdns.org
-khkysw.wp26o.cn
 khm5.ailacabs.com
 khmhgsujrg.duckdns.org
 khmqwwteun.duckdns.org
@@ -27334,7 +27517,6 @@ kickass7777.ddns.net
 kickasshama.duckdns.org
 kickingrg.fagdns.com
 kickweltcom.baerseventeam.top
-kidkaz.crabdance.com
 kielak.szkola-rocka.com.pl
 kienlecologne.shaxiaasian.top
 kienlespiessin.nckichat.gdn
@@ -27345,7 +27527,6 @@ kign.biluzhang.cn
 kiguwdcahu.duckdns.org
 kihhhggkkx.duckdns.org
 kihuhuuhhz.duckdns.org
-kihuugggyy.duckdns.org
 kiifd.pozon7.net
 kiihmlkkww.duckdns.org
 kiiiammmzl.duckdns.org
@@ -27396,6 +27577,7 @@ kingxvenom13.ddns.net
 kinogo.r.worldssl.net
 kinval456.ddns.net
 kiops.iprevert.com
+kioshokusoko.go.ug
 kipapos.gotdns.ch
 kiqkrwqrzk.duckdns.org
 kira99.ddns.net
@@ -27468,20 +27650,24 @@ kkekielecom.batwoqiserver.top
 kkezavtydp.duckdns.org
 kkfdbijskw.duckdns.org
 kkftqjdzwi.duckdns.org
+kkfyepodhp.duckdns.org
 kkhhaalliidd717.ddns.net
 kkhukdpkpu.duckdns.org
 kkipapib.ddns.net
+kkjrbxgcbq.duckdns.org
 kkkassss.chickenkiller.com
 kkkdibyjji.duckdns.org
 kkkfaster.jumpingcrab.com
 kkkhhkquha.duckdns.org
 kkkylllyly.duckdns.org
+kkowiebgbo.duckdns.org
 kkpgv.kankan.com
 kkpgv2.kankan.com
 kkravtlsas.duckdns.org
 kks.magnetrunner.com
 kks.tbfull.com
 kksyjuvppl.duckdns.org
+kkvhgyzugr.duckdns.org
 kkwku.lnkredirect.com
 kkxpppcpoo.duckdns.org
 kkynbjlden.duckdns.org
@@ -27578,6 +27764,7 @@ knapgrsnrf.duckdns.org
 knappenchororg.batwoqisep.top
 knaudpjwdu.duckdns.org
 knazpcooob.duckdns.org
+knbbmnomlc.duckdns.org
 knbkesugmj.duckdns.org
 knblkoqgdb.duckdns.org
 knbmnsjtxx.duckdns.org
@@ -27612,7 +27799,6 @@ knsiyclpum.ddns.net
 knsmeg352.duckdns.org
 kntlah.com.ghadgeandsun.com
 kntpvgrjuo.duckdns.org
-knun.edu.af
 knutbewersdorffde.chifanaudit.top
 knuwteeawl.duckdns.org
 knxctnobny.duckdns.org
@@ -27735,6 +27921,7 @@ kp2e.svcoding.com
 kp6sy.mentriqq.com
 kp7.svcoding.com
 kpai7ycr7jxqkilp.torexplorer.com
+kpcfxegodm.duckdns.org
 kpe0h.listfash.com
 kpgqxfanzk.duckdns.org
 kpicyles.klontrek.org
@@ -27776,6 +27963,7 @@ kqprbmnrqm.duckdns.org
 kqpxndrqdm.duckdns.org
 kqrswkelgw.duckdns.org
 kqswkayvub.duckdns.org
+kqwxdvvdbxpmdriudmtwbuvyhjcesnwukphakcvi.dirty-old-school.shop
 kqygeqtmpi.duckdns.org
 kqyp6klqzrs.asdwndpqowmlsa.org
 kr.xxoo.co
@@ -27891,10 +28079,10 @@ kstlalkcdr.duckdns.org
 kstpjnsifw.duckdns.org
 ksvnrcivb.goruli.com
 ksvvpdbbji.duckdns.org
-kswbkrdsts.duckdns.org
 kswifiqzat.duckdns.org
 ksxpqxwlrw.duckdns.org
 ksyam.ddns.net
+kt.saithingware.ru
 ktbzfgvyfx.duckdns.org
 ktdym.goruli.com
 ktekwfamcc.duckdns.org
@@ -27988,6 +28176,8 @@ kutvihi.serviceorder.su
 kuwex.xawewayfhc.ga
 kuwnzheobe.duckdns.org
 kuwtvxvpwp.duckdns.org
+kuxodrdjdp.duckdns.org
+kuxushgbaa.duckdns.org
 kuxvqbhg.goruli.com
 kuy-joingrupbkp.v-25.com
 kuy.4free9.com
@@ -27995,6 +28185,7 @@ kuy.getsviip7.com
 kuzuersozw.duckdns.org
 kvark1905.siteme.org
 kvartura.vn.ua
+kvbhucovfw.duckdns.org
 kvdlvsdhgf.duckdns.org
 kvemlklgep.duckdns.org
 kvendwlnvi.duckdns.org
@@ -28076,6 +28267,7 @@ kxah1.addroits.com
 kxbmxljhfx.duckdns.org
 kxczhgjdb.goruli.com
 kxdeclqcvq.duckdns.org
+kxevhcgumu.duckdns.org
 kxiphvnrfh.duckdns.org
 kxkhjncwkp.duckdns.org
 kxkumkoqrc.duckdns.org
@@ -28103,6 +28295,7 @@ kybtgmjhdb.duckdns.org
 kycgchmcgc.duckdns.org
 kyclplbeil.duckdns.org
 kycmrmvv.goruli.com
+kycyavqgoh.duckdns.org
 kydeliss.ddns.net
 kygtsw.lu4ig.cn
 kyhvuzxstv.duckdns.org
@@ -28112,7 +28305,6 @@ kylerat.strangled.net
 kylmekztxz.duckdns.org
 kymgiyodtm.ddns.net
 kymyyylyyy.duckdns.org
-kyoto.farted.net
 kypbbhxyvo.duckdns.org
 kyplzkndbe.duckdns.org
 kypqfulbrm.ddns.net
@@ -28164,7 +28356,6 @@ l2.brasilplaygames.com.br
 l2.soarfi.cn
 l23x.ddns.net
 l2er2rwdasdq2d.mooo.com
-l3d.pp.ru
 l3d1.pp.ru
 l3mon.fagdns.com
 l55xbmrhyqaa.talagaremix.com
@@ -28203,7 +28394,6 @@ laimwzqdva.duckdns.org
 laiyouyna.topkorder.su
 laji.wenne.cn
 lakamora28200.ddns.net
-lakers.jumpingcrab.com
 lalaboy.duckdns.org
 lalundelau.sinip.es
 lamaisonsanslimitescom.nckiparis.gdn
@@ -28282,6 +28472,7 @@ layer.ddns.net
 layering.wyattspaintbody.net
 laykbcysii.duckdns.org
 layuknwmkh.duckdns.org
+layxxpetxm.duckdns.org
 layziebone009.ddns.net
 lazarus.system-ns.net
 lazarus.ufcfan.org
@@ -28332,6 +28523,7 @@ lcgckajzck.duckdns.org
 lcgdsorg.shaxiabed.top
 lchdhgoino.duckdns.org
 lciypaqkbl.duckdns.org
+lcjrjsewjj.duckdns.org
 lcloud.com-lv.ru
 lcloud.com.appie.tech
 lcloud.com.idfindmy.info
@@ -28360,6 +28552,7 @@ ldd.curveunderbridge.com
 ldfl.goruli.com
 ldfqstcumh.duckdns.org
 ldgjgblhxc.duckdns.org
+ldjkpmkjuj.duckdns.org
 ldk.ruiyufangchan.cn
 ldkkboirmx.duckdns.org
 ldmaejecvi.duckdns.org
@@ -28473,6 +28666,7 @@ less.page-securesesioneretrdqywfhcgjvhwqeq.qwrtgfhwq.com
 lesznomobi.shaxianame.top
 lesznomobi.shaxiapurpose.top
 letcugkuut.duckdns.org
+letitburnsf.ac.ug
 letmeinpls.ddns.net
 letmethrough.ddns.net
 letrikacom.nckiaccounting.gdn
@@ -28502,6 +28696,7 @@ lfckgjbxpj.duckdns.org
 lfdpgoauyt.duckdns.org
 lffkvvm.rogagot.com
 lfgldhcqdo.duckdns.org
+lfgvmfbcqt.duckdns.org
 lfixcom.shaxiaprofessional.top
 lfjn5885bkteldr.e8273.pro
 lfosqtamfo.duckdns.org
@@ -28656,7 +28851,6 @@ limiteds-security.janzayg.org
 limiteds-security.sadkqwfjsd.com
 limonimo.ddns.net
 limoqppksf.duckdns.org
-limpa.chickenkiller.com
 lin.absorptionspbs.top
 lin.tablefacelift.com
 lin0207.theworkpc.com
@@ -28727,7 +28921,6 @@ listing001.temp.swtest.ru
 listing012.temp.swtest.ru
 listings-manage-facebook-search-local-dealer.ad-id690026322.us
 litchh.ddns.net
-lite.714ashley.com
 lite.blackownedbiz.com
 lite.ultralitedesigns.com
 litebit.eu143959437582.info
@@ -28749,7 +28942,6 @@ live.korearac.com
 live.tvpot.daum.net
 livecampointcom.shaxianame.top
 livecampointcom.shaxiareason.top
-livecheck.theperfectsystoupdating.date
 livecheck2update.thepointofforcontentingclear.bid
 livelo.clientebb.me
 livemovie.me.uk
@@ -28863,7 +29055,6 @@ lleefxavkd.duckdns.org
 llekszvdtj.duckdns.org
 llfeznsfth.duckdns.org
 llgnnljpuf.duckdns.org
-llgqqarkbu.duckdns.org
 llhbdfalar.duckdns.org
 llhgwkculk.duckdns.org
 lli.nrvyzj.com
@@ -28941,6 +29132,7 @@ lloydsbank.device-login-verify-auth.com
 lloydsbank.device-prevention-auth-login.com
 lloydsbank.device-prevention-safeguard-login.com
 lloydsbank.device-verify-new-auth.com
+lloydsbank.important-to-know.co.uk
 lloydsbank.login-auth-secure-device.com
 lloydsbank.login-device-verify-auth.com
 lloydsbank.login-online-device-auth.com
@@ -29030,6 +29222,7 @@ lmhwbzdlei.duckdns.org
 lmhzubqhwo.duckdns.org
 lmiybvetud.duckdns.org
 lmkxlxfkik.duckdns.org
+lmlzhstqyo.duckdns.org
 lmmboqdmcx.duckdns.org
 lmmkbvdqym.duckdns.org
 lmnbzpkahd.duckdns.org
@@ -29065,12 +29258,14 @@ lnrhduloej.ddns.net
 lnrqaxaypy.duckdns.org
 lnrtnaexhw.duckdns.org
 lnsidebusiness.lngwb.com-3617overzicht.com
+lnstagram.com.statyi.comment-16.redir.post100390.ru
+lnstagram.com.statyi.comment-17.redir.post100390.ru
+lnstagram.com.statyi.comment-21.redir.post100390.ru
 lnstagram.login-account.co
 lnstagramcopyright0.somee.com
 lntaofnthc.duckdns.org
 lntesa-psd2-aggiorna.lntesa-aggiorna-psd2.xyz
 lntesasp-web.eu.org
-lnujesfbin.duckdns.org
 lnvbsivckp.duckdns.org
 lnxpfxporu.duckdns.org
 lnyxnpsyip.duckdns.org
@@ -29200,7 +29395,6 @@ login-yahoo-com-4045.894372944.xyz
 login-yahoo-com-8969.sslz.pw
 login-yahoomail-accountserviceonlinecenter.comisys.xyz
 login-zaktualizuj-metode.platnosci.beata2.co.pl
-login.10010.com
 login.3bz.org
 login.access-mail.com
 login.account.netflix.com-account.help
@@ -29406,7 +29600,6 @@ login897349293284actiontruesky.uniattack.com
 loginalerts.facebook.towaqal.com
 loginbank.consumnesriverfarm.com
 logincustomerpageamazonauthenticationbilling.kozow.com
-loginfbonline.loginfacebookonline.com
 logingmail1.logeve.ru
 logingrupwa.mywhatsapp12.tk
 loginhqbnrbufyftusv0m5tygx9pyp4cquo-env.eba-jmct9e3r.us-east-2.elasticbeanstalk.com
@@ -29552,7 +29745,6 @@ lovemercars.ddns.net
 lovemoney.2288.org
 loverat.porn60s.com
 lovestory.ddns.net
-lovethepoor.jumpingcrab.com
 lovewareat.shaxiaapril.top
 lovewareclub.shaxiapussy.top
 lovewaredeals.shaxiaas.top
@@ -29560,6 +29752,7 @@ lovewarefr.shaxiaadd.top
 lovewaremen.shaxiaarts.top
 lovewareorg.chifanassume.top
 lovewareshop.shaxiaanti.top
+lovgvpcdov.duckdns.org
 lovhfcyaoo.duckdns.org
 lovingthe.crabdance.com
 lovmixy.goruli.com
@@ -29570,6 +29763,7 @@ lowcy-porywaczy.waw.pl
 lowkeyjust.ddns.net
 lox7.ddns.net
 loyalryuzaki.no.ip.biz
+loyalty.kkcoaches.co.ug
 lozbmxfqep.duckdns.org
 lozstnmqag.duckdns.org
 lozvuvuudb.duckdns.org
@@ -29630,8 +29824,8 @@ lrkkevbqcr.duckdns.org
 lrktrdbbjl.duckdns.org
 lrkxhrixdh.duckdns.org
 lrkytbrdev.duckdns.org
-lrlaafjguc.duckdns.org
 lrmodtgzyl.duckdns.org
+lrmvzgcwnm.duckdns.org
 lrn.goruli.com
 lrokoaemrs.duckdns.org
 lrostjhazw.duckdns.org
@@ -29643,6 +29837,7 @@ lrtjyacvxa.ddns.net
 lrxgvuvkjc.duckdns.org
 lryacwesuv.duckdns.org
 lryjapaqvf.duckdns.org
+lryqbmcqfi.duckdns.org
 ls.cc86.info
 ls.gucac.com
 ls.lenovowireless.ne
@@ -29685,6 +29880,7 @@ ltwkhtqukk.duckdns.org
 ltwxijxssf.duckdns.org
 ltyckrpqle.duckdns.org
 lu.ige.es
+lu.w3vj.cn
 lu1.ovpn.tp
 lubangx.25u.com
 lubie-pomagac.waw.pl
@@ -29773,6 +29969,7 @@ lunamuellercom.shaxiaprimary.top
 lundhefman.freesite.host
 lunytfqzlt.duckdns.org
 luogetrzlz.duckdns.org
+luqgdjqkeu.duckdns.org
 lusehtec.in.net
 lusnuujajansussa.ddns.net
 lustra-tv.ddns.net
@@ -30084,7 +30281,6 @@ m.bgj216.cn
 m.bgj582.cn
 m.bgj673.cn
 m.bgj781.cn
-m.bgj935.cn
 m.bgkgko.cn
 m.bhkhkm.cn
 m.bififd.cn
@@ -30384,6 +30580,7 @@ m.fb-page245724565-update.xnfgds.com
 m.fb-verification.7865426.com
 m.fb-verify-identity-page.empaquesvida.com
 m.fb.com-marketplace-item-5882492735.aubinfo.com
+m.fb.foroneverifications.com
 m.fbaix.com
 m.fbaot.com
 m.fbieq.com
@@ -30441,7 +30638,6 @@ m.gjiak.com
 m.gjuet.com
 m.gk277.cn
 m.gkz39.cn
-m.glaef.cn
 m.glvej.com
 m.gmailmx.com.qdmai.xyz
 m.gnfpzc.cn
@@ -30531,7 +30727,6 @@ m.jhuzzf7.icu
 m.jiirz.com
 m.jkert.com
 m.jkuok.com
-m.jlkja.com
 m.jpenk.com
 m.judazlx.icu
 m.jyhwt.cn
@@ -30569,6 +30764,7 @@ m.lancedu.com
 m.laxienian888.com
 m.lbaij.com
 m.lbaoj.com
+m.lchar.com
 m.le78p.cn
 m.lengyamei.cn
 m.lf20pa.cn
@@ -30652,6 +30848,7 @@ m.offerup.com.sophiaaudreyskylar.com
 m.ogeigs.com
 m.ojues.com
 m.okuis.com
+m.olx.deliverconfrims.xyz
 m.omztf.cn
 m.opqsr.com
 m.oyrim.com
@@ -30665,6 +30862,7 @@ m.paypal.com-usaupdatewebscr5465454sfx5445sfdffssdupsa7854posfxr.br8g.com
 m.pbino.com
 m.pcaoo.com
 m.pcuna.com
+m.picbr.com
 m.pkbrxja.cn
 m.pmshy.cn
 m.pomkl.com
@@ -30900,7 +31098,6 @@ m.zeiaa.com
 m.zenffs.cn
 m.zfrgkm.cn
 m.zg39b.cn
-m.zhipianwu.com
 m.zhuyuanp.club
 m.zhuyuanp.shop
 m.zhuyuanp.top
@@ -31132,6 +31329,7 @@ m8.sg.2mdn.net
 m8.uk.2mdn.net
 m8.ve.2mdn.net
 m8.za.2mdn.net
+m85.saithingware.ru
 m8dmkw.dynu.net
 m8fr.svcoding.com
 m8t.svcoding.com
@@ -31198,7 +31396,6 @@ machination.dynu.com
 machination.xinvasion.xyz
 machination.xresurrection.xyz
 machinepbbrshare.ddns.net
-macjcbliee.duckdns.org
 mackenzie.ssl-f43-m2.com
 mackolikftp.tuttur.com
 mackplayer.system-ns.net
@@ -31242,7 +31439,6 @@ magento.lcgin.xn--lockchain-zy5d.com
 magento.neagoeandrei.com
 magento.old.xn--blockchin-c2d.com
 magento.old.xn--kaken-tbb.com
-magento.shop.xn--blockchin-c2d.com
 magento.staging.xn--lockchain-zy5d.com
 magento.store.xn--blockchin-c2d.com
 magento.store.xn--kaken-tbb.com
@@ -31352,7 +31548,6 @@ mail.bokepdewasa.whatsapp77.my.id
 mail.bokepgroup18.whatsapp-k.com
 mail.bokepgrup.hot1.shop
 mail.bokepindo.h6d.shop
-mail.bokepjandahot.0xz.org
 mail.bokepsgrup.guied7.my.id
 mail.bokepviral.whatsapp-199201.gq
 mail.bokepwa18hotgrup.onfyis.com
@@ -31367,6 +31562,7 @@ mail.bunrbgxujmsdd.cc
 mail.byegm.web.tr
 mail.camfrog-helwan-top.com
 mail.cancelpayeeonline.net
+mail.cba-netbank-payid.com
 mail.cbppnews.com
 mail.chase-security.live
 mail.chasemategoals.com
@@ -31442,7 +31638,6 @@ mail.deregistration-newmobile-secured.com
 mail.desktopnumberapps.com
 mail.diamond-gratis2020.skinfree9.com
 mail.digitalltrend.in
-mail.diyar.uz
 mail.djiladehesa.cl
 mail.dnaedu.com.br
 mail.dracomills.com
@@ -31486,6 +31681,7 @@ mail.fionap.tk
 mail.fisherman.gq
 mail.flashstart.com.ar
 mail.foothubgh.com
+mail.fptservice.net
 mail.gabung.grup-whatsapp.wa-net.tk
 mail.gabunggrup-wa18.join99.org
 mail.gabungrupwhatsapp.whatsapp543.my.id
@@ -31544,7 +31740,6 @@ mail.grupmabarfreefire.getz9.shop
 mail.grupogilservice.com.br
 mail.gruppefef.asli20.com
 mail.gruppwavirallterbaru.gabung.org
-mail.grups-wa.claim654.com
 mail.grupsexoldamerica.collect20.com
 mail.grupwa-ica.kozow.com
 mail.grupwa-sexs.tap19.org
@@ -31727,7 +31922,6 @@ mail.lombacerpenonline2020.my.id
 mail.lordkrishnaschool.co.in
 mail.lovesolutionsastro.com
 mail.lt-whatsapp.crotsz.com
-mail.luckyskinn.accesscam.org
 mail.luckyspin.rulepubg.com
 mail.m2-sac.com
 mail.mabar.budi.netlow.gq
@@ -31836,7 +32030,6 @@ mail.pubgreward.giize.com
 mail.pubgreward.myddns.rocks
 mail.pubgs13.eventsluck.com
 mail.push65.duckdns.org
-mail.qrerloyiha.uz
 mail.qwry54.duckdns.org
 mail.recipient-delete.com
 mail.redirectsecure01paypal.gleeze.com
@@ -31884,6 +32077,7 @@ mail.security-payee-online-uk.com
 mail.securitystatus.uk
 mail.secverifpay.com
 mail.sedyt.top
+mail.selembe.com
 mail.senocerpssc.com
 mail.sepcial-updater.com
 mail.server-icloud-map.live
@@ -32073,7 +32267,6 @@ mail02.icifemperu.com
 mail03.rhbhv.com
 mail163.mypop3.net
 mail3.5wya.com
-mailgate.sbell.com.cn
 mailgoi001.applestore-id-apple.com
 mailgw.thtf.com.cn
 mailhost.university-tartu.info
@@ -32095,7 +32288,6 @@ mailsrv02.macau.ctm.net
 mailsummary-accountsettingno71024892.com-us-west-2.support
 mailsummary-managepageaccountno781478255.mainsanacok.com
 mailsvra.macau.ctm.net
-mailtoupdate.touseramazonexperience.buzz
 mailuipdate-safeaccount.limosinhorn.com
 mailverify2020.upappscryexpireto24hour.gjdaegs.com
 maimouna.ddns.net
@@ -32119,6 +32311,7 @@ mak17opa54vjxu8.z7.web.core.windows.net
 make.marksypark.com
 make.ploooop.com
 make.pointbuysys.com
+make.wrengostic.com
 makego11.chickenkiller.com
 makegoodpls.strangled.net
 makingmlh.ddns.net
@@ -32379,7 +32572,6 @@ manual.spermaccmpur230s.com
 manuelberoepskledingcom.augerqisafety.top
 manuelberoepskledingcom.shaxiaapril.top
 manufakturduschencom.shuiacause.top
-manulife.ca-syschk.net
 manuse-52828.portmap.host
 many.abbyservertime.fun
 manyekideam.ddns.net
@@ -32524,7 +32716,6 @@ mawagegroupcom.batwoqistart.top
 mawageinfo.chifanavoid.top
 mawagenet.bfx-mailer.com
 mawagenet.shaxiaact.top
-mawjcfmobi.duckdns.org
 max-hacker.ddns.net
 max123242.ddns.net
 max2015.ddns.net
@@ -32610,6 +32801,7 @@ mc.dailymotion.com
 mc.imafish.net
 mc.tellme-your.name
 mca-jsk123.ddns.net
+mcaizezxrp.duckdns.org
 mcb12.ddns.net
 mcbgc.thejooomers.com
 mcc.chinauma.net
@@ -32630,6 +32822,7 @@ mcmimutkid.duckdns.org
 mcnana.theworkpc.com
 mcnilepmee.duckdns.org
 mcpldykkde.duckdns.org
+mcpntgwuut.duckdns.org
 mcrcancer.podzone.org
 mcrcount.podzone.org
 mcreftffcq.duckdns.org
@@ -32808,6 +33001,7 @@ meqcshwxtt.duckdns.org
 meqvxixfzh.duckdns.org
 merah.information.coverageharvest.info
 merats-55385.portmap.io
+merchant.loyal-pay.com
 merchant.mercyministries.ca
 mercipotobibi.crabdance.com
 mercrosstradecom.chifanavoid.top
@@ -32922,6 +33116,7 @@ mfkbshyheg.ddns.net
 mfkn.71mxc6.cn
 mfnhepnpzi.duckdns.org
 mfoguznoth.duckdns.org
+mfprfqpqvz.duckdns.org
 mfprorat.ddns.net
 mfprorat2.mooo.com
 mfqtxdatcf.duckdns.org
@@ -32955,6 +33150,7 @@ mgn.becksworld.org
 mgnoongmz.ddns.net
 mgofohovtc.duckdns.org
 mgq.brosfeaturetest.com
+mgqpnjufsd.duckdns.org
 mgqvduwkda.duckdns.org
 mgsse.superfasttracking.company
 mgtgfzwiah.duckdns.org
@@ -33020,6 +33216,7 @@ michinteressiertscom.nckiengineering.gdn
 michitabicom.shaxiaaustralia.top
 mick.goruli.com
 micks.no.ip.biz
+micomico.ddns.net
 micorosoft.ddns.net
 micpfqdxjx.duckdns.org
 micro-365.constantinobalmaceda.com.ar
@@ -33142,7 +33339,6 @@ mikus293.ddns.net
 milala0404.ddns.net
 milk.fabproductsuk.info
 milka1337.ddns.net
-milky123.casacam.net
 millturntechnologiescc.shaxiareply.top
 milosinka.ddns.net
 milou.milou.pw
@@ -33352,6 +33548,7 @@ mks.wsmks.com
 mksddf46o343.efaktury.icu
 mksdeutschlandcom.nckithailand.gdn
 mkskqckfxy.duckdns.org
+mkslireygy.duckdns.org
 mkttdkfoyk.duckdns.org
 mkudjgeq.goruli.com
 mkugkqtczf.duckdns.org
@@ -33392,7 +33589,6 @@ mlfusmnimy.duckdns.org
 mlh123.ddns.net
 mlhdns.phatbois.me
 mljgynydmk.duckdns.org
-mlkcmbfbrd.duckdns.org
 mlkkkxllyy.duckdns.org
 mlkxxcpbbu.duckdns.org
 mlkymncbcc.duckdns.org
@@ -33493,6 +33689,7 @@ mnteasevvc.duckdns.org
 mnufobwmiy.duckdns.org
 mnuuvknodg.ddns.net
 mnv.terasoffshore.xyz
+mnwfmhuicx.duckdns.org
 mnxsedwe3.duckdns.org
 mo.40ic.cn
 mo.46ga.cn
@@ -33507,7 +33704,10 @@ mo.gsasqa.cn
 mo.hdschw.cn
 mo.mktrkn.cn
 mo.mptckm.cn
+mo.mu5b.cn
 mo.osvp2.cn
+mo.ot1n.cn
+mo.ou6d.cn
 mo.qb138.cn
 mo.szimic.cn
 mo.yhcrqzj.cn
@@ -33697,6 +33897,7 @@ mopmtkntct.duckdns.org
 mopnrfiqqj.duckdns.org
 mor19.uu.gl
 moraldoteam.ddns.net
+morasergio.ac.ug
 moratdss.spiekermann-porzellan2.de
 morcmmystnewtalententertamentfor1winner.duckdns.org
 more-faceb00k.com-okhmunsuwd.leonie.co.uk
@@ -33984,7 +34185,6 @@ mtl.ttsqgs.com
 mtnrwvdrkj.duckdns.org
 mtonline0416.dyndns.org
 mtp.myft.biz
-mtpeuncsou.duckdns.org
 mtppiphbig.duckdns.org
 mtpserver.np-ip.org
 mtpuxpijzc.duckdns.org
@@ -34023,6 +34223,7 @@ multdados.ddns.net
 multi.portalapper.com.br
 multi1.rmuk.co.uk
 multii.ddns.net
+multipicas.eastus.cloudapp.azure.com
 multired.1clientesbn.com
 mumojuw.ddns.net
 mundotrojan.ddns.net
@@ -34119,6 +34320,7 @@ mvo.qasdw3.xyz
 mvo.sqa54e.xyz
 mvo.vcbn65.xyz
 mvo.ythbr.xyz
+mvomkszrzn.duckdns.org
 mvonnxirrc.duckdns.org
 mvrslaxsxd.duckdns.org
 mvs.mediavantage.de
@@ -34187,6 +34389,7 @@ mxiviivuhu.duckdns.org
 mxjxxkkjjj.duckdns.org
 mxkjxjbobb.duckdns.org
 mxkkxxjwvv.duckdns.org
+mxkminwzsj.duckdns.org
 mxlncmdpxf.duckdns.org
 mxlylxxxkc.duckdns.org
 mxmvzcfseg.duckdns.org
@@ -34213,7 +34416,6 @@ my.account.instagram.com.198663092739365.cf
 my.brandstorez.su
 my.bzzrdc.work
 my.ckqmcb.work
-my.commbank.com.au.aus.login.netbank.logon.dokredit.com
 my.commbank.com.au.australia.code.netbank.confirm.laxmiagroco.com
 my.commbank.com.au.lahost.tk
 my.commbank.com.au.latos.top
@@ -34265,6 +34467,7 @@ my.vodafonepay.eoneszamla.com
 my.wzxrcl.work
 my.xfinity.com.loginsecurenowonline.from-ct.com
 my.zzsoft.info
+my1fimg.m.b5200.net
 my22imaliassad.ddns.net
 my3.a3uth.com
 my3.account.k-uk.com
@@ -34341,7 +34544,6 @@ mybadthing.dyndns.com
 mybaustoffecom.nckiemployment.gdn
 mybillpayment.dynodns.net
 mybjznb.goruli.com
-mybobo.mygamesonline.org
 mybqmmgwub.duckdns.org
 mybt.securemobile-signin1.com
 mybubblycom.shaxiaput.top
@@ -34353,6 +34555,7 @@ mycommbank.com.au.authlogin.userpassword.australia.logs.momandsam.com
 mycommbank.net.au
 myconmanagedomssossl.armscessong.com
 mycount.mrslove.com
+mycupnocqi.duckdns.org
 mycustomerservice.is-a-therapist.com
 mydaddy.b0x.com
 mydammedlife.gotdns.ch
@@ -34379,6 +34582,7 @@ myetherrwallnet.mining24.info
 myetherwallet.apps.ethvault.xyz
 myetherwallet.claim.erc-20.bonus.tokens-mew.com
 myetherwallet.gold-kbc.com
+myetherwallet.ilogirn.com
 myetherwallet.keynasty.com
 myetherwallet.lcgirn.com
 myetherwallet.llogin.co
@@ -34506,7 +34710,6 @@ mz37a.svcoding.com
 mzbllfhbsm.duckdns.org
 mzdlwnswrg.duckdns.org
 mzejycyocd.duckdns.org
-mzelzuovvu.duckdns.org
 mzenjdfu.waw.pl
 mzet.svcoding.com
 mzgomoawii.duckdns.org
@@ -34875,6 +35078,7 @@ nbhw.lnkredirect.com
 nbildnokf.goruli.com
 nbioneei.sweetwprice.su
 nbjoombsdx.duckdns.org
+nbmnpgtfaw.duckdns.org
 nbmpkdfxct.duckdns.org
 nbnbnstdylionkistwcx.dns.army
 nbnbnwsdyewagedevibc.dns.army
@@ -34886,6 +35090,7 @@ nbsec.dyndns.org
 nbtgkoifca.duckdns.org
 nbw09o.gotdns.ch
 nbwuymhzay.duckdns.org
+nbxzhivplu.duckdns.org
 nbzlvsueqs.duckdns.org
 nbzqvkltlk.duckdns.org
 nc004x.corp.youdao.com
@@ -34901,7 +35106,6 @@ ncexh.addroits.com
 ncg.goruli.com
 ncgtscmlbx.duckdns.org
 nch.xnghmc.com
-nchdicus.duckdns.org
 nchvkodshl.duckdns.org
 ncksnnvbgl.ddns.net
 nclifvjsrm.duckdns.org
@@ -34953,6 +35157,7 @@ ndwyprvdfc.duckdns.org
 ndxfunsman.duckdns.org
 ndyytbi.goruli.com
 ne1.apparteworkshop.com
+neammirqgi.duckdns.org
 neatratbackup.ddns.net
 nebercia.temp.swtest.ru
 neboys-25589.portmap.io
@@ -35082,6 +35287,7 @@ netflix.online-paymybill.com
 netflix.onlineupdateservices.net
 netflix.overview-accounts.navgouvhunn.digital
 netflix.paybill-online.com
+netflix.payment-uk.com
 netflix.paymentinfo-amend.com
 netflix.paymentinfo-update.com
 netflix.payments-info-centre.com
@@ -35385,7 +35591,6 @@ ngentotwabkp.mywire.org
 ngeratlah.ddns.net
 ngeweenak.sorehtrss.com
 ngeweyuk.join-wa.net
-nggbkpevzk.duckdns.org
 ngkqtwmqtj.ddns.net
 ngksqyaepv.duckdns.org
 ngm.svcoding.com
@@ -35394,6 +35599,7 @@ ngoaingusunrise.edu.vn
 ngpecgesux.duckdns.org
 ngqfksdjgc.duckdns.org
 ngrok.xiaotk.tk
+ngrsghwygk.duckdns.org
 ngtcecq.rogagot.com
 nguhuiivii.duckdns.org
 ngv2.duckdns.org
@@ -35405,6 +35611,7 @@ nhaccuatui.android.zyngacdn.com
 nhbans.serviceorder.su
 nhclstcweo.duckdns.org
 nheckftdfg.duckdns.org
+nhejeqwapu.duckdns.org
 nhghtyddss.duckdns.org
 nhhdcucfzn.duckdns.org
 nhjuhninpo.duckdns.org
@@ -35435,7 +35642,6 @@ nickennicken.ddns.net
 nickman12-40601.portmap.io
 nid-mail.esy.es
 nid-naver.hol.es
-nid.naver.unibok.kr
 nieaobblxp.duckdns.org
 niels.skjoldager.facebook.com.account.susp.sunnti.com
 nieradzimysobie.seohost.com.pl
@@ -35445,7 +35651,6 @@ nigersareshit.ddns.net
 niggalife.5gbfree.com
 niggaware.ddns.net
 nigger69.ddns.net
-niggersshouldbe.strangled.net
 nightbrow05.ddns.net
 nihdniztix.duckdns.org
 niiarmah.dynu.com
@@ -35483,7 +35688,6 @@ niteast.strangled.net
 nitefallrat.fagdns.com
 nitengystdylunatsthj.dns.army
 niuer-req.xy.huijitrans.com
-nivhvtfnvu.duckdns.org
 nividiaupdate.ddns.net
 niwcztjzlf.duckdns.org
 niwd.zhybw88.com
@@ -35554,6 +35758,7 @@ nkgbjypyyb.duckdns.org
 nkgclaudinei.ddns.net
 nkgclaudinei.duckdns.org
 nkh.goruli.com
+nkhpnymqby.duckdns.org
 nkispspazl.ddns.net
 nkj32.ailacabs.com
 nkjaingosd.duckdns.org
@@ -35599,7 +35804,6 @@ nlijvwhmwj.duckdns.org
 nlikbuzkgz.duckdns.org
 nljfxfknfm.duckdns.org
 nlkkkbbnan.duckdns.org
-nlkkkkoooo.duckdns.org
 nlkkpcbbbb.duckdns.org
 nlkkxxbbam.duckdns.org
 nlkyavwbrl.duckdns.org
@@ -35625,7 +35829,6 @@ nlw.underwearliftoff.com
 nlxbkgod.goruli.com
 nlxpccccbo.duckdns.org
 nlxylgggss.duckdns.org
-nlytxwxofn.duckdns.org
 nm2kh.mentriqq.com
 nmaaaeqcbo.ddns.net
 nmaaaeqcbo.duckdns.org
@@ -35633,7 +35836,6 @@ nmaonbphuh.duckdns.org
 nmb.mooo.com
 nmb41aw5e3ms.awsdopjhwqhqw.club
 nmbrexajmd.duckdns.org
-nmexmapbnc.duckdns.org
 nmhjjcosek.duckdns.org
 nmlaglkzgx.duckdns.org
 nmlqqpcopc.duckdns.org
@@ -35656,9 +35858,9 @@ nmzzeereab.duckdns.org
 nn12.fagdns.com
 nnaji.system-ns.net
 nnalynikdl.duckdns.org
-nnazxhgjtb.duckdns.org
 nnbcccqvvw.duckdns.org
 nneboxzvnq.duckdns.org
+nneqwajsep.duckdns.org
 nnfbomxzso.duckdns.org
 nngbptfxhy.duckdns.org
 nnhtermbcs.duckdns.org
@@ -35689,7 +35891,6 @@ nntrd.svcoding.com
 nnwrmjuzxb.ddns.net
 nnxcpxvpkc.duckdns.org
 nnzmykfyhu.duckdns.org
-no-ip-dns.uk.to
 no-ip-dns.us.to
 no-ip1414.ddns.net
 no-ipgmail.ddns.net
@@ -35891,7 +36092,6 @@ notipnjrat.ddns.net
 notla.ddns.net
 notlamar.ddns.net
 notlily-35099.portmap.host
-notrip.strangled.net
 notrip2.fagdns.com
 notticebfa.ttroger.com
 nouhackkkkkk.ddns.net
@@ -35919,7 +36119,6 @@ nowupdatee.newamazoncojpdns.cyou
 noxiousagent.dyndns-server.com
 noxrr.ddns.net
 noya.org.ng
-noykslzkgy.duckdns.org
 noyon007-42443.portmap.host
 nozeuropan.esy.es
 nozomi.sakananoko.io
@@ -35936,7 +36135,6 @@ npjzwuen.goruli.com
 npkgxnyqrj.duckdns.org
 npnbsy.rogagot.com
 npohlknzdy.duckdns.org
-nponvgupkw.duckdns.org
 npqzctllty.duckdns.org
 npruupvlzv.duckdns.org
 nptgxfibze.duckdns.org
@@ -35945,6 +36143,7 @@ npvpqavzmp.duckdns.org
 npvunstsmg.duckdns.org
 npwrwaqghj.ddns.net
 npyifjb.biogenicherb.com
+npzapscmie.duckdns.org
 npzuslbfaa.duckdns.org
 nqbzrvvqoz.duckdns.org
 nqcppppobo.duckdns.org
@@ -35963,6 +36162,7 @@ nqqymxscxs.duckdns.org
 nqrpdsmrum.duckdns.org
 nqrrfrrrsf.duckdns.org
 nqrszdmv.goruli.com
+nqsuwfjovm.duckdns.org
 nqt7.svcoding.com
 nqtxovoahc.duckdns.org
 nqubfjiqne.duckdns.org
@@ -36227,7 +36427,6 @@ ns1.klipfordansk.su
 ns1.kolabdnsa.ru
 ns1.koncaved.ru
 ns1.kuvsahilok.at
-ns1.lalibco.com
 ns1.laukach.ru
 ns1.leagile.ru
 ns1.lebest.ru
@@ -36241,7 +36440,6 @@ ns1.lijh.su
 ns1.lilum.ru
 ns1.linuxtcp.ru
 ns1.liourt.at
-ns1.lipradns.ru
 ns1.lmj.su
 ns1.logitech-usa.com
 ns1.loklordg.at
@@ -37621,7 +37819,6 @@ nvbse.duckdns.org
 nvhtlhvxwk.duckdns.org
 nvidia-system.ddns.net
 nvidia.benjamiilliams.club
-nvidia.pcriot.com
 nvidiaupdater.ddns.net
 nvldnkmuwc.duckdns.org
 nvmmqirigc.duckdns.org
@@ -37927,6 +38124,7 @@ objenet.batwoqisent.top
 oblak1234.ddns.net
 oblesni.vot.pl
 obltyfdyzo.duckdns.org
+obmpriqypq.duckdns.org
 obocbobott.duckdns.org
 oboxdz.ddns.net
 obppopcchu.duckdns.org
@@ -37934,6 +38132,7 @@ obrazkowo.vot.pl
 obrazluybvi.spbmm.ru
 obrine7-44222.portmap.io
 obs1.ddns.net
+obswepgbuc.duckdns.org
 obtdnbliau.duckdns.org
 obvjbeojkd.duckdns.org
 obvqozqbwp.duckdns.org
@@ -37947,6 +38146,7 @@ oceanicglobal.org.in
 ocentral.qua.one
 oceuesodjk.duckdns.org
 ocgamersts.chickenkiller.com
+ocnfkzxwed.duckdns.org
 ocnqvzkhvg.duckdns.org
 oco-231-ms.xns01.com
 ocobuvmsan.duckdns.org
@@ -37955,6 +38155,7 @@ octarine.soxx.us
 ocuf.pzuth.cn
 ocvilctwya.ddns.net
 ocvngwoklj.duckdns.org
+ocvquixbhj.duckdns.org
 ocwbcaflwe.duckdns.org
 ocynvemmoo.duckdns.org
 ocziamcnzk.duckdns.org
@@ -37984,6 +38185,7 @@ odoo.neoalchemy.co.ke
 odpggydbuh.duckdns.org
 odplgsoqlg.duckdns.org
 odrfflkkns.duckdns.org
+odsdldbzia.duckdns.org
 odsuewpu.healthygenez.club
 odukqumqwg.ddns.net
 oduruwaquv.gikorip.net
@@ -38015,7 +38217,6 @@ oevjkfxfgu.duckdns.org
 oevwzkdftv.duckdns.org
 oewbydwaeu.ddns.net
 oeygydkizx.duckdns.org
-oeyjritorj.duckdns.org
 oezkytapag.duckdns.org
 of.cowsnbullz.com
 of.hammerhandz.com
@@ -38114,6 +38315,7 @@ ofrpusaojb.duckdns.org
 ofrucbaydv.duckdns.org
 ofsd.goruli.com
 ofspymk.rogagot.com
+oftsrptsnj.duckdns.org
 ofupecwxpu.duckdns.org
 ofure.ddns.net
 ofuvxyasho.duckdns.org
@@ -38330,7 +38532,6 @@ olprskupkw.duckdns.org
 olqyjhzdgf.duckdns.org
 olrglqosjb.duckdns.org
 olrlss.duckdns.org
-olsddprats.duckdns.org
 olss.mooo.com
 olssonjohansson.diskstation.me
 oluchi.ddns.net
@@ -38382,6 +38583,7 @@ olx.3ds-paymenting.pl
 olx.cards2pays.online
 olx.com-id235823.ru
 olx.conactless-pay.store
+olx.deliverconfrims.xyz
 olx.deliverry.org
 olx.delivery-pl.shop
 olx.delivery-pl.store
@@ -38514,7 +38716,6 @@ olx.pl-buypost.icu
 olx.pl-buypost.surf
 olx.pl-cash.casa
 olx.pl-cash.cyou
-olx.pl-cash.icu
 olx.pl-cash.life
 olx.pl-cash.link
 olx.pl-cash.live
@@ -38829,6 +39030,7 @@ olx.pl-items.pw
 olx.pl-konto-orders.club
 olx.pl-konto-orders.life
 olx.pl-konto-orders.live
+olx.pl-konto-orders.me
 olx.pl-konto-orders.xyz
 olx.pl-konto.biz
 olx.pl-konto.casa
@@ -39382,7 +39584,6 @@ olx.pl.secure-rek.site
 olx.pl.security.oferta-payment.com
 olx.pl.security.oferta-payment.net
 olx.pl.trans-reg.site
-olx.pl.trans-rek.site
 olx.pl.transaction.oferta-payment.net
 olx.pl.wysylka.net
 olx.pl.wysylka.shop
@@ -39580,7 +39781,6 @@ oninsdvzyx.duckdns.org
 onivyfcmdarz.talagaremix.com
 onixoino.ddns.net
 onkologieostalbcom.shuiacensus.top
-onl.dongphuchaianh.vn
 onlinciti-001-site1.atempurl.com
 online-banking-targobank.identification-login.com
 online-chase.from-vt.com
@@ -39623,6 +39823,7 @@ online.bpi.com.ph.secure-auth.bsp.gov.ph.dielle.info
 online.chaseofficial.xyz
 online.citizen-intln.com
 online.citizensfrb.com
+online.craigslist-listing.us
 online.facebook.com.wesrd.top
 online.gatehouse-bank.com
 online.hsbc.securityinterface.name
@@ -39633,6 +39834,7 @@ online.scotiabank.i1i0.xyz
 online.scotiabank.id9010.xyz
 online.scotiabank.mxdigital987.com
 online.scotiiabank.com.mx.inverweb2020.cyou
+online.securelogin-viewnewpayee.com
 online.security-operation-center.de
 online.upmirai.club
 online.usean.biz
@@ -39641,6 +39843,7 @@ online.vdk.be.efoepsaks.com
 online.vdk.be.fdwfdeqw.com
 online.vdk.be.rvfwqsekd.com
 online.vdk.be.wedssaxdsc.com
+online.wellsfargo.ref-id831.work
 online.wellsfargo.wswlsnvd.top
 online01-capitalhelp24.da-ar.ru
 online1.mywire.org
@@ -39698,7 +39901,6 @@ onyeoma5050s.ddns.net
 onzasrerdd.duckdns.org
 onzmmmyyyy.duckdns.org
 oo87yy54rddx.cvhjikllytr5.al1av.com
-ooatvpvanh.duckdns.org
 oobjucuyjg.duckdns.org
 oobsligcxy.duckdns.org
 oocccppppd.duckdns.org
@@ -39811,6 +40013,7 @@ optrqpykly.duckdns.org
 optus.com.au.submit-cloud.services
 optus.secured-verify.co
 opvhwczeve.duckdns.org
+opwbfwhyje.duckdns.org
 opwjux.lnkredirect.com
 opwqykilxy.duckdns.org
 opwxntlzzr.duckdns.org
@@ -39909,8 +40112,6 @@ ortusi.icesurat.org
 oruxdqhhy.goruli.com
 oruybeilor.duckdns.org
 orvdlmhcdo.duckdns.org
-orvwlaoign.duckdns.org
-orwujxmnmy.duckdns.org
 orxwslxqun.duckdns.org
 oryano.ddns.net
 oryeyavabo.duckdns.org
@@ -39960,7 +40161,6 @@ osynewvps.duckdns.org
 oszwkbkaxn.duckdns.org
 otadawllov.duckdns.org
 otb24com.nckiengland.gdn
-otbjukalft.duckdns.org
 otdjkyqhgm.duckdns.org
 oteruiowert.ddns.net
 otfzkwnjds.duckdns.org
@@ -40169,12 +40369,14 @@ oxumoprsdo.duckdns.org
 oxwmpowrtc.duckdns.org
 oxwokmprxv.duckdns.org
 oy.qthp82.cn
+oyatqdnyoo.duckdns.org
 oycpydcmdy.duckdns.org
 oyeqrxungb.duckdns.org
 oyfdrjqbfu.duckdns.org
 oyffvzvuhb.duckdns.org
 oyfovdmbtp.duckdns.org
 oyg.mxdnqw.cn
+oyjoktorti.duckdns.org
 oykkxerqdn.duckdns.org
 oykxykxobo.duckdns.org
 oylkbverkb.duckdns.org
@@ -40249,7 +40451,6 @@ p.keywordkr.com
 p.lumieyes.com
 p.nude-moon.com
 p.publico.es
-p.pypl-checkinformation.betscapital.co.za
 p.qiailm.com
 p.qijijs.top
 p.saozhu1.top
@@ -40285,7 +40486,6 @@ p7pjd.addroits.com
 p7q.svcoding.com
 p7r85.svcoding.com
 p8jk3eiahaginktovmhrs5sgje.ykhw09.com
-p8xzblxnsroj.talagaremix.com
 p95-j.mentriqq.com
 p96.svcoding.com
 p98sa.svcoding.com
@@ -40367,7 +40567,6 @@ pages-reconfirm-active-info-2020.my.id
 pagespeed.report.qq.com
 pagesupportnotificationaccountbusinessinc.priivacy-recovery-identiity-society-securr.my.id
 pagewebappsecure-manageaccountveriynginfo.jaswikan.com
-pagjvbjzvt.duckdns.org
 pagodabuilderscom.shaxiareal.top
 pahee.duckdns.org
 pahkbvgzoa.duckdns.org
@@ -40537,7 +40736,6 @@ paulsonvan.cloudaccess.host
 paveliorga.ddns.net
 pavkov12.ddns.net
 pavpal-pageservicemanage-limitedaacount.bagaidisanaki.net
-pavvvizhct.duckdns.org
 pawianek2-20050.portmap.host
 pawiiedqyo.duckdns.org
 pax.oujevais.com
@@ -40560,7 +40758,6 @@ pay.pal-resolve01.com
 pay.pal-verifcation.site
 pay.pal-verify10.com
 pay.pal.co.hostingwithplans.buzz
-pay.qaux.cn
 pay11301.co-ip.biz
 payattentiontothein.smbccard.best
 payattentiontotheinput.rakutenmall.best
@@ -40974,7 +41171,6 @@ paypal.com.verif-230620.com
 paypal.com.verif-280620.com
 paypal.com.verify-payment.info
 paypal.com.verify-ssid.webredirect.org
-paypal.com.webapps-mpp.home.php.system-user.bocah.info
 paypal.com.webapps-signin-country.cf
 paypal.com.webapps-signin-country.tk
 paypal.com.webapps-signin.mpp-pay-online.cf
@@ -41208,12 +41404,10 @@ paypalverificationstepsconfirmidref638273719192.networxx11.org
 paypalverified.webredirect.org
 paypalweb.z1.web.core.windows.net
 paypalwebservicecs.loseyourip.com
-paypayonline.upasom.com
 paypl-update.loseyourip.com
 paypl-updateinfo.loseyourip.com
 paypl.siginl.com
 payplupdateinfo.payplupdateinfo.live
-paypuserverifyupdateinfo.from-ri.com
 payqal-2020.wpdevcloud.com
 payqhtxljg.duckdns.org
 payroll.blogtodaynews.com
@@ -41239,7 +41433,6 @@ pbkliuvjvq.ddns.net
 pbleobr.ddns.net
 pbmavgsgom.duckdns.org
 pbmjx.secureconnect.company
-pbmjx.youroffer.company
 pbnbjralsm.ddns.net
 pbnjzgjqhi.duckdns.org
 pbnnaaamml.duckdns.org
@@ -41259,7 +41452,6 @@ pbxhcwhdzq.duckdns.org
 pbzkcaozns.duckdns.org
 pc.107788.com
 pc.ac-kr.esy.es
-pc78k.addroits.com
 pcbwxpdxty.duckdns.org
 pcc24org.batwoqishoes.top
 pcchnhcdbw.duckdns.org
@@ -41323,7 +41515,6 @@ pdtfvkgnzo.duckdns.org
 pdtxexwwwb.ddns.net
 pdudtfynnh.duckdns.org
 pdwkwxkkkk.duckdns.org
-pdywzoiqow.duckdns.org
 pdz.addroits.com
 pdzcbqrghh.duckdns.org
 pdzlfc.rogagot.com
@@ -56144,6 +56335,7 @@ wbsfguuuhu.duckdns.org
 wbvtztcqhc.duckdns.org
 wbvwwijrpr.duckdns.org
 wbxylemp.goruli.com
+wbybanrzoe.duckdns.org
 wc5at4fxcd9l42x.e8273.pro
 wcb.eygefl.com
 wccdweqnadev.azurewebsites.net
@@ -56664,6 +56856,7 @@ weinisiyulecheng.tavmo.com
 weirdly.crabdance.com
 weiterbildungsparkcom.licumexico.gdn
 wejden2014.ddns.net
+wejhwhz29.asfsanh.com
 wejsdjfhjwehjhjdbdfghieidsjdfhgjhjfdhgjhjhasjhfjdfjhjhdjshjshdj.ydns.eu
 welcome69.ddns.net
 welcomeheretomept.ddns.net
@@ -56904,6 +57097,7 @@ wgzhfqigrr.duckdns.org
 wh-32248.portmap.io
 wh-fk.addroits.com
 wharzikddp.duckdns.org
+whasaapchtgrup1.claim654.com
 whasaapgrup.wa-21.com
 whastapp-join199.mcalias.com
 whastapp.kghosting.xyz
@@ -57204,6 +57398,7 @@ whoamimaster.ddns.net
 whois.nictr.info
 whoisdm.gotdns.com
 whoo789allcaps.ddns.net
+whoresucks.duckdns.org
 whowas.strangled.net
 whqyzsmjxg.duckdns.org
 whsrqbecml.ddns.net
@@ -57681,6 +57876,7 @@ wprhz.svcoding.com
 wpstat.strangled.net
 wptocqljev.duckdns.org
 wptp.lianjiewuxian.com
+wptysnllwr.duckdns.org
 wpu0.3322.org
 wq01.ddns.net
 wq02.ddns.net
@@ -57691,6 +57887,7 @@ wqapkrgvyeco.rzf.futbol
 wqasdg3e3.duckdns.org
 wqbohpbabi.duckdns.org
 wqdmiwljkv.duckdns.org
+wqdnzvnqt.rogagot.com
 wqegg4zvhvq4yjro.onion.in.net
 wqiwnoznbp.duckdns.org
 wqklefbgik.duckdns.org
@@ -57823,6 +58020,7 @@ wujvnwiglx.duckdns.org
 wuliao.chzsport.cn
 wuliao.juqingba.cn
 wumkylypcz.duckdns.org
+wupd443.ax.lt
 wuplmucjem.duckdns.org
 wuqfxxpuru.duckdns.org
 wurzelbehandlungingolstadtcom.shaxiasay.top
@@ -58063,6 +58261,7 @@ www.4k.123moviesfox.xyz
 www.503.allegro.lokalnie.link
 www.5188yy.com
 www.5279.kochampsy.xyz
+www.5675146.com
 www.579.allegro.lokalnie-pl.club
 www.5814889.com
 www.5adsfbstyerdbvshfge.xyz
@@ -58123,6 +58322,7 @@ www.account.confirmation.center.trakbuddyng.com
 www.account.d93f0ee76c1b517b3c5.info
 www.account.feb4def7daf0619cbd37d6a81.info
 www.accountbills-ee.com
+www.accountgoback.mixh.jp
 www.accountscheck-ee.com
 www.accountsecurity-halifax.com
 www.accountsecuritylloyds-uk.com
@@ -58492,6 +58692,7 @@ www.cb76471.tmweb.ru
 www.cb85581.tmweb.ru
 www.cb93528.tmweb.ru
 www.cbppnews.com
+www.cc.sys.intl.xiaomi.com
 www.cc.sys.miui.com
 www.cc53740.tmweb.ru
 www.ccc.sys.intl.xiaomi.com
@@ -58901,6 +59102,7 @@ www.facebook-marketplaces.eradicy.com
 www.facebook-page.business421597870.com
 www.facebook-update.dlfonryu.com
 www.facebook-videos-app.garmingdate.link
+www.facebook.bazar.li
 www.facebook.business-id-356166402.com
 www.facebook.com-checkpoint-confirm-account-login.gways.xyz
 www.facebook.com-marketplace-857893.healthportal.pk
@@ -58933,6 +59135,7 @@ www.facebookaheagoprincess.pl
 www.facebookcom-43632337.techsso.com
 www.facebookcom-49851167.techsso.com
 www.facebooksecuredhelp.ga
+www.facebooksecurity.knitstudio.net
 www.facebookvideo.club
 www.faceboook.comfacebook.amu.edu.az
 www.faceebook.somee.com
@@ -59004,7 +59207,6 @@ www.funfactorybd.com
 www.furnitureulimited.com
 www.futurepay.globway.eu
 www.fwqekk.top
-www.gabung.getfree7.me
 www.gabung.grup-whatsapp.wa-net.tk
 www.gabunggroupwa.claim654.com
 www.gacatl.com
@@ -59060,6 +59262,7 @@ www.google.codeinn.org
 www.googlegemail.com
 www.googmel.win
 www.gorakuten.shop
+www.gouzhibao.cn
 www.gov.claimrebate2.com
 www.gov.claimrebate43.com
 www.gov.dvla.gbutd.ltd
@@ -59112,7 +59315,6 @@ www.grupwa18hot.hol2.shop
 www.grupwadewasa.guied7.my.id
 www.grupwhatsapbokepviral.moxet13.ml
 www.grupwhatsapfrontalgaming.joins83.cf
-www.grupwhatsapp-18plus.getfree7.me
 www.grupwhatsappdewasa.kozow.com
 www.gtrfashion.com
 www.guanyitanggy.com
@@ -59822,6 +60024,7 @@ www.magaluoff.com
 www.magicagourmet.es
 www.mail-yahoo.icu
 www.maispontosmultiplus.com
+www.mamazon.buzz
 www.manage.account-suplosyverifyingdidt.pinkacorona.com
 www.manager-paczek.in.net
 www.maps.sing-us.com
@@ -60189,6 +60392,10 @@ www.olx.pl-id12857127.org
 www.olx.pl-id152357233.org
 www.olx.pl-id153277992.com
 www.olx.pl-id1572599.com
+www.olx.pl-id1618338670.site
+www.olx.pl-id1618926813.site
+www.olx.pl-id1619025954.site
+www.olx.pl-id1619211970.site
 www.olx.pl-id16363899.net
 www.olx.pl-id16386538.net
 www.olx.pl-id16625891.org
@@ -60197,6 +60404,7 @@ www.olx.pl-id202011-order.site
 www.olx.pl-id2316733.net
 www.olx.pl-id2572662.info
 www.olx.pl-id2636411.org
+www.olx.pl-id335823.ru
 www.olx.pl-id749694.site
 www.olx.pl-id785192.me
 www.olx.pl-id831733.me
@@ -60405,6 +60613,7 @@ www.onlineshopss.in
 www.onlyfreeoffersonline.com
 www.operator-online.in.net
 www.oplata-olx.site
+www.opuio.com
 www.oreidofitilho.com.br
 www.originscheduler.com
 www.orlen-platform.site
@@ -60768,7 +60977,6 @@ www.rakuton.vxejhtn.cn
 www.rakutten-fsd.xyz
 www.ramsdellstore.com
 www.ranchapptag.com
-www.randppro-cuts.com
 www.rangzhuai.com
 www.rdamnxngba.monster
 www.readrmartens.top
@@ -60900,6 +61108,7 @@ www.secure-apphalifaxupdate-verification-online.goyaz.org.br
 www.secure-apphalifaxupdate-verification-online.hanthinh.com.vn
 www.secure-apphalifaxupdate-verification-online.ionutarbunea.ga
 www.secure-apphalifaxupdate-verification-online.lmi.pe
+www.secure-apphalifaxupdate-verification-online.maxresearch.co.id
 www.secure-device.cc
 www.secure-facebook.listing-id9326729-marketplace.com
 www.secure-halifax-online.live
@@ -61304,6 +61513,7 @@ www.unlimited.movies.and.series.netflix.afraplants.ir
 www.unsubscribe.vomeo8wflpty52u.neyazco.ir
 www.updaetes-co-jpnetwork.xyz
 www.update-account.icu
+www.update-netflix.1net1.me
 www.update-secure-information.habitatnation.com.au
 www.update.billing.info.chase.canal4rd.com
 www.update.chase.billing.verification-info.aurora.org.jo
@@ -61910,6 +62120,7 @@ x9.skriptbox.ru
 x95z.ailacabs.com
 x9ps.addroits.com
 x9qk2.svcoding.com
+xaabzvhksp.duckdns.org
 xacminh-garrena-facebook.ddns.net
 xacminhfacebookv-garena.ddns.net
 xaelvz.qewoahzkz.pqtimakzds.com
@@ -62013,6 +62224,7 @@ xcpjrtbzyu.duckdns.org
 xcpm.svcoding.com
 xcqrebhuij.duckdns.org
 xcrdayflom.duckdns.org
+xcrew.crabdance.com
 xcsreczfpk.duckdns.org
 xcswmqhcty.duckdns.org
 xctgybqema.duckdns.org
@@ -62252,6 +62464,7 @@ xklmrswnst.duckdns.org
 xkmcymuezn.duckdns.org
 xkmglvrblt.duckdns.org
 xkoepdygpw.duckdns.org
+xkoymxpwkc.duckdns.org
 xkqlbknwpu.duckdns.org
 xkt.fetcheskidnapping.com
 xkt0s.svcoding.com
@@ -62582,6 +62795,7 @@ xtxguvxddf.duckdns.org
 xtyoservices.ddns.net
 xtytmkkfph.duckdns.org
 xu-4.ddns.net
+xuaiqfamkw.duckdns.org
 xubgortwij.duckdns.org
 xublq.lnkredirect.com
 xucnjazlev.duckdns.org
@@ -62797,6 +63011,7 @@ y8zyq.addroits.com
 y92z.mentriqq.com
 y98rt.mentriqq.com
 y9snpbyg48bmprqx.ddns.net
+yaashqjudj.duckdns.org
 yabeiihmsr.duckdns.org
 yaboimelon.tinydns.xyz
 yaboo.homelinux.net
@@ -62818,6 +63033,7 @@ yahoo.co.uk.mobilepreviewt.icu
 yahoo.com.securemailbox.ga
 yahoo.org.kz
 yahoo.securepassword.info
+yahoo1.hisastudio.com
 yahoologin.site.bm
 yahya999.ddns.net
 yakka.duckdns.org
@@ -62970,6 +63186,7 @@ yesweekend12.ddns.net
 yettye.ddns.net
 yetwq.twilightparadox.com
 yetye.ddns.net
+yeuahjtxri.duckdns.org
 yewrsx2323.duckdns.org
 yewrycdc3.duckdns.org
 yewrydxsh.duckdns.org
@@ -63324,6 +63541,7 @@ yqfvbtqkya.duckdns.org
 yqgwflgsnm.duckdns.org
 yqqfydlnlh.duckdns.org
 yqqpfocycr.duckdns.org
+yqrgguuhiv.duckdns.org
 yqtmlnwhmb.duckdns.org
 yqufvkwmxb.duckdns.org
 yqunvofbsw.duckdns.org
@@ -63362,6 +63580,7 @@ yrx-d.mentriqq.com
 yrxcvotdck.duckdns.org
 yrxyhtx.golovanskyin.xyz
 yrybuwfjos.duckdns.org
+yrylbkogkj.duckdns.org
 yrzzivtila.duckdns.org
 ysb.youngerfaith.com
 ysbmhmuimu.duckdns.org
@@ -63412,6 +63631,7 @@ yubangzoqb.duckdns.org
 yubmkobghv.duckdns.org
 yucair.videosfb.xyz
 yudirwlgcver.xjoasije.club
+yudtsohyyd.duckdns.org
 yufhlghoce.duckdns.org
 yuglzqvqkk.duckdns.org
 yugzwebcgi.duckdns.org
@@ -63574,6 +63794,7 @@ yzckfrckvx.duckdns.org
 yzdaknxiiy.duckdns.org
 yzevchhkre.duckdns.org
 yzfeckpmv.goruli.com
+yzfztvrjaa.duckdns.org
 yzghxxraub.duckdns.org
 yzgjijpgwd.duckdns.org
 yzgwwuvtlt.duckdns.org
@@ -63650,6 +63871,7 @@ zabi.ddns.net
 zaboza2020.ddns.net
 zabwrhzlbh.duckdns.org
 zacgvzcrap.duckdns.org
+zachsrat.mooo.com
 zacinegeo.ddns.net
 zacpiqzslt.duckdns.org
 zadam202020.ddns.net
@@ -63741,6 +63963,7 @@ zclqpomemo.duckdns.org
 zclthfdofd.duckdns.org
 zcocccppbb.duckdns.org
 zcoccopooq.duckdns.org
+zcpewldowi.duckdns.org
 zcq-s.svcoding.com
 zcq.goruli.com
 zcrpllicbj.duckdns.org
@@ -63995,6 +64218,7 @@ zkarmy.dip.jp
 zkbooobonn.duckdns.org
 zkcdnqixoh.duckdns.org
 zked.addroits.com
+zkewntlmue.duckdns.org
 zkfsqxhxkn.duckdns.org
 zkihwnizig.duckdns.org
 zkingvii.no.ip.biz
@@ -64406,6 +64630,7 @@ zxgjmwyuka.duckdns.org
 zxhbxozdvrps.talagaremix.com
 zxhsqsnu.healthygenez.club
 zxirukhjye.duckdns.org
+zxjfcvfvhqfqsrpz.onion.lt
 zxjfcvfvhqfqsrpz.tor2web.blutmagie.de
 zxjfcvfvhqfqsrpz.tor2web.fi
 zxjfcvfvhqfqsrpz.tor2web.ru
