@@ -2521,3 +2521,7 @@
 # Binance, blocked by tkip
  api.binance.com
 .api.binance.com
+
+# https://github.com/notracking/hosts-blocklists/issues/584
+ www.notion.so
+ notion.so
