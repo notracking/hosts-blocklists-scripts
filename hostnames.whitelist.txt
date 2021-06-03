@@ -2538,3 +2538,6 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/599
  www.actuabd.com
+
+# Breaks reddit content
+ alb.reddit.com
