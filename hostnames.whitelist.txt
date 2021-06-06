@@ -2541,3 +2541,6 @@
 
 # Breaks reddit content
  alb.reddit.com
+
+# https://github.com/notracking/hosts-blocklists/issues/604
+ explore.amd.com
