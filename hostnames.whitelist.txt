@@ -2574,3 +2574,16 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/632
  snrcdn.net
+
+# Found during automatic www. stripping investigation
+# See: https://github.com/notracking/hosts-blocklists/issues/509
+ www.be
+ www.fr
+ www.inf
+ cec.ro
+ cotc.net
+
+# Found during audit of www[0-9].* prefixed hosts
+ www1.amnhealthcare.com
+ www3.bloomingdales.com
+ www3.webhostingtalk.com
