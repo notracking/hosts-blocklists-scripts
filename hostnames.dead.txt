@@ -1,7 +1,7 @@
 ###############################################################################################################
 # Source: https://github.com/notracking/hosts-blocklists-scripts
-# Last update: Mon 29 Nov 2021 04:51:13 AM CET
-# Number of dead hostnames: 29364
+# Last update: Tue 30 Nov 2021 04:41:02 AM CET
+# Number of dead hostnames: 29395
 # License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 # Buy me a beer!: https://www.paypal.me/notracking
 #
@@ -231,6 +231,7 @@
 2326.thruhere.net
 23423.nop-ip.com
 234x120.adv.vz.ru
+23bteufi2kcqza2l.onion.lt
 23bteufi2kcqza2l.tor2web.blutmagie.de
 23bteufi2kcqza2l.tor2web.fi
 23bteufi2kcqza2l.tor2web.ru
@@ -426,6 +427,7 @@
 5666.ddns.net
 56d8a1a6.hopto.org
 57201.duckdns.org
+576.agromagazo.gr
 579.allegro.lokalnie-pl.club
 588e6199a8e2b7b359b112e73acd5b71.jpdmojoiicomchfeeaobicrhhhdusrhm.live
 5893.thruhere.net
@@ -523,6 +525,7 @@
 6767.thruhere.net
 67800.prohoster.biz
 67864.prohoster.biz
+679.agromagazo.gr
 68042.prohoster.biz
 68127.prohoster.biz
 6833.gets-it.net
@@ -536,6 +539,7 @@
 6d35af4c1e5061e1e6a8611cdacc7d0b.gidfgusfhbajmbpidsjmgmujhhdicsoj.online
 6d77335c4f23.ddns.net
 6ix10en.ddns.net
+6jp.moraarmocei.com
 6kreuz.hopto.org
 6pg.ryf3hgf.info
 6pi3jrqjbssfh6gu.onion.pw
@@ -1146,6 +1150,7 @@ ad.atkamackerel.com
 ad.axyzconductor.jp
 ad.blackystars.com
 ad.brainer.jp
+ad.bubblestat.com
 ad.caradisiac-publicite.com
 ad.cdt.ch
 ad.clickdistrict.com
@@ -2160,6 +2165,7 @@ ads.seekingalpha.com
 ads.seriouswheels.com
 ads.shoutfile.com
 ads.sidekick.condenast.com
+ads.sify.com
 ads.sixapart.com
 ads.skelbiu.lt
 ads.skinected.com
@@ -3015,9 +3021,10 @@ allegrolokalkie.oferta789537.xyz
 allegrolokalkie.oferta888999.xyz
 allegrolokalnie-pl-3dsecure.id-safety.click
 allegrolokalnie-pl-3dsecure.id-safety.sbs
-allegrolokalnie-pl-safe.id-safety.art
 allegrolokalnie-pl-safe.id-safety.click
 allegrolokalnie-pl-safe.id-safety.club
+allegrolokalnie-pl-safe.id-safety.cyou
+allegrolokalnie-pl-safe.id-safety.one
 allegrolokalnie-pl-safe.id-safety.quest
 allegrolokalnie-pl.0358494.space
 allegrolokalnie-pl.149663.space
@@ -3031,31 +3038,34 @@ allegrolokalnie-pl.3751093.space
 allegrolokalnie-pl.423596.space
 allegrolokalnie-pl.43853.space
 allegrolokalnie-pl.457483.space
-allegrolokalnie-pl.46387.space
+allegrolokalnie-pl.53632672.space
 allegrolokalnie-pl.5434333.space
 allegrolokalnie-pl.54642.space
 allegrolokalnie-pl.546455.space
 allegrolokalnie-pl.5466546.space
-allegrolokalnie-pl.54864.space
+allegrolokalnie-pl.54746757.space
 allegrolokalnie-pl.549767.space
 allegrolokalnie-pl.5645445.space
 allegrolokalnie-pl.643664.space
+allegrolokalnie-pl.648548.space
 allegrolokalnie-pl.650374.space
 allegrolokalnie-pl.662841.space
 allegrolokalnie-pl.675346.space
 allegrolokalnie-pl.68357.space
 allegrolokalnie-pl.73675.space
+allegrolokalnie-pl.745044.space
 allegrolokalnie-pl.745445.space
 allegrolokalnie-pl.74883.space
+allegrolokalnie-pl.753257.space
+allegrolokalnie-pl.754838.space
 allegrolokalnie-pl.76456.space
-allegrolokalnie-pl.79315139.space
-allegrolokalnie-pl.83452.space
 allegrolokalnie-pl.835472.space
 allegrolokalnie-pl.854829.space
 allegrolokalnie-pl.85764.space
 allegrolokalnie-pl.88654.space
 allegrolokalnie-pl.895685.space
 allegrolokalnie-pl.939512.space
+allegrolokalnie-pl.94532.space
 allegrolokalnie-pl.9768423.space
 allegrolokalnie-pl.buingtrans.site
 allegrolokalnie-pl.gettoitembuy.pw
@@ -3078,7 +3088,8 @@ allegrolokalnie-pl.id-8493849.pw
 allegrolokalnie-pl.id-8626361.pw
 allegrolokalnie-pl.id-f76388.site
 allegrolokalnie-pl.id-p48739.site
-allegrolokalnie-pl.id-safety.quest
+allegrolokalnie-pl.id-safety.cyou
+allegrolokalnie-pl.id-safety.one
 allegrolokalnie.oferta.tech
 allegrolokalnie.oferta000123.xyz
 allegrolokalnie.oferta000657.xyz
@@ -3199,13 +3210,12 @@ am22am.ddns.net
 ama-autos-co-1.dr-3.top
 ama-autos-co-10.ds-6.top
 ama-autos-co-3.ca-2.top
-ama-check-co-4.aexcio.xyz
-ama-check-co-6.fa-3.top
 ama-check-co-9.ivxcia.xyz
 ama-check-jp.aco-3.top
 ama-check-jp.aco-6.top
 ama-co-check-3.st-t.top
 ama-co-check-3.vo-4.top
+ama-premi-jp.11-co.top
 ama-premi-jp.12-co.top
 ama-premi-jp.13-co.top
 ama-premi-jp.14-co.top
@@ -3214,8 +3224,9 @@ ama-premi-jp.2-co.top
 ama-premi-jp.3-co.top
 ama-premi-jp.4-co.top
 ama-premi-jp.8-co.top
+ama-premi-jp.9-co.top
+ama-premir-jp.acp-1.top
 ama.leftwarning.com
-amacon.servcc-jp.cc
 amacon.servxq-jp.cc
 amacxo.ribsa5vc.club
 amali.pb5.ir
@@ -3223,33 +3234,30 @@ amana.duckdns.org
 amana1.duckdns.org
 amana2.duckdns.org
 amanaoyi2343.duckdns.org
+amaneo.ieuh1rg.xyz
 amanihackz.ddns.net
 amanoz.bf4bgfms.top
 amaobi.besaba.com
-amaoun.ozjg0dr.xyz
+amaocu.zbd4fb.top
 amaplnew.jokivest1.site
 amateur-mature-sex.adaltabaza.net
+amaune.aunht6n.xyz
 amaune.we1gfdg.xyz
 amauxe.qortk3.top
-amazam.fkjnh.cn
 amazan.co.jp.aaaanjofnsnjsnsn.xyz
 amazeamazon.ddns.net
 amazigh.ddns.net
 amazigh15-43861.portmap.host
 amazing-locket.auto.playit.gg
-amaznll.cco.jjp.zgmst.net
-amaznll.co.jp.sfykj.net
-amaznoll.co.jjp.desou.net
-amaznoll.co.jjp.scjhy.net
-amazom.seoen.buzz
 amazon-co-jp.fo1j.top
 amazon-co-jp.ko1j.top
+amazon-co-jp.oa9p.top
 amazon-net-info2019.casacam.net
 amazon-services-center-pages.pleasantconsolidatecom.com
+amazon.agromagazo.gr
 amazon.jp.zicuan.cn
 amazon.sellercentral.store
 amazon.update-prime.pop2.live
-amazon.xingyaokeji001.shop
 amazoncodes.freehacks.pw
 amazones-login.aws-restricted.com
 amazongifts.ddns.net
@@ -3278,6 +3286,7 @@ americansingles.click-url.com
 amerkad19.ddns.net
 amerkad199.ddns.net
 ameuromar.ddns.net
+amezom.itloft.cn
 amg-technology.net.ng
 amgedelsayed208.ddns.net
 ami.regroups.net
@@ -3442,7 +3451,6 @@ anitacxb.servebbs.com
 anito.ddns.net
 ankaraembassy.hopto.org
 anket.kalthefest.org
-anmazon.xqtst.cn
 annanicolesannanicolesmith.ca.tt
 annanicolesmith.1stok.com
 annetka012.temp.swtest.ru
@@ -3494,6 +3502,7 @@ antinio.mssql.somee.com
 antipiracy1sndydetectorganisationforfilm.duckdns.org
 antipiracydetectandorganisationforfilmhs.duckdns.org
 antipiracytudydetectorganisationfftugpb.ydns.eu
+antiq.scifi.ro
 antivirtualmachinecleanserctigifateforthisfilewithgoodsecurityp.ydns.eu
 antivirus.ddns.net
 antoinesauvagesqcomcomantoinesauvagesqcomcom.ydns.eu
@@ -3508,6 +3517,7 @@ anything2.chickenkiller.com
 aocznon.co.ip.36wcpd.cn
 aomzaon.co.ip.chakan20.shop
 ap-informacjepl.waw.pl
+ap.nhntech.com
 ap12.ms-update-server.net
 ap3rtur3.mooo.com
 apaya-25263.portmap.io
@@ -3604,6 +3614,7 @@ app.bydn279.club
 app.cloudprotect.eu
 app.contentpress.io
 app.crconsultoriacontable.com
+app.datafastguru.info
 app.districtweb.ca
 app.fancifulapp.cool
 app.freegifts.top
@@ -3743,7 +3754,6 @@ ardan1.ddns.net
 arduodemente20-62537.portmap.io
 area-tv.hopto.org
 area.cyp360.com
-areaasegura.cuupom.online
 areabill.ddns.net
 areabill.hopto.org
 areaclienti.17025-accreditation.com
@@ -3829,6 +3839,7 @@ asd996431832.tl-ip.com
 asdaasda.ddns.net
 asdasd.test.de
 asdasd321.ddns.net
+asdasdawdd.programs-pl.xyz
 asdasdhuasduasd.ddns.net
 asdasdjla.ddns.net
 asdasdwqdas5.ddns.net
@@ -3948,6 +3959,7 @@ austnewtrade.in.net
 austria-car-rental.findworm.net
 austrian.malougoogleda.xyz
 aut.doramm.com.pl
+auth.app-zonda.site
 auth.esports-cast.icu
 auth.lineage2ez.com
 authd.ddns.net
@@ -3985,7 +3997,6 @@ autodiscover.cpa.pro
 autodiscover.dlugoleka.pl
 autodiscover.edu.es
 autodiscover.edu.hn
-autodiscover.edu.ki
 autodiscover.edu.sn
 autodiscover.elblag.pl
 autodiscover.elk.pl
@@ -4101,7 +4112,6 @@ autodiscover.tourism.tn
 autodiscover.turek.pl
 autodiscover.turystyka.pl
 autodiscover.tychy.pl
-autodiscover.univ.sn
 autodiscover.walbrzych.pl
 autodiscover.warmia.pl
 autodiscover.warszawa.pl
@@ -4420,6 +4430,7 @@ bankieren.info.pl
 bankmillennium.shanaraemay.com
 bankofamerica.citionlne-us.com
 bankofamerica.com.interlogs.com.vn
+bankofamerica.com.langtranxa.vn
 bankofamerica.com.ok.am
 bankofamerica.online.banking.services.alert.landscapearchitecture.net.nz
 bankofamerica.onlinearcive.com
@@ -4790,6 +4801,7 @@ bl4ckh0t.ddns.net
 bl4ckm4sk007.ddns.net
 blaaaaaaaaaaaa.windowsupdate.3-a.net
 blabla-64010.portmap.io
+blablabla.ac.ug
 blablacar-cz.id-10763.store
 blablacar-cz.id-8231234.site
 blablacar-de.pays-forms.info
@@ -5325,7 +5337,6 @@ booking.pl-order.pl-id84593969.xyz
 booking.pl-order.pl-id86950524.xyz
 booking.pl-order.pl-id94234918.xyz
 booking.pl-order.pl-id99536276.xyz
-booking.strangled.net
 books.heartmantwo.com
 books.myscriptcase.com
 books.popautomated.com
@@ -5502,6 +5513,7 @@ btcprofit.onlinetradingplatform.pro
 btctopsss.ddnsfree.com
 btige.myartsonline.com
 btlyn-in.net.ng
+btn.counter.weather.ca
 btran.ddns.net
 bu250653.hopto.org
 bubiqwrlj.hopto.org
@@ -5767,6 +5779,7 @@ cars.rent.spontom.org
 cart.gotdns.com
 cart.perseusacademic.com
 carte.bancocpm.it
+casadomoticaelle.duckdns.org
 casasola28.fastlasermouses.com
 casgplnew.jokivest1.site
 cashout2018.ddns.de
@@ -5949,6 +5962,7 @@ centozos.org.in
 central.glibc.org
 centralation-paypal.de-servicecenter-sepa.ru
 centralcon.dyndns-office.com
+centrale.wav.pl
 centralhotels-com-gh.ankobia.co
 centralparts.strix.website
 centrum-osob.waw.pl
@@ -6456,8 +6470,6 @@ collector.hamsterix.cam
 collector.newsx.cc
 collector.shopstream.co
 colombos2050.ddns.net
-colour-parking-latina-connection.trycloudflare.com
-colycorp.induakbalaadscrop.link
 com.ng.covid19.support
 com.prog-capital11.xyz
 com.projekt-capital3.site
@@ -7015,6 +7027,7 @@ dads.new.digg.com
 dady.servepic.com
 daedong.or.kr
 dafer502.ddns.net
+daff.faybilodeau.com
 dafg124.ddns.net
 dagoodhacks.ddns.net
 dai18.shangc.net
@@ -7171,7 +7184,6 @@ dbin240.ddns.net
 dbnight.mooo.com
 dbnvz.adserve.com
 dbs.advertising.com
-dbs.isterst.com
 dbxzpalgedvrvpunalvkzafpwztssi-21177.portmap.io
 dc-45e81045-mail.cibur.ru
 dc-709edd6b9022.scissorsexertion.com
@@ -7246,6 +7258,7 @@ deadinsideqe.hopto.org
 deadman8866.zapot.org
 deadpixel.securedns.site
 deansjuabsghansjk.ddns.net
+dearcustomers.providerakutenyou.buzz
 death09.duckdns.org
 deathlives.ddns.net
 deaz.hopto.org
@@ -7382,7 +7395,6 @@ deutschepost.de.deliveryexpress.today
 dev-52418.portmap.io
 dev-oms-logistics.pvh.com
 dev.ameekids.com
-dev.belinqed.nl
 dev.directveilig.nl
 dev.forsyteit.com
 dev.maverick.cm
@@ -7944,8 +7956,8 @@ dpd-pl.34756.pw
 dpd-pl.3dsecuire.pw
 dpd-pl.436745.space
 dpd-pl.67677.space
-dpd-pl.696493.pw
 dpd-pl.741058.space
+dpd-pl.76367945.space
 dpd-pl.7643733.space
 dpd-pl.79315139.space
 dpd-pl.8469313.space
@@ -8255,7 +8267,6 @@ ecco0.b13x.org
 eccom.pagamento-sella.it-0d530238.noleggiobicidoctorbike.it
 echo.listentree.com
 echoussama.ddns.net
-ecialeventfreefire.19covidd.com
 ecim.azneomedia.ro
 ecity.mvmms.in
 ecksdi.ddns.net
@@ -8340,6 +8351,7 @@ ejectrift.censys.xyz
 ejubar.vkdkqppp.ga
 ekehken.myddns.rocks
 eknil.toncinema.online
+ekpnog9km4am.www.word.com.au
 eksdeeteapdq.vdl.pl
 ekuaye.ddns.net
 ekxf4mi45.rdl.pl
@@ -8570,6 +8582,9 @@ et10.ddns.net
 etad.telegraph.co.uk
 etatic.nexilia.it
 etc-meisai.8oyv0db.cn
+etc-meisai.caicai14.shop
+etc-meisai.caicai20.shop
+etc-meisai.caicai25.shop
 etc-meisai.jp.ejjdsik.cn
 etc-meisai.jp.q1k1h98.cn
 etc-meisai.jp.urlut.cn
@@ -8856,6 +8871,7 @@ fbz-54044.portmap.io
 fc.cyber1ink.com
 fc.nevisconsultants.com
 fcalondon.org.uk
+fcsfdt4r4w.weburlxc.xyz
 fcstats.bcentral.com
 fd-fp3.wg1.b.yahoo.com
 fd8a8df5.ddns.net
@@ -8943,6 +8959,7 @@ figler.junkcarsfloridamiami.com
 fila.heathercrowe.ca
 fila.su170.org
 file.botvonline.com
+file.it-share.ro
 file.kenal-cn.com
 file.lauasinh.com
 file.oculus-tech.com
@@ -9392,7 +9409,6 @@ ganja.mine.nu
 ganoolqq.royaldomino.website
 gaomizhe.tl-ip.com
 garados.hopto.org
-garage.themebuffets.com
 gardonyi-kaposvar.sulinet.hu
 gari-gt.gotdns.ch
 garlinger14.softtoiletpaper.com
@@ -9546,7 +9562,6 @@ getsoftnow.smallandprecise2upgradingnew.review
 getstrafedout.ddns.net
 gettingeverything.jumpingcrab.com
 gettonatissime.cyprustimbermerchants.com
-gettorrent.ac.ug
 gettyclouddp1.gettyimages.com
 getupdate.thebiggestandmoststabletocontentsafe.bid
 gf1433.f3322.net
@@ -9800,6 +9815,7 @@ gounstyle.ddns.net
 gov.0.56v.us
 gov.berylia.org
 gov.hentaipix.ru
+gov.uk-tax-refund876.com
 gova.manhajnews.com
 govahoyuge.itup.pw
 govnobomja333.hopto.org
@@ -11025,6 +11041,7 @@ info.96html.com
 info.beahh.com
 info.billten.net
 info.businesssec.me
+info.celigo.com
 info.cisbd.org
 info.corp.zergaphonetronic.org
 info.dcfrr.com
@@ -11430,8 +11447,10 @@ inpost-pay-pl.id-21736.space
 inpost-pay-pl.id-59046.online
 inpost-pku.id9030.me
 inpost-pl-3dsafe.id-safety.click
+inpost-pl-3dsafe.id-safety.cyou
 inpost-pl-3dsafe.id-safety.quest
 inpost-pl-3dsec.id-safety.cloud
+inpost-pl-3dsec.id-safety.cyou
 inpost-pl-3dsec.id-safety.quest
 inpost-pl-3dsec.id-safety.sbs
 inpost-pl-3dsecure.id-safety.click
@@ -11457,6 +11476,7 @@ inpost-pl-nms.id-9523.me
 inpost-pl-pqk.id-49899.me
 inpost-pl-prz.id84747.me
 inpost-pl-rch.id-65393.me
+inpost-pl-rm.id-info857719.me
 inpost-pl-rw.id9030.me
 inpost-pl-safe.id-safety.art
 inpost-pl-safe.id-safety.click
@@ -11481,6 +11501,7 @@ inpost-pl-ykj.id-3485.me
 inpost-pl-ze.id-info0569.me
 inpost-pl-zo.id-8342.com
 inpost-pl-zu.id-1949.me
+inpost-pl.0347544.space
 inpost-pl.05687.space
 inpost-pl.059785.space
 inpost-pl.10343.site
@@ -11489,6 +11510,7 @@ inpost-pl.118115.space
 inpost-pl.1293953.site
 inpost-pl.131102.space
 inpost-pl.149663.space
+inpost-pl.1523643.pw
 inpost-pl.19837.site
 inpost-pl.226007.space
 inpost-pl.23440.space
@@ -11507,8 +11529,12 @@ inpost-pl.3dsec-orders.icu
 inpost-pl.405065.pw
 inpost-pl.430186.space
 inpost-pl.4532568.space
+inpost-pl.45456.space
 inpost-pl.4567430.space
 inpost-pl.457483.space
+inpost-pl.457638.space
+inpost-pl.4775498.space
+inpost-pl.534753.space
 inpost-pl.542864-money-info.xyz
 inpost-pl.54563.space
 inpost-pl.545894.xyz
@@ -11535,6 +11561,7 @@ inpost-pl.757537.space
 inpost-pl.757754.space
 inpost-pl.765849.space
 inpost-pl.7843945.space
+inpost-pl.7856590.space
 inpost-pl.794534.space
 inpost-pl.8035736.space
 inpost-pl.83452.space
@@ -11597,7 +11624,9 @@ inpost-pl.id-983798.pw
 inpost-pl.id-safety.cam
 inpost-pl.id-safety.cloud
 inpost-pl.id-safety.club
+inpost-pl.id-safety.cyou
 inpost-pl.id-safety.digital
+inpost-pl.id-safety.one
 inpost-pl.id-safety.quest
 inpost-pl.id-safety.store
 inpost-pl.id-safety.wiki
@@ -12864,6 +12893,7 @@ intune.azureedge.net
 inuria.ddns.net
 invest.hawzentr.com
 investment.alphatradingleague.com
+invoice.iglesiaoasisdeamor.org
 invoicing41514.zagtech.club
 invp.pluniland.pro
 invpg.rigtoins.site
@@ -12957,7 +12987,6 @@ iroot.noo-ip.biz
 irs-gov.us-coronavirus-claim-funds.com
 irs-gov.us-covid19-us-claim.com
 irs.claim-tax-usaonline.com
-irs.compensation-usa-gov.com
 irs.gov.us-covid19.com
 is3llerx.hopto.org
 is45wdsed4455sdfsf.duckdns.org
@@ -13313,7 +13342,6 @@ joyceedwards2013.casacam.net
 joysticker.ddns.net
 jozz.duckdns.org
 jp.hurricanspin.ru
-jp.mceonmcnocari.com
 jpaul.duckdns.org
 jpbro.hopto.org
 jpcert.ignorelist.com
@@ -13499,6 +13527,8 @@ karve.ecity.mvmms.in
 karwan.ddns.net
 kasdot.hopto.org
 kashbilly.ddns.net
+kashbilly2.ddns.net
+kasior1.masterhtt.xyz
 kasper27.bouncene.net
 kaspersky.firewall-gateway.net
 kast64.plasticvouchercards.com
@@ -13938,7 +13968,6 @@ l.hovux.eln9wj7.7gpj.org
 l0fls.hopto.org
 l23x.ddns.net
 l2er2rwdasdq2d.mooo.com
-l3771.darkhost.top
 l3d.pp.ru
 l3d1.pp.ru
 l3mon.fagdns.com
@@ -13946,6 +13975,7 @@ l6-wypadki.waw.pl
 l9wada2020.ddns.net
 la02.webhostcluster.com
 la4fwmvvh-site.dtempurl.com
+laartje373.chickenkiller.com
 lab-wired-kvvgzjkkdr.dynamic-m.com
 lab.aplusstatus.com
 labicrave-33863.portmap.host
@@ -14170,6 +14200,7 @@ limpa.chickenkiller.com
 lin.absorptionspbs.top
 lin.tablefacelift.com
 lin31.metriweb.be
+linda.sokakbul.com
 lindasconley.bravepages.com
 line.lawnteam.org
 line.republicpracticesolutions.com
@@ -14382,8 +14413,6 @@ login.my-1237.xyz
 login.netflix.membership-account-verification.com
 login.ntf.wojtek.co.pl
 login.outlook.kcrct.ml
-login.paypayo.net
-login.paypayq.net
 login.planosci-ntf.kosminskam.co.pl
 login.platnosci-ntf.jumonix.co.pl
 login.radikari.co.id
@@ -14470,7 +14499,6 @@ lonn.korto.xyz
 look.fjfiln.com
 look.kfioplkn.com
 look.utnldn.com
-lookplease.c1.biz
 lookyoumall.startingtheamazon.shop
 lool2008.ddns.net
 loolll.hopto.org
@@ -14502,6 +14530,7 @@ loveimane.ddns.net
 lovel.myartsonline.com
 lovels.myartsonline.com
 lovemercars.ddns.net
+lovemoney.2288.org
 loverat.porn60s.com
 loveratman.ddns.net
 lovestory.ddns.net
@@ -14640,7 +14669,6 @@ m.bchchk.cn
 m.de.2mdn.net
 m.delivery.olx-pl.page
 m.delivery.olx.pl-confirmation.services
-m.facebook-marketplace-891712.clinicalaserdepiel.com.ec
 m.facebook-mplace-ntfy-81672123.prowebfunnels.com
 m.facebook.com-login-ksakdosbcgi.spgtwdev.com
 m.facebook.com.https.s1.gvirabi.com
@@ -14943,7 +14971,6 @@ madagan77.silkbeachtowels.com
 madarahost.ddns.net
 maddix.mine.nu
 madh0use8.no-ip.org.ovh.net
-madleets.ddns.net
 madman-37692.portmap.host
 madman1.ddns.net
 madoko.jhfree.net
@@ -15046,6 +15073,7 @@ mail.mofa.g0v.qa
 mail.newmedicacare.com
 mail.ofek4u.co.il
 mail.panarollers.com
+mail.pendot.xyz
 mail.pioneer-sys.net
 mail.renacon-pharma.fr
 mail.shofiaahmadwedding.id
@@ -16286,7 +16314,6 @@ my.eiyfmrn.com
 my.etherwallet.site
 my.gasoft.us
 my.gobiox.com
-my.jcb.co.jp.cgrott.com
 my.makingdomes.com
 my.megavstrecha.ru
 my.mylifeamongthewomen.com
@@ -18600,6 +18627,7 @@ nullptr.ipq.co
 numax.nu-1.com
 nume123.hopto.org
 nunuraw.apishealth.org
+nuova-attivazione-sicurezzaweb.emr2-westerindo.com
 nursam17172017.hopto.org
 nus.soon.it
 nutsack69.ddns.net
@@ -18766,6 +18794,7 @@ odogwuchacha.ddns.net
 odwiedz-strone.newuptimedns.ru
 odwiedzaj-strone.newuptimedns.ru
 ofaasd3.hopto.org
+oferta-149.id-info85871.me
 offeline.webhop.net
 offers.cloackp.com
 offic664ghdtsgdyddux.z13.web.core.windows.net
@@ -18998,6 +19027,7 @@ olx-pl-safe.dostawa-safety.surf
 olx-pl-secure.id-safety.sbs
 olx-pl-security.oferta-payment.net
 olx-pl-ubu.id-9436.me
+olx-pl.0347544.space
 olx-pl.05687.space
 olx-pl.059785.space
 olx-pl.118115.space
@@ -19214,6 +19244,7 @@ olx-v.id-45876.me
 olx-v.id-459623.me
 olx-v.id-9253.me
 olx-vusd.my-oferta.com
+olx-vvmu.id-info85871.me
 olx-w.fastexpress.icu
 olx-w.fastexpress.shop
 olx-w.spredaz-online.club
@@ -19469,6 +19500,7 @@ olx.payd44.online
 olx.payd45.online
 olx.payd46.online
 olx.payd51.online
+olx.paye18.online
 olx.paym01.info
 olx.paym05.info
 olx.paym06.info
@@ -21846,6 +21878,7 @@ partner.alerts.aol.com
 partner.join.com.ua
 partner.leguide.com
 partner.pladform.ru
+partner.pobieraczek.pl
 partner.targoapp.ru
 partner01.oingo.com
 partner02.oingo.com
@@ -22867,6 +22900,7 @@ protection.sdpolice.com
 protection.sipolice.com
 protection.skpolice.com
 protection.tkpolice.com
+protezione-web.malakawedding.com
 protocolo-faturamento-servico.brazilsouth.cloudapp.azure.com
 protopacink.gleeze.com
 provafood.ddns.net
@@ -23122,6 +23156,7 @@ r0melte.duckdns.org
 r1-ads.ace.advertising.com
 r1.ace.advertising.com
 r1.xn--habibban-kmb.com
+r2.lion.rip
 r3cxw.ddns.net
 r3dz80.no-ip.bizr3dz80.dyndns.info
 r3v3nge.ddns.net
@@ -23179,15 +23214,12 @@ rajattiwari-21835.portmap.host
 raketen.putao27.shop
 rakhi.ruchitaagarwal.com
 rakinfo5.er-5.top
-rakinfo6.oa-1.top
 raklatif1.hopto.org
 rakt1.rk1-info.top
 rakt2.sk2-info.top
-rakt4.tk4-info.top
 rakt5.sk5-info.top
-rakt6.ok5-info.top
 rakt9.ei8-info.top
-rakteun.tszxjt.com
+rakutanll.cc.jjp.zgflr.net
 rakuten.co.jpp.treu-dynamic.com
 raliphesus.ddns.net
 ramadan.mywire.org
@@ -23445,7 +23477,6 @@ rem.kickdown.so
 rema1337.ddns.net
 remcos247.ddns.net
 remcoswill.dynu.net
-remember.ddns.net
 remission.tv.gg
 remmele95.softhandscream.com
 remmyma.duckdns.org
@@ -23528,7 +23559,6 @@ ribeiraopreto.vecelford.com.br
 ricardo.ch.meine-immowelt-de.in
 ricardo.ch.sso-sandbox-immobilienscout24-de.info
 ricci.bikescout24.fr
-rich.qq.com
 richardvitalis.ddns.net
 richy.x10.bz
 rick.ggiso.co
@@ -23619,6 +23649,7 @@ rodik2020m.temp.swtest.ru
 rodrigonj99.ddns.net
 rofif.hopto.org
 rofl.leakvortex.pro
+roger2750.ddns.net
 roger59.truedns.xyz
 rogerfries8.ddns.net
 rogerinho.ddns.net
@@ -23694,6 +23725,7 @@ rqx10504bc.temp.swtest.ru
 rr.fol1-dus0.xyz
 rr.xcas.net
 rr442myy7yz4.osrq.xyz
+rrakutan.co.jp.xgdb.net
 rrnns.ddns.net
 rrrem2x.ddns.net
 rrrr.bedclop.com
@@ -24025,6 +24057,7 @@ santander-bank-polska.genesadirgantara.com
 santander-bank-polska.robo71.com
 santander.cancel-newpayees.com
 santander.net-activity.support
+santander.online-revoke.com
 santander.ukonline-prevent.com
 santanderbank.co.uk-authorization.support
 santanderbank.pl.insertafricamedia.com
@@ -24052,6 +24085,7 @@ sarahrat.ddns.net
 sarahsblog.dyndns-server.com
 saraia.ddns.net
 sarayutseena-001-site1.gtempurl.com
+sarc.onteagleroad.com
 sarce.ddns.net
 sardao.ddns.net
 sarebbeprovafiscale.southcentralus.cloudapp.azure.com
@@ -24095,6 +24129,7 @@ sb.flashfack.ren
 sb.iffymonkey.com
 sbbd1.qulishi.com
 sbpb1.qulishi.com
+sc-bot.antibot-nodrop66.com
 sc.adobedc.net
 sc.kulong6.com
 scambaiter123asas-33504.portmap.host
@@ -24138,7 +24173,6 @@ science.tayenthflores.com
 scintillating-jeans.auto.playit.gg
 scit.kiu.ac.ug
 sclrtlol.gotdns.ch
-scmd.ceacrocd.com
 scmtonhumanrightandjusticeorganization.duckdns.org
 scndppe.ddns.net
 scob1.hopto.org
@@ -24263,6 +24297,7 @@ secure.sepa-uberpruf.org
 secure.t-pay.press
 secure.tpay.website
 secure.uac.advertising.com
+secure.voidlink.me
 secure.web.powerapps.com
 secure.zenithglobalplc.com
 secure01-paypal-signin.nethabertr.com
@@ -24532,7 +24567,6 @@ service.tonstorage.host
 service.tpost.pw
 service.verrco.com
 service.zosys.net
-serviceenligne.go.yj.fr
 servicehost.dynapoint.pw
 servicepcinfo.myddns.rocks
 services-online.fr-covid19.ml
@@ -24759,7 +24793,6 @@ shop.kauffes.de
 shop.lifexcellence.org
 shop.nowfal.dev
 shop.ownpro.net
-shop.toyhs.com
 shop.vfgrl.com
 shop.zsitro.com
 shop10.ddns.net
@@ -25001,11 +25034,9 @@ smartpixel.auditorius.ru
 smartpl7.crpt-bin.xyz
 smartpoland.crpt-bin.xyz
 smath79.ddns.net
-smba.ceacrocd.com
 smbc.cards-nq.com
 smbc.cards-nq.net
 smbe.ceacrocd.com
-smbn.ceacrocd.com
 smbrlm.hopto.org
 smelly-plantation.auto.playit.gg
 smeshka.chickenkiller.com
@@ -25029,12 +25060,9 @@ smoxfortnite.ddns.net
 smphikmah-padangpanjang.sch.id
 smqr.lnkredirect.com
 smr100.dyndns.org
-sms.allegrolokalnie-pl.346347.space
 sms.allegrolokalnie-pl.7575434.space
-sms.dpd-pl.424439.space
 sms.dpd-pl.664749.space
-sms.dpd-pl.696493.pw
-sms.inpost-pl.356339.space
+sms.dpd-pl.96498.space
 sms.inpost-pl.7855569.pw
 sms.pl-id12779606.xyz
 sms.pl-id56147885.xyz
@@ -25042,7 +25070,7 @@ sms.pl-id63435071.xyz
 sms.pl-id93911392.xyz
 sms.totalworthy.com
 sms.vinted-pl.274182.space
-sms.vinted-pl.356053.space
+sms.vinted-pl.643636.space
 smsm8852.ddns.net
 smsportal.olaitanoluwasegunglobalent.org.ng
 smtp.2911.net
@@ -25079,6 +25107,8 @@ snakey.hopto.org
 snap.cr-acad.com
 snapking.freedns.su
 snapple5.ddns.net
+snbc.seghj-jp.cc
+snbc.seol-jp.cc
 snboooorksa.ddns.net
 sncbuilding.ddns.net
 sndy2kungglobalinvestmentgooglednsaddres.duckdns.org
@@ -25189,7 +25219,6 @@ soso1.ddns.net
 soso2020sasa.hopto.org
 soso321.ddns.net
 soso8854.ddns.net
-sosomelaine.ddns.net
 sososwj.tl-ip.com
 sostats.mozilla.com
 sosumi.hopto.org.ovh.net
@@ -25225,7 +25254,6 @@ spankbros.duckdns.org
 sparc.nour.net.sa
 sparehost.hopto.org
 sparkasse.africamojatours.co.za
-sparkasse.de-privatkunden-online-37824893249.net
 spartanr.5gbfree.com
 spartanrulz-32158.portmap.io
 sparticus.ddns.net
@@ -25692,6 +25720,7 @@ stroygips.3logic.net
 strrettboy.ddns.net
 stts.rbc.ru
 stuats.sogou.com
+stub.mainspotvideosfree.best
 studentedu.hk.appledaily.live
 studentloans.credezen.com
 style.fontstaticloader.com
@@ -25850,7 +25879,6 @@ swieze-informacje.waw.pl
 swieze-wiadomosci.waw.pl
 swieze-wiadomosci24.waw.pl
 swiftyboiiiii.ddns.net
-swisspost-tracking-parcel.serrver-ma.com
 swissprocesstointernail.mangospot.net
 swiszo360.ddns.net
 switch.statman.gr
@@ -25969,6 +25997,7 @@ tafa.pxlcorp.com
 tafx.myfp.org
 tafx.myfpt.org
 tag1.webabacus.com
+tagcommander.castaluna.fr
 tagging.outrider.com
 taging-nginz-ssl.zinfra.io
 tags.rllcll.com
@@ -26004,6 +26033,7 @@ tannmistann-31237.portmap.host
 tantum1.softhandscream.com
 tanwilliam.ddns.net
 tapok121.jhfree.net
+tar.sniit.xyz
 tar.toquito.me
 taraba111.gotdns.ch
 tarajidawla.hopto.org
@@ -26373,7 +26403,6 @@ thientds1809a.dizito.me
 think.foodforhat.com
 think.relucius.com
 third.mygoodsday.org
-this.content.served.by.addshuffle.com
 thisisforme.ddns.net
 thisisfun.dyndns-ip.com
 thisismydns.fagdns.com
@@ -26452,6 +26481,7 @@ tjanis.hopto.org
 tjmc.dyndns.org
 tk.baidu.com
 tk.maidi888.com
+tkjarea51.web.id
 tkmremi-31995.portmap.io
 tkweb.baidu.com
 tlou2.chickenkiller.com
@@ -26557,7 +26587,6 @@ tornosubito.ddns.net
 torrent-updates.ddns.net
 torrent-videos.ddns.net
 torrent-vnc.ddns.net
-torrentfever.ddns.net
 torressircontes.eastus.cloudapp.azure.com
 tosha333.hopto.org
 tosson.ddns.net
@@ -26628,6 +26657,7 @@ track.ft.com
 track.gawker.com
 track.greatofferstoyou.net
 track.grmtracking.com
+track.hometurfrepair.com
 track.hotdrugsstore.in
 track.iconfinder.com
 track.india-marketing.in
@@ -26665,7 +26695,6 @@ track.msadcenter.imc.com
 track.msadcenter.izy.com
 track.msadcenter.khrg.com
 track.msadcenter.lngl.com
-track.msadcenter.lrgo.com
 track.msadcenter.mazp.com
 track.msadcenter.mkqa.com
 track.msadcenter.moas.com
@@ -26735,7 +26764,6 @@ tracker.twenga.nl
 tracker.twenga.pl
 tracker.washtimes.com
 trackers.1st-affiliation.fr
-tracking.1betternetwork.com
 tracking.45-fe6b6-aah.co.uk
 tracking.acekoala.com
 tracking.adctrack.com
@@ -26879,6 +26907,7 @@ troyfin.hopto.org
 trrrr.cpa-site.com
 trszrfea.ddns.net
 trthawk.dyndns.info
+trtl.cnpool.cc
 tru.cheersportacademy.com
 tru.mygoodsday.org
 true-blood.auto.playit.gg
@@ -26937,6 +26966,7 @@ tulethal.no-ip.bz
 tumamientanga-31418.portmap.io
 tune.tym-internationals.com
 tunga.homedns.org
+tunisia.ddns.net
 tunnelsnake.duckdns.org
 tupacsyrian.hopto.org
 turcoware17.ddns.net
@@ -27035,7 +27065,6 @@ u1.61sou.com
 u102463.test-handyhost.ru
 u102494.test-handyhost.ru
 u108337.test-handyhost.ru
-u1319127mh.ha004.t.justns.ru
 u17094677.hopto.org
 u19982p14980.web0119.zxcs.nl
 u19982p14982.web0119.zxcs.nl
@@ -27285,6 +27314,7 @@ universalec.com.zclngty.club
 unkempt-silver.auto.playit.gg
 unknow.system-ns.net
 unknowhostname.ddns.net
+unknown.counsellor.gov.cn
 unknown12.ignorelist.com
 unknown1990.ddns.net
 unknown1991.ddns.net
@@ -27334,7 +27364,6 @@ update-rnicrosoft.mooo.com
 update-service.dyndns.org
 update-spread.ddns.net
 update.agenteinformaticos.ru
-update.aut5.com
 update.ayuisyahooapis.com
 update.bracncet.net
 update.center.krrick.com
@@ -27384,6 +27413,7 @@ updatewell.freebyte.us
 updatexxx.hopto.org
 updato.ns01.info
 updauganda.waldennetworks.com
+updownbot.twilightparadox.com
 upgrade.freesetofvideoplayers.info
 upgrade.themainplacesetnowforcontentingnew.bid
 upgrade10.ddns.net
@@ -27497,6 +27527,7 @@ userz.ignorelist.com
 usg.spiessummarising.com
 usglobefw04.azureedge.net
 usmb09.ddns.net
+usps.com-pay-cost-delivrey-id-us1997456331557.logitel.com.au
 ussainbolt.mooo.com
 ussainbolt1.mooo.com
 ussdns01.heketwe.com
@@ -27555,6 +27586,7 @@ v178903.hosted-by-vdsina.ru
 v1nni.duckdns.org
 v1xprivate.dyndns.org
 v2.stat.ku6.com
+v2.urlads.net
 v200235.hosted-by-vdsina.ru
 v200598.hosted-by-vdsina.ru
 v201750.hosted-by-vdsina.ru
@@ -27741,7 +27773,6 @@ vinted-cks.id-1771.me
 vinted-ejb.id-1996.me
 vinted-fdz.id-1110.me
 vinted-flm.id-9467.com
-vinted-gcy.my-oferta.com
 vinted-god.id-info0845.me
 vinted-hyp.id-info0875.me
 vinted-ikts.id-9329.me
@@ -27757,6 +27788,7 @@ vinted-nsox.id92435.me
 vinted-oqh.id-5867.com
 vinted-orh.id23988.me
 vinted-oui.id-info47.me
+vinted-pl.9588444.space
 vinted-pl.id-1949.me
 vinted-qjo.id8341.me
 vinted-rcqk.id8341.me
@@ -27812,6 +27844,7 @@ visualstudionet.ddns.net
 visul.myartsonline.com
 vitim.ddns.net
 vitimatrojannenem.ddns.net
+vitlop.ddns.net
 vitos.freezfiles.ru
 vityamuibk.temp.swtest.ru
 vivekhaxor007.ddns.net
@@ -28024,6 +28057,7 @@ wandersongay.ddns.net
 wannacryde.ddns.net
 wannadie.altervista.org
 want.fanficforum.com
+wap.bitffybtcer.online
 wap.byod666.xyz
 wap.fly998.xyz
 wap.liuetourui.cn
@@ -28390,6 +28424,7 @@ winupdates.hopto.org
 wiqqeh.hopto.org
 wire.mtcc.me
 wirebox.ddns.net
+wires-globe-ul-beats.trycloudflare.com
 wirtualna-polska-pl.cfolks.pl
 wirtualna-polska.pisz.pl
 wirusmiasto.hekko24.pl
@@ -28414,6 +28449,7 @@ wlnsupport.ddns.net
 wm.17wan.info
 wm.ibm-support.net
 wm.maxysearch.info
+wm.nhntech.com
 wm1.ns01.us
 wmdabesss.3eeweb.com
 wmi.1103.xyz
@@ -28593,7 +28629,6 @@ www1.ad.tomshardware.com
 www1.bmo.com.hotfrio.com.br
 www1.firesavez5.com
 www1.firesavez6.com
-www1.jp.maeecrnceaacrii.com
 www1.jp.mconecrrcvaeroi.com
 www1.jp.mecoemrnccaori.com
 www1.jp.meernceacrseeoi.com
@@ -28622,7 +28657,6 @@ www2.fasterupconcreteflash.icu
 www2.gettypegoldflash.club
 www2.jp.maecrocacaerni.com
 www2.jp.mceonmcnocari.com
-www2.jp.mecoemrnccaori.com
 www2.savedealoriginalaflash.icu
 www2.setdealoriginalaflash.icu
 www2.setoriginalgreataflash.icu
@@ -29285,8 +29319,6 @@ zkzak.np-ip.biz
 zl1.bravo-deg.com
 zm8x9.b5c0b187fe309af0f4d35982fd961d7e.com
 zm9x9.b5c0b187fe309af0f4d35982fd961d7e.com
-zmaozon.cailai1.shop
-zmazon.caicai35.shop
 zmining-54030.portmap.host
 zmjj.doshofater.ru
 zmoazom.cailai2.shop
@@ -29297,7 +29329,6 @@ zmzm88881.ddns.net
 znajdz-paczke.in.net
 znajdziemy.waw.pl
 zo2016.gotdns.ch
-zoazon.caicai4.shop
 zocor.about-tabs.com
 zohirsenia.ddns.net
 zoloft.about-tabs.com
