@@ -2725,3 +2725,10 @@
 # https://github.com/notracking/hosts-blocklists/issues/709
  gouv.fr
 .gouv.fr
+
+# https://github.com/notracking/hosts-blocklists/issues/710
+ nutaku.com
+ mobileapi.nutaku.com
+
+# https://github.com/notracking/hosts-blocklists/issues/711
+ ucoz.ru
