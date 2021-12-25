@@ -2738,3 +2738,15 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/714
  tl88.net
+
+# https://github.com/notracking/hosts-blocklists/issues/715
+ dhgate.com
+
+# Should be blocked and whitelisted for specific hosts. https://github.com/notracking/hosts-blocklists/issues/713
+ adocean.pl
+
+# https://github.com/notracking/hosts-blocklists/issues/716
+ iai-shop.com
+
+# https://github.com/notracking/hosts-blocklists/issues/717
+ d1oxlq5h9kq8q5.cloudfront.net
