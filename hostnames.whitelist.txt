@@ -2804,3 +2804,9 @@
 # https://github.com/notracking/hosts-blocklists/issues/747
  tigase.net
  tigase.tech
+
+# https://github.com/notracking/hosts-blocklists/issues/750
+.us.archive.org
+
+# https://github.com/notracking/hosts-blocklists/issues/749
+ simplelogin.co
