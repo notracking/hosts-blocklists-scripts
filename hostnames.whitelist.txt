@@ -2825,3 +2825,23 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/757
  monitor.azure.com
+
+# https://github.com/notracking/hosts-blocklists/issues/768
+ minisforum.de
+
+# https://github.com/notracking/hosts-blocklists/issues/767
+ formspree.io
+
+# https://github.com/notracking/hosts-blocklists/issues/765
+ doh.dns.sb
+
+# https://github.com/notracking/hosts-blocklists/issues/764
+ shop.spreadshirt.com
+
+# https://github.com/notracking/hosts-blocklists/issues/763
+ wl.spotify.com
+ thirdparty.bnc.lt
+ bnc.lt
+
+# https://github.com/notracking/hosts-blocklists/issues/761
+ dynu.net
