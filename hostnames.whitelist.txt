@@ -2848,3 +2848,12 @@
 
 # blocks commercial legit websites
  cuci.nl
+
+# https://github.com/notracking/hosts-blocklists/issues/773
+ scenarieconomici.it
+
+# https://github.com/notracking/hosts-blocklists/issues/769
+ optmzly.fe.indazn.com
+
+# https://github.com/hagezi/dns-blocklists/issues/8
+ mail.tsinghua.edu.cn
