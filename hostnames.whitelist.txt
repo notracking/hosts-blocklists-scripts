@@ -2818,7 +2818,7 @@
  noscript.net
 
 # https://github.com/notracking/hosts-blocklists/issues/756
- totalav.com
+# totalav.com
 
 # https://github.com/notracking/hosts-blocklists/pull/752
  ewr1.vultrobjects.com
@@ -2857,3 +2857,9 @@
 
 # https://github.com/hagezi/dns-blocklists/issues/8
  mail.tsinghua.edu.cn
+
+# https://github.com/notracking/hosts-blocklists/issues/772
+ faizanullah.com
+
+# https://github.com/notracking/hosts-blocklists/issues/775
+ dns.hostux.net
