@@ -2863,3 +2863,10 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/775
  dns.hostux.net
+
+# https://github.com/notracking/hosts-blocklists/issues/780
+ redirectme.net
+
+# https://github.com/notracking/hosts-blocklists/issues/770
+ res-r.lfjack.com
+ lfjack.com
