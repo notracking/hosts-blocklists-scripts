@@ -2895,3 +2895,15 @@
 
 # https://github.com/hagezi/dns-blocklists/issues/25
  go.e2language.com
+
+# https://github.com/notracking/hosts-blocklists/issues/804
+ disguised.nl
+
+# https://github.com/notracking/hosts-blocklists/issues/803
+ self.events.data.microsoft.com
+
+# https://github.com/notracking/hosts-blocklists/issues/802
+ player-cdn.com
+
+# https://github.com/notracking/hosts-blocklists/issues/800
+ xep.li
