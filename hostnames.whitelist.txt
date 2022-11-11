@@ -2907,3 +2907,33 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/800
  xep.li
+
+# https://github.com/AdguardTeam/AdguardFilters/blob/master/BaseFilter/sections/foreign.txt
+ adv.wp.pl
+ cm.g.doubleclick.net
+ pubads.g.doubleclick.net
+ securepubads.g.doubleclick.net
+ indexhu.adocean.pl
+ sk.adocean.pl
+ tvn.adocean.pl
+
+# CNAME googletagmanager.com
+ www-googletagmanager.l.google.com
+
+# https://github.com/notracking/hosts-blocklists/issues/809
+ insideruser.microsoft.com
+ 
+# https://github.com/AdguardTeam/AdguardFilters/issues/84216
+# https://play.google.com/store/apps/details?id=pl.promate.bilkom
+ stats.g.doubleclick.net
+ google-analytics.com
+ www-google-analytics.l.google.com
+
+# Needed for BBC iPlayer and BBC Sounds app (Only needed on Android TV)
+ mybbc-analytics.files.bbci.co.uk
+
+# żappka Store App (payments management domains, żabka nano)
+# https://play.google.com/store/apps/details?id=pl.zabka.apb2c
+ cdn-settings.appsflyersdk.com
+ crashlyticsreports-pa.googleapis.com
+ launches.appsflyer.com
