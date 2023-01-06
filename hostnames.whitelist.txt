@@ -2996,3 +2996,24 @@
 # https://github.com/hagezi/dns-blocklists/issues/136
  d1bd3wxsyuz0t7.cloudfront.net
  www.amazonforum.com
+
+# https://github.com/notracking/hosts-blocklists/issues/830
+ captcha-display.com
+
+# https://github.com/hagezi/dns-blocklists/issues/163
+ stisa.org.cn
+
+# https://github.com/hagezi/dns-blocklists/issues/147
+ rilibiao.com.cn
+
+# https://github.com/hagezi/dns-blocklists/issues/154
+ bbs.cndeaf.com
+
+# https://github.com/hagezi/dns-blocklists/issues/156
+ post.i.api.ahrtv.cn
+ api.map.ahrtv.cn
+
+# https://github.com/hagezi/dns-blocklists/issues/161
+ moyu.ac.cn
+ api.moyu.ac.cn
+ track.moyu.ac.cn
