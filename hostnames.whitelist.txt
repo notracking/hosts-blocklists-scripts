@@ -1494,6 +1494,8 @@
  ejquo23388.i.lithium.com
  star.c10r.facebook.com
  star-mini.c10r.facebook.com
+ star-mini.fallback.c10r.facebook.com
+ star.fallback.c10r.facebook.com
 
 # https://github.com/notracking/hosts-blocklists/pull/160
  music.163.com
@@ -3017,3 +3019,18 @@
  moyu.ac.cn
  api.moyu.ac.cn
  track.moyu.ac.cn
+
+# For bbc app on android
+ mybbc-analytics.files.bbci.co.uk
+
+# żappka Store App (payments management domains, żabka nano)
+ appsflyer.com
+ crashlyticsreports-pa.googleapis.com
+
+# CNAME googletagmanager.com
+ www-googletagmanager.l.google.com
+
+# https://github.com/hagezi/dns-blocklists/issues/168
+ app.link.nba.com
+ clickdimensions.com
+ elink.clickdimensions.com
