@@ -3034,3 +3034,10 @@
  app.link.nba.com
  clickdimensions.com
  elink.clickdimensions.com
+
+# https://github.com/notracking/hosts-blocklists/issues/831
+ cbox.ws
+
+# https://github.com/hagezi/dns-blocklists/issues/180
+ ssl.o.auspost.com.au
+ o.auspost.com.au.ssl.d2.sc.omtrdc.net
