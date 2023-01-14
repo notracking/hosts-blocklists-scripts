@@ -3041,3 +3041,22 @@
 # https://github.com/hagezi/dns-blocklists/issues/180
  ssl.o.auspost.com.au
  o.auspost.com.au.ssl.d2.sc.omtrdc.net
+
+# https://github.com/notracking/hosts-blocklists/issues/832
+ xmrpool.eu
+
+# https://github.com/notracking/hosts-blocklists/issues/834
+ vlscppe.microsoft.com
+
+# https://github.com/hagezi/dns-blocklists/issues/192
+ filedropper.com
+
+# https://github.com/hagezi/dns-blocklists/issues/202
+ mindvalley.com
+ www.mindvalley.com
+
+# https://github.com/hagezi/dns-blocklists/issues/191
+.etrality.com
+ etrality.com
+ speedcheck.org
+ api.speedspot.org
