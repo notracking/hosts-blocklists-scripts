@@ -3066,3 +3066,57 @@
 
 # https://github.com/hagezi/dns-blocklists/issues/214
  trezor.io
+
+# https://github.com/hagezi/dns-blocklists/issues/229
+ z.cdp-dev.cnn.com
+
+# PowUnity bike tracking
+ go.powunity.com
+
+# Will start blocking 2o7.net on subdomain level, will otherwise break too many apps
+ 112.2o7.net
+ 2o7.net
+ subarumysubaruappproduction.112.2o7.net
+
+# Commonly whitelisted
+ check2.tsb.co.uk
+ de.ioam.de
+ asadcdn.com
+ appboy-images.com
+ www.asadcdn.com
+ browser.events.data.microsoft.com
+ target.microsoft.com
+ go.trouter.skype.com
+ c00.adobe.com
+ p.brid.tv
+ slike.indiatimes.com
+ video.xxxjmp.com
+ et.tidal.com
+ e.reddit.com
+ online.sh.cn
+ deskpi.com
+ swiftcourrier.com
+ sea.net.edu.cn
+ koisea.com
+ smart.link
+ bestgore.fun
+ ink1001.com
+ spade.twitch.tv
+ dcfdata.espn.com
+ mediavoice.com
+ aikq.de
+ sharkoon.com
+ viagogo.de
+ cdn-116.anonfiles.com
+ hockerty.de
+ mradx.net
+ ravm.tv
+ leakix.net
+ files.im
+ fssquad.com
+ src.litix.io
+ yu.ac.kr
+ 56.com
+
+# https://github.com/notracking/hosts-blocklists/issues/837
+ biz.ua
