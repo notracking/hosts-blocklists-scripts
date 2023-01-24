@@ -3120,3 +3120,9 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/837
  biz.ua
+
+# https://github.com/hagezi/dns-blocklists/issues/240
+ get.revolut.com
+
+# https://github.com/hagezi/dns-blocklists/issues/238
+ binarypiano.com
