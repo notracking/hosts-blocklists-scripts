@@ -3129,3 +3129,11 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/838
  asiakas.valokuitunen.fi
+
+# https://github.com/hagezi/dns-blocklists/issues/269
+ pr.comet.yahoo.com
+ guce.oath.com
+ consent.yahoo.com
+
+# https://github.com/hagezi/dns-blocklists/issues/292
+ email.goodrx.com
