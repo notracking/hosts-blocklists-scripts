@@ -3137,3 +3137,12 @@
 
 # https://github.com/hagezi/dns-blocklists/issues/292
  email.goodrx.com
+
+# https://github.com/notracking/hosts-blocklists/issues/843
+ tlkm.id
+
+# https://github.com/hagezi/dns-blocklists/issues/325
+ edilnet.it
+
+# https://github.com/hagezi/dns-blocklists/issues/308
+ url.rw
