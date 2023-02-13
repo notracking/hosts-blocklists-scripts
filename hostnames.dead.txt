@@ -1,7 +1,7 @@
 ###############################################################################################################
 # Source: https://github.com/notracking/hosts-blocklists-scripts
-# Last update: Sun 12 Feb 2023 12:31:55 PM CET
-# Number of dead hostnames: 38498
+# Last update: Mon 13 Feb 2023 12:06:36 PM CET
+# Number of dead hostnames: 38568
 # License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 # Buy me a beer!: https://www.paypal.me/notracking
 #
@@ -10,6 +10,8 @@
 # Hostnames listed in here can be safely removed from any blocklist
 ###############################################################################################################
 0-01x-merchandise.554217.xyz
+0-0lxmarket.8796556.xyz
+0-lx-delivery.1212223.xyz
 0-lx.12store3444.xyz
 0-lx.45956233.xyz
 0-lx.71544512.xyz
@@ -23,6 +25,7 @@
 0.le4net00.net
 0.turkcedusunturkcekonus.com
 0.versiondat.xyz
+00-lxproduct.7566342.xyz
 0000mps.webpreview.dsl.net
 002.ccpowercrew.biz
 0022a601.pphost.net
@@ -34,8 +37,10 @@
 00bot.asterios.ws
 00jn0.utsukushikaini.ru
 00lx-dispatch.7560924.xyz
+00lx-dispatch.8799966.xyz
 00lx-goods.64111214.xyz
 00lx-inform.653437.xyz
+00lx-informing.65760887.xyz
 00lx-market.6759000.xyz
 00lx-product.7564555.xyz
 00lx-product.8798885.xyz
@@ -91,8 +96,10 @@
 0ix-shoping41.45864234.xyz
 0ix.page-productpay.xyz
 0ix.sitedispatch-goods.xyz
+0ix34shop.3212223.xyz
 0l-x-store.04125452.xyz
 0l-x.2store-page.xyz
+0l-xgoods0.5544665.xyz
 0l-xmarket.0merch-andise.xyz
 0l-xproduct.897886.xyz
 0llx-shopping.9545327.xyz
@@ -154,6 +161,8 @@
 0lx.21shoppinginfo.xyz
 0lx.221shoppjngform.xyz
 0lx.23marke-t-inform.xyz
+0lx.31111420.xyz
+0lx.322221202.xyz
 0lx.32605124555.xyz
 0lx.332331215545.xyz
 0lx.3421545455.xyz
@@ -179,10 +188,12 @@
 0lxgoods.pu-rchase23.xyz
 0lxinform-product.36577743325.xyz
 0lxinform.0inform-page.xyz
+0lxmarket.4632798.xyz
 0lxproduct.53423311.xyz
 0lxproduct.inform-sending.xyz
 0lxpurchase.se-nding.xyz
 0lxsending.form9goods.xyz
+0lxshipment.4222131.xyz
 0lxshop-goods.6554546.xyz
 0lxshopping.7980543.xyz
 0lxstore-delivery.689700032123.xyz
@@ -669,6 +680,7 @@
 2h5.ifnprog.xyz
 2houtie.kozow.com
 2interia.azureedge.net
+2k47467bsnsspgrcvry.dns.navy
 2ke9e.uxurani.ru
 2mil.fintodayai.autos
 2onet.azureedge.net
@@ -736,6 +748,7 @@
 38697667140126922.my.id
 39.masterw-on.site
 3920vinteed.3454522.xyz
+394olx.6212223.xyz
 39fd3743.probe001.log4j.leakix.net
 39unitedfrkesokoriorimiwsdystreetsmghg.duckdns.org
 3b26f51f7c3062fae3850aedda32d07d.bjiiehdiosiisfjcoififbghddgsfepr.xyz
@@ -1092,6 +1105,7 @@
 7721.duckdns.org
 77318ece525.erikthomas.be
 7777777777777.duckdns.org
+77dpd-goods.6545909.xyz
 78-informacjepl.waw.pl
 7865.clmonth.nyashteam.ml
 7885.clmonth.nyashteam.ml
@@ -1181,6 +1195,7 @@
 8interia.azureedge.net
 8ogmcq6.puanp.ru
 8onet.azureedge.net
+8producto1x.8567090.xyz
 8uc2.ubtv.xyz
 8w3t7ja9pu5jjea.max959.com
 8x00x01.mine.nu
@@ -1522,6 +1537,7 @@ aan.vlant.site
 aanna74.eu.interia.pl
 aap-pl-proga.eraplnew.site
 aasssambly.mywebcommunity.org
+aave.waterfall.network
 ab.adrevivify.com
 ab6deb93.probe001.log4j.leakix.net
 ab834.dyndns.org
@@ -1596,6 +1612,7 @@ accessobperbanca.ofachrity.com
 accessobperbanca.shororituvillage.com
 accessobperbanca.ssc94bd.com
 accessobperbancaweb.sockoconquer.com
+accessobperbancaweb.stephilconsults.com
 accessofindomestic.nomobeauty.com
 accesspress.rdsarkar.com
 accounhostoutlook.z35.web.core.windows.net
@@ -2469,6 +2486,7 @@ agent.rooderoofing.com.au
 agent0720jokeanalkim07-54545.portmap.host
 agentlora.duckdns.org
 agentsv2.ivm.mv
+agentt.ac.ug
 agile.org.il
 agl.typstade.xyz
 agraptor1.dyndns.org
@@ -2889,6 +2907,7 @@ allegro.pl.user49711.cf
 allegro.receive-id19431.site
 allegro.secfence.lesavik.net
 allegro1-0kalnie.7560909.xyz
+allegro1-okalnie.75646888.xyz
 allegro1-okalnie.804333352.xyz
 allegro1-okalnie9.798000.xyz
 allegro1okalnie-goods.767546.xyz
@@ -3640,6 +3659,7 @@ app-recovartasa6t7687sa.5znmgqh0yz-gjy3mzm8k68q.p.temp-site.link
 app-schmidt.iclv05iiju-rz83y5pk96d7.p.temp-site.link
 app-schneider22vvx.guvk9w1dpd-ez94ddk7z4mr.p.temp-site.link
 app-ser-corr.cfolks.pl
+app-uuser88acept.lztbaounhi-dv13xkjj14gq.p.temp-site.link
 app-vurions11234.5znmgqh0yz-gjy3mzm8k68q.p.temp-site.link
 app-wewe.inbzxamewo-gjy3mzxy168q.p.temp-site.link
 app.airfm.cam
@@ -4350,7 +4370,6 @@ barclaysb.wm01.to
 bare.3dfb47b2.postnord.berylia.org
 barghir.soqquz.serverbest.xyz
 baroud-44589.portmap.io
-bary.sz4h.com
 bas.st6-investprog.site
 base.happytroutproductions.com
 base.vuquoctrung.info
@@ -4369,6 +4388,7 @@ battlefield4secondassaultdlc.goblogz.net
 bau.chainreact.xyz
 bauer.8866.org
 bawwsnass.dyndns.info
+bay1nqoctphone.blogshop.sbs
 baz.downloadcor.xyz
 baz.roonss.xyz
 baz.zolaa.xyz
@@ -4561,6 +4581,7 @@ bit.orlen-btk.xyz
 bitcoin-now.hojagoak.com
 bitcoin24su.orgsi.top
 bitcoinbanknational.hojagoak.com
+bitcoinbillionarie.gugekes.com
 bitcoinbillionarie.hojagoak.com
 bitcoingenerator.altervista.org
 bitcoins.giize.com
@@ -4624,6 +4645,7 @@ blablacar-pl.s-wallet.link
 blablacar-sk.s-wallet.link
 blablacar.booking-payments.xyz
 blablacar.id-63291.ru
+blablacar.ld55943.ru
 blablacar.m-3ds.casa
 blablacar.pay-ride.ru
 blablacar.pays-security.info
@@ -6186,7 +6208,6 @@ collector-medium.lightstep.com
 collector.apester.com
 collector.shopstream.co
 collinsd.linkpc.net
-colonna.ac.ug
 colonnadeofficespace.in.net
 columbusleadershipcoaching.bestactioncoach.com
 com-usen-jkjkztnumc.digitalfidelitystudios.com
@@ -6703,6 +6724,7 @@ cypherxffttr7hho.tor2web.blutmagie.de
 cypherxffttr7hho.tor2web.fi
 cypherxffttr7hho.tor2web.ru
 cyprus.in.ua
+cz.ceskysystem.authorityrate.co.in
 cz.mbank-eu.com
 cz.mbank-eu.online
 cz.online-mbank.net
@@ -7141,6 +7163,7 @@ delivery-o1x-pay.377868.xyz
 delivery-o1x.2326051255.xyz
 delivery-o1x.346598655.xyz
 delivery-o1x.420621545122.xyz
+delivery-o1x.422221202.xyz
 delivery-ollx-store.73223323.xyz
 delivery-olx.32322333.xyz
 delivery-olx.85455550.xyz
@@ -7195,6 +7218,7 @@ delivery.olx.pl.safereceivement.me
 delivery.olx.safedeal.casa
 delivery.olx.shipment.casa
 delivery.olx.umowa.live
+delivery0-0lx.435566666.xyz
 delivery08-o1x.45555555566.xyz
 delivery093v1nte-d.242121222.xyz
 delivery0lx.1211212323.xyz
@@ -7533,6 +7557,7 @@ dispatch00o1x.9000065.xyz
 dispatch0lx.75680091.xyz
 dispatchgoods-1npost.06221541254.xyz
 dispatchjnpost.2431709803.xyz
+dispatchol-lx.5455546.xyz
 diuzliqaq.simplystored.su
 divineart.dyndns.org
 divinecryn2021.nerdpol.ovh
@@ -7568,7 +7593,6 @@ dllhost.accesscam.org
 dllhost.ddnsfree.com
 dllhost0731.ddnsfree.com
 dllhost0916.ddnsfree.com
-dlon.korto.xyz
 dm.gucheng.com
 dm.huochepiao.com
 dm.jsyst.cn
@@ -8262,9 +8286,11 @@ dpd.dispatchproduct-659.xyz
 dpd.dostawa-5643.me
 dpd.dostawa-safety.club
 dpd.dostawa-safety.cyou
+dpd.ekapebem.org
 dpd.form-infopaygoods.xyz
 dpd.formularz.fun
 dpd.formullarz.xyz
+dpd.hedkasplemase.org
 dpd.id-101371.me
 dpd.id-info0657.me
 dpd.id798234.space
@@ -8278,7 +8304,6 @@ dpd.lnfodelivery-page.xyz
 dpd.myvipkontos.work
 dpd.order-repays.xyz
 dpd.orderingpl-meinfo.xyz
-dpd.oregasore.org
 dpd.packageinfo-money.xyz
 dpd.paypageuserproduct.xyz
 dpd.pl-calculation.xyz
@@ -8350,7 +8375,6 @@ dr.projektpl.site
 dr.st6-investprog.site
 dr1.pltrade-projekt2.xyz
 dragonfire-49462.portmap.host
-dragonfire.ac.ug
 dragonstory.gamelum.com
 drd.wideangellens.com
 dreadisownage.no.ip.org
@@ -8720,6 +8744,7 @@ empe3net7.neostrada.pl
 empezarll.dynu.com
 empezarll.mywire.org
 empire.hillsclerk.us
+empirz.linkpc.net
 empleos.godixital.com
 employee-express-toolbox-describes.trycloudflare.com
 empowermentorganisationstday1government.duckdns.org
@@ -8868,7 +8893,6 @@ ethaisheksanegeusaheeeuahsnedhausenahsyel.ydns.eu
 ethdns.mywire.org
 eti.prosyst1.site
 etoll.govpl.co
-etp.tesinvesteu.xyz
 etrader.peckao24.sbs
 etruper.compostellaperu.com
 etw.goinglownow.com
@@ -8921,6 +8945,7 @@ eutesl.coin-mark.xyz
 eva.namkhang.gq
 evadex.duckdns.org
 evasi0n.jailbreakhost.com
+evdgj8uhmq63bef83c46d72.bolags.ru
 evenbor.n-ip.org
 event.demirorenteknoloji.com
 event.ksosoft.com
@@ -9194,6 +9219,7 @@ fbp.orogdq1.xyz
 fbpay.orogdq1.xyz
 fbq.orogdq1.xyz
 fbr.orogdq1.xyz
+fbrestric43-001-site1.atempurl.com
 fbs.fbshanimous.eu
 fbs.for-ua.org.ua
 fbt.orogdq1.xyz
@@ -9352,6 +9378,7 @@ findomestic.mareadentro.com
 findsaloon.sistemasbrasilonline.com.br
 findwfriends.net.ht
 finera6504-54829.portmap.host
+finnews-pl.announcestudent.co.in
 fiori-da.azureedge.net
 fip2.lightgroup.com.br
 firas.alifares.org
@@ -9462,9 +9489,11 @@ form8.sadek-webdesigner.com
 forma.depiinv.xyz
 formachat.dexatiam.xyz
 formddpd.526565666.xyz
+formih-postshop.64443544.xyz
 formihpost-goods.8977777776.xyz
 forminpost-dispatch.4657641232.xyz
 formo1x-merchandise.42312675.xyz
+formol-xshop.7677754.xyz
 formore.for-more.biz
 formpay95-inpo-st.35956323.xyz
 formshop-vinted.08745451.xyz
@@ -9484,6 +9513,7 @@ forum.runescape.com-f.ru
 forum.somedizzy.com
 forum.square-enix.com-dx.top
 forum.square-enix.com-st.top
+forum.square-enix.com-vu.top
 forumo1xdom.cloustore.buzz
 forums.runescape.com-h.ru
 forward-pp2pay.aktuakont.life
@@ -9972,6 +10002,7 @@ gnjghnmjhgnjmgh.from-pr.com
 gnoqovijds.klontrek.org
 gnu.linuxrepository.xyz
 go-anazucn-co-quandmsdn.yoolud.top
+go-etc-co.oninto.31sh.com.cn
 go-koyamaton-co.caevmee.cn
 go-koyamaton-co.podn.kxoropr.cn
 go-koyamaton-co.zhshhwq.cn
@@ -10017,6 +10048,7 @@ gold.perfurtorkerhortar.com
 gold.teleagent.ir
 goldblacktree.waldennetworks.com
 golden-memories-funerals.yourpageserver.com
+golden.nl.am
 goldenroade.strangled.net
 goldman5.homeip.net
 goldnewprog.golnplnew8.xyz
@@ -10106,6 +10138,7 @@ googlinfo.coocoldini.xyz
 googlinform.coocoldini.xyz
 googlpl.coocoldini.xyz
 goognews.coocoldini.xyz
+goonline.bbnpraibas.fun
 goonline.bnp-paribaspl.com
 goonline.bnppairbas.tech
 goonline.bnppairlbas.tech
@@ -10114,6 +10147,7 @@ goonline.bnppnrailbas.gives
 goonline.bnppraibas.fun
 goonline.bnppraibas.tech
 goonline.bnpraaibbas.foundation
+goonline.bnpraaibbas.tech
 goonline.bnpraibas.site
 goonline.bnpraiibas.space
 goonline.bnqbarridas.tech
@@ -10620,6 +10654,7 @@ homieshing.temp.swtest.ru
 hommy.dyndns-remote.com
 honey.briefly.ru
 honeypus.rusladies.cn
+honoexpress.linkpc.net
 honorman.linkpc.net
 hoop-america.oicp.net
 hop.hopedaleweb.com
@@ -10638,6 +10673,7 @@ host-l6w.mooo.com
 host.360-update.com
 host.aliveafterguard.store
 host.cutestboty.com
+host.human-resources-payslips.azurewebsites.net
 host.jascbe.net
 host.lightnitro.co.uk
 host.pornolenta.cc
@@ -10880,6 +10916,7 @@ icloud.findmy.uk.com
 icloud.fiuinidi.com
 icloud.itunesid.ryawqu.cn
 icloud.ryawqu.cn
+icloud.update.emfdu.cfd
 icoch.newinfoo.xyz
 icochat.newinfoo.xyz
 icoins.g0ogleorl.xyz
@@ -10946,6 +10983,8 @@ igwe.3eeweb.com
 igwebob.mooo.com
 igwtm.duckdns.org
 igynjkolwbnxvzaghuoplmnahuqwsbhyexbzmbdu.ydns.eu
+ih-post900.63212221.xyz
+ih-post902.7980809.xyz
 ih-postmarket.8675666.xyz
 ihateppl.chickenkiller.com
 ihp0st-pay.9756-momentpay.xyz
@@ -10969,6 +11008,7 @@ ihpost-purchase.125213.xyz
 ihpost-purchase.5490076.xyz
 ihpost-purchase.6879882213.xyz
 ihpost-purchase.9087786545.xyz
+ihpost-sending.7665655.xyz
 ihpost-shipment.253419.xyz
 ihpost-shipment.5664322.xyz
 ihpost-shopping.0de-livery12.xyz
@@ -10982,6 +11022,7 @@ ihpost-shopsite.30215421.xyz
 ihpost-store.965820347.xyz
 ihpost-storeinfo.5764467671.xyz
 ihpost.06525.xyz
+ihpost.15988956.xyz
 ihpost.4521-deljvery.site
 ihpost.6-informdelivery.xyz
 ihpost.buyer-deljveryinfo.xyz
@@ -11007,6 +11048,7 @@ ihpostpay-product.5764443552.xyz
 ihpostpaying.7080888878.xyz
 ihpostshop.0908778876.xyz
 ihpostshop.3900089901.xyz
+ihpostsite-store.87876665.xyz
 ihpoststore-paying.3124354634.xyz
 ihpoststore.5342110.xyz
 ihpoststore.7689888087.xyz
@@ -11145,6 +11187,7 @@ impost-store.3265656666.xyz
 impost-store.6215484512.xyz
 impost.12store-pay.xyz
 impost.15956233.xyz
+impost.2000021.xyz
 impost.3000026001.xyz
 impost.30265941521.xyz
 impost.36594345154.xyz
@@ -11182,6 +11225,7 @@ impost4677deljvery.801343.xyz
 impostinfopay.550652122222.xyz
 impostinfopaystore.07845012.xyz
 impots.gouv.fr.netify.live
+impotsfranceremb.sepatuimpor.com
 impresja.biz.pl
 impreso.elfinanciero.com.mx
 improvement.sevenrange.top
@@ -11275,6 +11319,7 @@ in-post.traktat-id23650.lol
 in-post.umowa-id29037.beauty
 in-post.umowa927455.top
 in-post.zamow751308.beauty
+in-post090.9088890.xyz
 in-postpl.dataconfirmation.xyz
 in-pozt-marketpay.40000000012.xyz
 in.plsystem5.xyz
@@ -11487,6 +11532,7 @@ infojnpost.dis-patch9.xyz
 infoleads.redmed1.xyz
 infolimit.redmed1.xyz
 infolinia-drogowa.waw.pl
+infolixdom.tourshop.top
 infomacjadnia.pro-linuxpl.com
 infomacje-1.azureedge.net
 infomacje-10.azureedge.net
@@ -11862,6 +11908,7 @@ inp0-st.confirmsendinfo.xyz
 inp0-st0.097680.xyz
 inp0-st0.6345421.xyz
 inp0-stgoods.7611121.xyz
+inp0-stpay54.4233365.xyz
 inp0-stpurchase.8567645.xyz
 inp00st-purchase.7342461.xyz
 inp00st-sh0p.323353.xyz
@@ -11869,6 +11916,7 @@ inp00st-sh0p.807634.xyz
 inp00st-site7.433241.xyz
 inp00st00-shipment.554365.xyz
 inp0s-t.96058.xyz
+inp0st-0dispatch.53442322.xyz
 inp0st-31shlpping.7977545.xyz
 inp0st-delivery.0342111.xyz
 inp0st-delivery.220621545122.xyz
@@ -11903,7 +11951,9 @@ inp0st-product.7980009009.xyz
 inp0st-purchase.121312144344.xyz
 inp0st-purchase.567098.xyz
 inp0st-purchase.69895232.xyz
+inp0st-purchase.75660433.xyz
 inp0st-purchase.8653243.xyz
+inp0st-sending.64550534.xyz
 inp0st-sending.6574436.xyz
 inp0st-shipment.2657841186.xyz
 inp0st-shipment.5444532.xyz
@@ -13049,7 +13099,6 @@ inpost-pl-xz5512.tribesng.xyz
 inpost-pl-xz5512.vl3x.top
 inpost-pl-xz5512.xcxc7.top
 inpost-pl-xz5512.yuaaa.top
-inpost-pl-xz5512.zaatar.eu
 inpost-pl-xz5512.zaatar.shop
 inpost-pl-ykj.id-3485.me
 inpost-pl-ze.id-info0569.me
@@ -13187,7 +13236,6 @@ inpost-pl.725031.space
 inpost-pl.732123.space
 inpost-pl.732145-order-info.xyz
 inpost-pl.732490.space
-inpost-pl.734534.xyz
 inpost-pl.7353742-order-info.xyz
 inpost-pl.735913.space
 inpost-pl.738245.space
@@ -14696,6 +14744,7 @@ inpost.dostawa24-fun.club
 inpost.dostawa24-fun.digital
 inpost.dostawkafpl.cyou
 inpost.dostawkafpl.me
+inpost.ekapebem.org
 inpost.formularz.club
 inpost.formularz.ml
 inpost.formullarz.xyz
@@ -14708,6 +14757,7 @@ inpost.getorder-pl.store
 inpost.getpaybox.pl
 inpost.gmoolas.org
 inpost.goldcashpl-inforrtg.xyz
+inpost.hedkasplemase.org
 inpost.home153.top
 inpost.id-3948.com
 inpost.id-417643.pw
@@ -16006,6 +16056,7 @@ inpost6btiv.order8349.info
 inpostinfo-dispatch.2094452.xyz
 inpostinfo-dispatch.45633343.xyz
 inpostinfo.dostawa-monitoring.xyz
+inpostinform.43541121.xyz
 inpostmarket.956066.xyz
 inpostpi.dataprocesrequest.xyz
 inpostpl.1ast-m1nute.com
@@ -16511,7 +16562,6 @@ ip.ipwhois.org.uk
 ip.yototoo.com
 ipcc.project.webscript.co.in
 ipcc.rmc.webscript.co.in
-iphone.aut5.com
 iphone.covid19-news.kr
 ipi-internet.linuxuatwebspiders.com
 ipi-intranet.linuxuatwebspiders.com
@@ -16641,7 +16691,6 @@ itunes.mail.ryawqu.cn
 itunes.mail.ursaxei.cn
 itunesfreecodes.goldmovie-trailer.com
 itunesid.ryawqu.cn
-iuhnkiuygbf.con-ip.com
 ivan085.3322.org
 ivanoffol3.temp.swtest.ru
 ivanzakharov91.example.com
@@ -16835,6 +16884,7 @@ jmpos-t3998-inform.451548455.xyz
 jmpost-shoppingpay.9000767751.xyz
 jmyers.swissplus-fx.com
 jn-post.1marketinfo.xyz
+jn-postgoods.8099809.xyz
 jnfjwaevc.bdad41f.cn
 jnp-ost.3332marke-t324.xyz
 jnp-ost.4store-435.xyz
@@ -16873,6 +16923,7 @@ jnpost-deljvery.045184.xyz
 jnpost-dispatch.8098432366.xyz
 jnpost-dispatchgoods.6754511.xyz
 jnpost-goods.7886790.xyz
+jnpost-goods.90878865.xyz
 jnpost-market.6576877676.xyz
 jnpost-market.6798090.xyz
 jnpost-market.9051121.xyz
@@ -16895,6 +16946,7 @@ jnpost-product.6809076432.xyz
 jnpost-product.8112213.xyz
 jnpost-purchase.134678.xyz
 jnpost-purchase.5767665.xyz
+jnpost-purchase.75640435.xyz
 jnpost-purchase.77999998999.xyz
 jnpost-purchase.786655555665.xyz
 jnpost-sending.4366534.xyz
@@ -17048,7 +17100,6 @@ jsocket2-giftedhands.linkpc.net
 jsrs.chickenkiller.com
 jss.jajja.com
 jss.tvzhe.com
-jssdk.beetv.net
 jstore.my.id
 jswormltd.duckdns.org
 jtrackern.joins.com
@@ -17294,7 +17345,6 @@ kinisemuaa.tarungdrajatsiokalama.com
 kinka727a8a-72dame92.logoifn.co.pl
 kinogo.r.worldssl.net
 kinpost.id-0687.me
-kinsab.linkpc.net
 kiops.iprevert.com
 kip.actices.com
 kip.baburn.com
@@ -17353,6 +17403,7 @@ koh.191northfront.com
 koh.bayonetbreaker.com
 koh.corkysfreshwater.com
 koho.addwisers.com
+koknyamaton-co.jp.npcuggd.cn
 kokyamaton-co.jp.lavkrtf.cn
 kol.lomt.xyz
 kolabola.linkpc.net
@@ -17390,7 +17441,6 @@ korespondencja.in.net
 koronamiasto.hekko24.pl
 koronanews.hekko24.pl
 koronawirus.hekko24.pl
-korr.korto.xyz
 kort.capitalnoster.site
 korw.capitalnoster.site
 korwre.capitalloredfd.site
@@ -17408,13 +17458,16 @@ kovalskiy9.temp.swtest.ru
 kox.juristi.info
 kox.polss.xyz
 kox.termofoc.gr
+koyamatodn-co.akauan.nicqctf.cn
+koyamaton-co-and.wcrryhl.cn
+koyamaton-co-andesd.ayqtfrg.cn
 koyamaton-co-andesd.cchsvkr.cn
 koyamatonm-co.induan.ypnmgdt.cn
 koyamatonm-co.infor.tzinqeg.cn
 koyamatonm-co.poplinc.jdzzwxd.cn
+koyamatou-co.jp.jfacaoy.cn
 koyo-31776.portmap.io
 koz.lomt.xyz
-kpb.korto.xyz
 kph.st6-investprog.site
 kpicyles.klontrek.org
 kplusd.far.ru
@@ -17569,6 +17622,7 @@ lag.lagosboy.info
 lakers.jumpingcrab.com
 lakme.mg14.in
 laksi.maxyeumax.xyz
+lal611.linkpc.net
 lalaboy.duckdns.org
 lalala001.orge.pl
 lalundelau.sinip.es
@@ -17768,6 +17822,7 @@ linebot.gugame.net
 link-chat.plwasinve7.site
 link-info.clulong1pl.site
 link-kokyamaton-co.linkd.apvjkhe.cn
+link-kokyamaton-co.tiangaodihou.com.cn
 link-koyamato-co.cind.bxsrdzg.cn
 link-koyamato-co.jp.oilwzws.cn
 link-koyamaton-co.ucuxujk.cn
@@ -17792,6 +17847,7 @@ linkp4klg1qkni76yoz8.z19.web.core.windows.net
 links.heliohost.org
 linkservers.duckdns.org
 linksolex.duckdns.org
+linkto-koyamaton-co.smqpwkc.cn
 linkyou.khaledahmed.tk
 linpoctmxmu.284026.xyz
 linpoctsxss.900572.xyz
@@ -18043,6 +18099,7 @@ load.newappssystems.com
 load.updatetag.com
 loafer00.duckdns.org
 loansupport.azurewebsites.net
+lob.ilbattelloavapore.net
 lobby.dhl-biznes.com
 loc.residencegarage.com
 local.firstcapitalmortgages.ca
@@ -18193,7 +18250,6 @@ lolwut666.crabdance.com
 lolwutirc.crabdance.com
 lolzi.noip.org
 lomkast.hhos.ru
-lon.korto.xyz
 lon.loct.xyz
 londonmarathon2019.kevinmiller66.co.uk
 longerinfo.ginfoinv.xyz
@@ -18201,7 +18257,6 @@ longinvest.lofprod.xyz
 longman001.chickenkiller.com
 longshadow.dyndns.org
 longwood-pestcontrol.comlifecraze.in
-lonn.korto.xyz
 lonpost-buy4product.0356854.xyz
 lookplease.c1.biz
 looksrare.claim-now.online
@@ -18384,7 +18439,6 @@ lystic.securedns.site
 lyz.radio366.com
 lz1.homeip.net
 lzv.sidewalkimmured.com
-m-blog.maxipl-system.xyz
 m-neonat.mscurie.ro
 m-range.onice.my
 m.6uwmj7.cyou
@@ -18610,7 +18664,6 @@ majadd64.linkpc.net
 majidi.gamecart.ir
 majomodelagency.duckdns.org
 majorsss.duckdns.org
-mak.korto.xyz
 mak17opa54vjxu8.z7.web.core.windows.net
 makalelisiteler.ayakkabilar.org
 makego11.chickenkiller.com
@@ -18694,6 +18747,7 @@ market-ollx.25454544444.xyz
 market-ollx.42221511151.xyz
 market-olx.156565555.xyz
 market-olx.324354456511.xyz
+market-olx.8212223.xyz
 market-olx.8703273.xyz
 market-olxshop.7000834.xyz
 market-oolx.49565666.xyz
@@ -18857,7 +18911,6 @@ maxi-eu.cardmr.site
 maxi-eufit.cardmr.site
 maxi-finans.cardmr.site
 maxi-master.pl-pr0fiprog.site
-maxi-pro.maxipl-system.xyz
 maxi.strongpl.xyz
 maximum.tslax.site
 maximumpcads.imaginemedia.com
@@ -18920,8 +18973,6 @@ mbupress.umbjm.ac.id
 mbv.sitify.top
 mbw.legalprod.xyz
 mc-1.program-pro1.site
-mc-blog.maxipl-system.xyz
-mc-blog1.maxipl-system.xyz
 mc-pl1.program-pro1.site
 mc.desmine.ru
 mc.imafish.net
@@ -18931,7 +18982,6 @@ mc.tellme-your.name
 mcctatkone.infozonemyanmar.com
 mcdomeau.styles.net
 mck9sqkh.wzorcd.ru
-mcmac.duckdns.org
 mcmp.duckdns.org
 mcn.ifnprog.xyz
 mcnana.theworkpc.com
@@ -19057,6 +19107,7 @@ meta-mask.prizezcoin.site
 metalbossv.dyndns.ws
 metalpink.serveftp.org
 metamask.io.dapp-zendesk.sbs
+metamask.io.merge.examtestbanksolution.com
 metasecure.earn-io.com
 meter.melatkinson.com
 metrics.autotrader.co.uk
@@ -19606,6 +19657,7 @@ mokkha.goongnam.com
 mol.haxdo.com
 moll.dracupuk.com
 molx.id-13549.me
+momeykit-jp.usnmk.com
 momeykite.pcmsw.com
 momo2.test.zinimedia.com
 momo33333.fvds.ru
@@ -19849,12 +19901,10 @@ mx248.bank-online.cf
 mx5.l4cky.com
 mxq.holditbb.ru
 mxtkkh79df637a616f5d109.repstara.ru
-mxz.maxipl-system.xyz
 my-account-config-paypalservice-inc.legofxpro.com
 my-account.fremontss.com
 my-blog-pl.polanfirm11.xyz
 my-blog-pl.techwwwpl.site
-my-blog.maxipl-system.xyz
 my-blog.polanfirm11.xyz
 my-blog1.shitree.site
 my-blog1inv.techwwwpl.site
@@ -19907,6 +19957,7 @@ mydns.example.com
 mydocss.duckdns.org
 mydynamite.dynv6.net
 myee.id.update.eivlmn.com
+myether-wallet.appextrs.uk
 myetheriwalleit.appsmys.com
 myetherwallet.gold-kbc.com
 myetherwallet.webdefi.us
@@ -20004,6 +20055,7 @@ nad.kosmm.xyz
 nadania-online.in.net
 nadania-online24.in.net
 nadania-onlline.in.net
+nadia.ac.ug
 nadrojrenrut.chickenkiller.com
 nadziejjaniegasnie.seohost.com.pl
 nadzwyczajne.098.pl
@@ -20690,7 +20742,6 @@ nozomi.sakananoko.io
 np.camfrog-ir.zapto.org
 np.st6-investprog.site
 npe0.ibidazn.ru
-npl.maxipl-system.xyz
 npt.st6-investprog.site
 nqw.scpqvb8f.ru
 nr.p-e.kr
@@ -22287,8 +22338,10 @@ o.oteqprojects.co.in
 o1-x.523marketsite.xyz
 o1-x0merchandise.7565670.xyz
 o1-xdispatch.6311210.xyz
+o1-xpaying.6877557.xyz
 o1-xshipment.goodpays05.xyz
 o1-xshopping.35465878.xyz
+o1-xshopping.90873243.xyz
 o11x-delivery.908324108.xyz
 o11x-inf0rming.366578.xyz
 o11xdelivery.362955455.xyz
@@ -22322,6 +22375,7 @@ o1x-shopping.5761200.xyz
 o1x-shopping.67555464.xyz
 o1x-shopping.info1page.xyz
 o1x-store.0554120.xyz
+o1x.11111420.xyz
 o1x.112storeuser.xyz
 o1x.12marke-t324.xyz
 o1x.15236566.xyz
@@ -22355,15 +22409,18 @@ o1x.sendingpage-pay.xyz
 o1x.site-shipmentgoods.xyz
 o1x.user-orderinfo.xyz
 o1x.usersendingparcel.xyz
+o1x12goods.900704.xyz
 o1x90sending.0905443.xyz
 o1xdelivery.site6market.xyz
 o1xdelivery34.5455534.xyz
+o1xdispatch.8688879.xyz
 o1xdispatch.goo-ds1.xyz
 o1xform-goods.68908787212.xyz
 o1xinf07548market124.345124.xyz
 o1xmerchandise.90745346.xyz
 o1xpay-delivery.5764565455.xyz
 o1xpu-rchase.76888788.xyz
+o1xpurchase45.78656453.xyz
 o1xshipment.4365552111.xyz
 o1xshipment.80946556.xyz
 o1xshop.6457776.xyz
@@ -22600,10 +22657,12 @@ oill.libracoinofficial-company.xyz
 oilprofit-new3.invest-kapitals.com
 oim.org.co
 oissapllllll.newstri67.site
+oix-delivery.21111420.xyz
 oix-delivery.84621.xyz
 oix-info.considpayrequest.xyz
 oix-info.sendgoods-info.xyz
 oix-market.6984522.xyz
+oix-merchandise.8978886.xyz
 oix-pi.168423plid.xyz
 oix-pi.dostawa-id09321.lol
 oix-pi.dostawa-order09235.shop
@@ -22685,6 +22744,7 @@ oix.shipmentgoods-info.xyz
 oix895marketsite.262955455.xyz
 oix89shopping.1324354.xyz
 oixgoods.768788.xyz
+oixmarket.9090087.xyz
 oixproduct.80611121.xyz
 oixproduct09.897909.xyz
 oj-x.16store3444.xyz
@@ -23471,7 +23531,6 @@ olx-pl.opmcdretro8912.xyz
 olx-pl.oqwtz-ms125.shop
 olx-pl.order-id32987.click
 olx-pl.order-id334185.xyz
-olx-pl.order-id572857.xyz
 olx-pl.order-pl78263.lol
 olx-pl.order-protect.icu
 olx-pl.order4335.site
@@ -26655,6 +26714,7 @@ onet.info.pl
 onet.waw.pl
 onet24.stronazen.pl
 onet24pl.pvi.pl
+onetimeade.linkpc.net
 onetodaysspecial.sa.com
 onetporwanie.net.pl
 onett.net.pl
@@ -26699,7 +26759,6 @@ online.usean.biz
 online01-capitalhelp24.da-ar.ru
 online1.mywire.org
 onlineinvestment.ac.ug
-onlinejones.linkpc.net
 onlinesurvey.register.moe.edu.cn.serviceneteasse.com
 onlydankkush.duckdns.org
 onlyforyou.chickenkiller.com
@@ -26712,6 +26771,7 @@ oo.beahh.com
 oobfigh0bnuwvbfigh0bnuwv.belchem.com
 oocuhyejdcvvvd.vdl.pl
 oohshit.dnsdojo.com
+ookey.linkpc.net
 ool-x.326599985.xyz
 ool.qwikbookpublish.com
 oolx.11deliveryuser.xyz
@@ -26723,6 +26783,7 @@ oolx.31deliveryinfo.xyz
 oolx.31dispatchgoods.xyz
 oolx.4999584555.xyz
 oolx.532232333.xyz
+oolx.7212223.xyz
 oolx.id-3241.com
 oolx.storepageinfo.xyz
 oolx843.00000084.xyz
@@ -26903,6 +26964,7 @@ ovcha.2st-broker.xyz
 ove.resourceny.net
 overlordxd.duckdns.org
 overo1xcoast.wiewshop.top
+ovhosting-services.fr-llc.io
 ovk.xceler8.io
 ovs.igp.gob.pe
 ow.new-tesl1x.site
@@ -26941,7 +27003,6 @@ ozelenenie.pp.ua
 ozoon.linkpc.net
 ozowarac.chickenkiller.com
 ozywopesb.blogoveg.org
-p-blog.maxipl-system.xyz
 p-mc.patpat-pro.xyz
 p.ace.advertising.com
 p.awnca.com
@@ -27174,6 +27235,7 @@ pay.olx.pl.link-secure.net.ru
 pay.poczta-polska24.com
 pay.pocztapolska24.com
 pay.ppaco.xyz
+pay0lx-delivery.7566890.xyz
 pay0lx-goods.8090009000.xyz
 pay11301.co-ip.biz
 pay849inpos-tt.123265656.xyz
@@ -27198,6 +27260,7 @@ payjnpost.pa-yment65.xyz
 payment-ovh-fr932a4d350e8.hospprotect.com
 payment.neotech.ac.in
 payment.unior.club
+paymento-lx.5466657.xyz
 payments.majpk.com
 paymentyinted.2546666766.xyz
 paynazwa-pl-10133dd9.evv-auditing.com
@@ -27290,7 +27353,6 @@ pb.enewslive.org
 pb.qocp.net
 pbdo-bot.webhop.org
 pbl.st6-investprog.site
-pblog1.maxipl-system.xyz
 pbpeblyopk.cfolks.pl
 pbxebike.comhigradeautoparts.com
 pc.ac-kr.esy.es
@@ -27378,7 +27440,6 @@ ph-informacjepl.waw.pl
 ph3onixz.dyndns.info
 pha.ossors.xyz
 phage.strangled.net
-phani.trymore.co
 phantom-app.growfastorganic.in
 pharmacy.binarybizz.com
 phbooking.pl-id65592797.xyz
@@ -27502,7 +27563,6 @@ pl-allegrolokalnie.delivery-9865.xyz
 pl-allegrolokalnie.delivery6452.xyz
 pl-allegrolokalnie.id721462.space
 pl-allegrolokalnle.84352.space
-pl-blog.maxipl-system.xyz
 pl-dpd-dostawa.30997.space
 pl-dpd.0438544.xyz
 pl-dpd.045849.space
@@ -28062,6 +28122,7 @@ poczta.grabner.be
 poczta.identyfikacja-uzytkownika.space
 poczta.interia-pl.online
 poczta.interia-pl.space
+poczta.port.gdynla.pl
 poczta.vp-pl.website
 poczta.wp-pl.site
 poczta24.in.net
@@ -29275,7 +29336,9 @@ product90lx.90097860.xyz
 production-eqbc.lvp.llnw.net
 production.go-dove.com
 productiondelphi.minehosting.xyz
+producto1x.8000098.xyz
 producto1x.info0delivery.xyz
+productoix.7687887.xyz
 productsending-inpost.345084512.xyz
 productvjnted.467588.xyz
 proemepror.ze.am
@@ -29589,7 +29652,6 @@ q.pro-orln1.xyz
 q.tvnet.lv
 q04leu6wmk.mooo.com
 q0r9fwj3hq12.freedns.su
-q1.yyxwzx.com
 q362375754.3322.org
 q6-wypadki.waw.pl
 q6623010.gicp.net
@@ -29677,6 +29739,7 @@ qvicc.mc-unlim.xyz
 qwe-pl.maxlife1pro.xyz
 qweasdzxcrty.vdl.pl
 qwer.asdf.zxcv.88tech.org
+qwerqwer2.strangled.net
 qwert.likeprog.xyz
 qwert.mine.bz
 qwertasdfg.sinip.es
@@ -29822,6 +29885,7 @@ realizarsolucoesfinanceirasrenner-com-br.theketoking.buzz
 realmadrid-contato.loseyourip.com
 realsamytrade.org.in
 realtopg-40301.portmap.io
+rebelfgighter.ac.ug
 recetasparaelalmapanama.comghssarangpur.org
 recloma.cssmod.ru
 recommendations.govx.com
@@ -30401,6 +30465,7 @@ sadx1995-48349.portmap.io
 safa.205dundas.com
 safaa.net.in
 safar.selfip.com
+safari.linkpc.net
 safari7.devitsandbox.com
 safe-service.inpost.codes
 safe-service.inpost.kim
@@ -30536,6 +30601,10 @@ sb.et2046.com
 sb.flashfack.ren
 sb.iffymonkey.com
 sbd.7766.org
+sberbank.ld46051.ru
+sberbank.ld55401.ru
+sberbank.ld55943.ru
+sberbank.ld85012.ru
 sbn6.increaseworker.link
 sbpb1.qulishi.com
 sc.adobedc.net
@@ -30763,6 +30832,7 @@ security.weblogin-contact-form-instagram.com
 securityadminhelpunit.moonfruit.com
 securitydownload.99on.com
 securityon.sa.com
+secutit.linkpc.net
 see827a98z-teve9827az.mastvsh.co.pl
 seed-1.nimiq.net
 seed-10.nimiq.net
@@ -30837,6 +30907,7 @@ sendjnggoods-32.365232254.xyz
 sendmail003.apps-apple-id.com
 sendmessage.mooo.com
 sendmsg.jumpingcrab.com
+sendungsstatusch654d.is-a-socialist.com
 sendungsverfolgung-post-ag-ch.myhoost.com
 senior.policemanholywood.info
 senlin1996.3322.org
@@ -31183,6 +31254,7 @@ shili.downxia.com
 shili.wanyx.com
 shine.bmt.city
 shinomoo.casacam.net
+shipment-ihpost.645555456.xyz
 shipment87.142578.xyz
 shirodm-43212.portmap.io
 shit888.duckdns.org
@@ -31203,6 +31275,7 @@ shop-alleqrolokalnie.54878411.xyz
 shop-dpd.75448454.xyz
 shop-inp0-st.4999995655.xyz
 shop-inp0st.652312451154.xyz
+shop-inpost.25232333.xyz
 shop-jnpost.39215122111.xyz
 shop-o1x-user.5231678.xyz
 shop-o1x.10233000020.xyz
@@ -31266,6 +31339,7 @@ shopjnpost.2154331112.xyz
 shopjnpost.3545665676.xyz
 shopo-lx.1213243232.xyz
 shopo-lx.75680007.xyz
+shopo-lxsite.87998999.xyz
 shopo1-x.infor-ming7.xyz
 shopo1-xinform.75645786.xyz
 shopo1x-market.5766657654.xyz
@@ -31280,6 +31354,7 @@ shopolx-merchandise.23243353554323.xyz
 shopolx-product.8900076.xyz
 shopolx.45236566.xyz
 shopolx.65766643.xyz
+shopp-ojx.5212223.xyz
 shopp8945ojx.462955455.xyz
 shoppay-1npost.1995569999.xyz
 shoppay-1npost.4000026001.xyz
@@ -31306,6 +31381,7 @@ shopping-vihted.7654378.xyz
 shopping-vihted.8790009099.xyz
 shopping-vjnted.4657645455.xyz
 shopping00lx.54634443223.xyz
+shopping00lx.54788876.xyz
 shopping09o1x.25699995.xyz
 shopping09vimted.31111232.xyz
 shopping0lx.13243323.xyz
@@ -31316,6 +31392,7 @@ shopping32.35326595.xyz
 shopping384in-post.15956323.xyz
 shopping43.23322322.xyz
 shopping48v1nted.669565666.xyz
+shopping656oix.81113217.xyz
 shopping90-dpd.354222121.xyz
 shopping954dp-d.42326566.xyz
 shoppingbox.partner.leguide.com
@@ -31662,6 +31739,7 @@ some.demuz.ru
 some.fanficforum.com
 somemycart.selfip.org
 somethingnice.hc0.me
+songs.linkpc.net
 sonhomirim.com.brwlrinformatica.com.br
 sonrisa.net.pl
 sonsoz-47128.portmap.host
@@ -31740,6 +31818,7 @@ spkrth.scw.systems
 spl.benztrade.xyz
 splashy.dyndns.biz
 split.spiral-servsnet.xyz
+sploit.estonine.com
 spm.win32system.com
 spm2.shrtdn.net
 spm2.win32system.com
@@ -31806,7 +31885,6 @@ srv159232.hoster-test.ru
 srv1619541516.hosttoname.com
 srv164667.hoster-test.ru
 srv165574.hoster-test.ru
-srv166785.hoster-test.ru
 srv173722.hoster-test.ru
 srv183859.hoster-test.ru
 srv184138.hoster-test.ru
@@ -32093,6 +32171,7 @@ store-allegrolokalnje.8090000065.xyz
 store-dipd.454222121.xyz
 store-impost.0000021.xyz
 store-infoinpost.8524114354.xyz
+store-o1x.51111420.xyz
 store-oix.65232333.xyz
 store-ojx.65612222.xyz
 store-ol-x.0322315121222.xyz
@@ -32626,7 +32705,6 @@ tacsi4niym.temp.swtest.ru
 tad.chainreact.xyz
 tad.runeww1.site
 tadla-blog.fforni8.site
-taenaiaa.ac.ug
 tafa.pxlcorp.com
 tafpj972383637kfde.ef1i.pics
 tafx.myfpt.org
@@ -32703,26 +32781,12 @@ tch6.europeanoracle.xyz
 tch9.europeanoracle.xyz
 tchelero-55169.portmap.host
 tcn.goprogstu.xyz
-tcn10.krdplatform.xyz
-tcn11.krdplatform.xyz
-tcn12.krdplatform.xyz
-tcn13.krdplatform.xyz
-tcn14.krdplatform.xyz
-tcn15.krdplatform.xyz
-tcn16.krdplatform.xyz
-tcn4.krdplatform.xyz
-tcn5.krdplatform.xyz
-tcn6.krdplatform.xyz
-tcn7.krdplatform.xyz
-tcn8.krdplatform.xyz
-tcn9.krdplatform.xyz
 tcog.thruhere.net
 tcon.sheprogrramsre.site
 tcp.nhntech.com
 tcp.system-ns.net
 tcpiah.googleclick.net
 tcsads.tcs.co.at
-tcss.qq.com
 td.dauthuyduong.com
 td.prog-capital5.site
 tds.crptgen1.xyz
@@ -33407,6 +33471,7 @@ treesofter.mooo.com
 trelloclone.dmcdreamers.com
 tremendous-icicle.auto.playit.gg
 trend.gogolekr.com
+trendiis.sixth.biz
 trendmicro.org.tw
 trentchallis.dyndns.org
 trezor.io-start.store
@@ -33938,7 +34003,6 @@ update-paymentnow.tvshowkonto.life
 update-service.dyndns.org
 update.adobe.wiki
 update.agenteinformaticos.ru
-update.aut5.com
 update.ayuisyahooapis.com
 update.bracncet.net
 update.callercore.com
@@ -33982,6 +34046,7 @@ updateitunes.waldennetworks.com
 updatek9.dyndns.info
 updates.advert-network.com
 updates.plexmc.net
+updates.s7gdf.shop
 updateservice-57696.portmap.io
 updatesw.110mb.com
 updatesystem.dynu.com
@@ -34055,6 +34120,7 @@ usedlu.org.rs
 usemehf.np-ip.org
 usepl.costspast.top
 user-login-amazno.1swh.com
+user-login-amazno.5ifengxiong.cn
 user-login-amazno.diyong.top
 user-login-amazno.ga71.com
 user-login-amazno.ou29.com
@@ -34121,7 +34187,6 @@ uty.kluenq.com
 uui.runeww1.site
 uuid.thetrancoe.com
 uup-prog-pl.eraplnew.site
-uuusssaaa.ac.ug
 uuv.n0-ip.info
 uvenemico.klontrek.org
 uvps1.cotbm.com
@@ -36977,7 +37042,6 @@ vv.0bot3-kali.xyz
 vv.paczkhdpd.com
 vv.vlchat.site
 vv1.pyhfxdm.cn
-vvat22.con-ip.com
 vvaxhqzj.1395867912.pw
 vvf.chainreact.xyz
 vvmails.xvoisesx.club
@@ -37253,6 +37317,7 @@ webmial.compact1.rest
 webmials.dommanservfnd.xyz
 webminer.cryptonote.club
 webpages-service.vantechddns.com
+webphone.cxt.att.disabilitas.id
 webrequestsolex.duckdns.org
 webs-srvcsaccleaks.1cooldns.com
 webs.kro.kr
@@ -37472,6 +37537,7 @@ wiinted4.332shoppage.xyz
 wijnted.4214232333.xyz
 wikipedia.112000212.com
 wiknet.mooo.com
+wildberries.ld95160.ru
 wildcard.bpk-pp.com
 wildcard.crushus.com
 wildcard.ecoera.ro
@@ -37533,6 +37599,7 @@ windowsupdate8.3322.org
 windowsupdater.system-ns.net
 windowsupdates.asd32.online
 windoww.no.ip.biz
+windoxx.linkpc.net
 windrvupdate.kozow.com
 windx.ignorelist.com
 wine.mydexrewards.com
@@ -37706,7 +37773,6 @@ world.rickstudio.ru
 world.uktimesnews.com
 worldboys.mooo.com
 worldengindevelopnw7stdymenttechnology.duckdns.org
-worldlist.linkpc.net
 worldnews.ath.cx
 worldwide.weldwire.top
 woshindi.3322.org
@@ -37881,6 +37947,7 @@ www2.configment.p-e.kr
 www2.dyn.tracker.com
 www2.lotosus.info
 www2.ncroaeci.com
+www2.regscan.com
 www201.surpreenda-quem-voce-ama.com
 www257.surpreenda-quem-voce-ama.com
 www29.semana-das-maes-aproveite.com
@@ -38043,7 +38110,6 @@ xhunterx.dyndns.com
 xiaoheiyu.7766.org
 xiaojiji.2288.org
 xiaok.feonix.top
-xiaoxinzadan.gicp.net
 xiazai.rilibiao.com.cn
 xibefoc467.temp.swtest.ru
 xin.hatredsmotorcyclist.com
@@ -38176,7 +38242,10 @@ yamleg.fu8.com
 yamma.z13.web.core.windows.net
 yanakoh.uzor.group
 yandex.ac.ug
+yandex.ord1122.ru
 yandex.ord5387.ru
+yandex.ord7956.ru
+yandex.ord8500.ru
 yandexclou.temp.swtest.ru
 yandexma26.temp.swtest.ru
 yandexmai3.temp.swtest.ru
@@ -38485,6 +38554,7 @@ zx976339.3322.org
 zxackx-54545.portmap.host
 zxc.testovui.xyz
 zxc1-ustokyyneikyfasnm.stackpathdns.com
+zxc2018zxc2018.linkpc.net
 zxcv201789.dynssl.com
 zxcvasdf-26273.portmap.host
 zxcvbn5.azureedge.net
