@@ -3146,3 +3146,13 @@
 
 # https://github.com/hagezi/dns-blocklists/issues/308
  url.rw
+
+# https://github.com/notracking/hosts-blocklists/issues/844
+ store1.gofile.io
+ store2.gofile.io
+ store3.gofile.io
+ store4.gofile.io
+ gofile.io
+
+# https://github.com/notracking/hosts-blocklists/issues/845
+ mailinator.com
