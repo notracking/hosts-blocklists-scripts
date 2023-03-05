@@ -3159,3 +3159,112 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/846
  cdn.jwplayer.com
+
+# https://github.com/notracking/hosts-blocklists/issues/737
+ img9.target.com
+
+# https://github.com/notracking/hosts-blocklists/issues/856
+ go.sonomotors.com
+
+# https://github.com/notracking/hosts-blocklists/issues/854
+ disinformazione.it
+
+# https://github.com/notracking/hosts-blocklists/issues/853
+ ping.ui.com
+
+# https://github.com/notracking/hosts-blocklists/issues/852
+ factmag.com
+
+# https://github.com/notracking/hosts-blocklists/issues/850
+ espruino.com
+
+# https://github.com/hagezi/dns-blocklists/issues/589
+ mail.office.hiworks.com
+
+# https://github.com/hagezi/dns-blocklists/issues/562
+ insights.samsung.com
+
+# https://github.com/hagezi/dns-blocklists/issues/[1;5H561
+ lt45.net
+
+# https://github.com/hagezi/dns-blocklists/discussions/542
+ onmilwaukee.com
+
+# https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt
+ tags.tiqcdn.com
+ androidtvwatsonfe-pa.googleapis.com
+ hugedomains.com
+ connatix.com
+ capi.connatix.com
+ cd.connatix.com
+ cds.connatix.com
+ img.connatix.com
+ vid.connatix.com
+ demdex.net
+ dpm.demdex.net
+ edge-irl1.demdex.net
+ gslb-2.demdex.net
+ aniview.com
+ play.aniview.com
+ pov.spectrum.net
+ track.nzz.ch
+ ens.nzz.ch
+ test.cmp.quantcast.com
+ learn.cisecurity.org
+ content.ibanking-services.com
+ api.chip-secured-download.de
+ uptodatefinishconferenceroom.com
+ sdk-02.moengage.com
+ moengage.com
+ talentwunder.com
+ sharethis.com
+ ws.sharethis.com
+ abuelos.com
+ faronics.com
+ litix.io
+ gizmodern.com
+ p.shure.com
+ gizmodern.com
+ p.shure.com
+ go.pardot.com
+ shure.com
+ pardot.com
+ middleware.p7s1.io
+ learn.cisecurity.org
+ cloud-news.ionos.com
+ device-api.urbanairship.com
+ urbanairship.com
+ msg.ettoday.net
+ softonic.com
+ airydress.com
+ 1kinobig.ru
+ cdn.tpdads.com
+ tpdads.com
+ mntzrlt.net
+ exponea.com
+ puc-cdn.exponea.com
+ o.auspost.com.au
+ omtrdc.net
+ aa.tweakers.nl
+ ab.tweakers.nl
+ extremereach.com
+ abcnews.extremereach.com
+ abc-twitter.extremereach.com
+ agents.extremereach.com
+ app.extremereach.com
+ download.extremereach.com
+ dv.extremereach.com
+ updates.extremereach.com
+ collector.appconsent.io
+ rabble-res.cloudinary.com
+ tmx.bestbuy.com
+ cdn.optimizely.com
+ optimizely.com
+
+# Legit banks
+ charterbankwa.com
+ mizuhogroup.com
+ nstarbank.com
+
+# https://github.com/hagezi/dns-blocklists/issues/159
+ acgnet.cn
