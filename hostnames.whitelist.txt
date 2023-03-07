@@ -3268,3 +3268,10 @@
 
 # https://github.com/hagezi/dns-blocklists/issues/159
  acgnet.cn
+
+# https://github.com/hagezi/dns-blocklists/issues/634
+ dotzbr-dev.mirakl.net
+ mirakl.net
+
+# https://github.com/notracking/hosts-blocklists/issues/855#issuecomment-1456923299
+ g.ezoic.net
