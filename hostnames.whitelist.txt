@@ -3278,3 +3278,13 @@
 
 # https://github.com/hagezi/dns-blocklists/issues/647
  hcdnw.cbg.haiwai.c.cdnhwc1.com
+
+# https://github.com/notracking/hosts-blocklists/issues/860
+ ytechb.com
+
+# Monero mining pool
+.minexmr.com
+ minexmr.com
+
+# https://github.com/notracking/hosts-blocklists/issues/847
+ compaq.com
