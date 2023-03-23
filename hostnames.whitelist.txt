@@ -3291,3 +3291,10 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/861
  tms.nab.com.au
+
+# https://github.com/hagezi/dns-blocklists/issues/731
+ angi.com
+
+# https://github.com/hagezi/dns-blocklists/issues/733
+ use.fvr.to
+ fvr.to
