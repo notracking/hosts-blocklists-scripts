@@ -3298,3 +3298,6 @@
 # https://github.com/hagezi/dns-blocklists/issues/733
  use.fvr.to
  fvr.to
+
+# https://github.com/notracking/hosts-blocklists/issues/863
+ opensea.io
