@@ -3326,3 +3326,6 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/867
  segura-moto.fr
+
+# https://github.com/hagezi/dns-blocklists/issues/878
+ encrypted-tbn1.gstatic.com
