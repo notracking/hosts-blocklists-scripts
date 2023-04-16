@@ -3329,3 +3329,11 @@
 
 # https://github.com/hagezi/dns-blocklists/issues/878
  encrypted-tbn1.gstatic.com
+
+# https://github.com/notracking/hosts-blocklists/issues/869
+ dnainfotel.com
+.dnainfotel.com
+
+# https://github.com/hagezi/dns-blocklists/issues/899
+ turnip.cdn.turner.com
+ medium.ngtv.io
