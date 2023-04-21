@@ -3337,3 +3337,9 @@
 # https://github.com/hagezi/dns-blocklists/issues/899
  turnip.cdn.turner.com
  medium.ngtv.io
+
+# https://github.com/notracking/hosts-blocklists/issues/870
+ stackpath.com
+
+# https://github.com/hagezi/dns-blocklists/issues/955
+ attraqt.com
