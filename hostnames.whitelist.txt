@@ -3369,3 +3369,23 @@
 
 # https://github.com/notracking/hosts-blocklists/issues/884
  sendpul.se
+
+# Hosting service
+ y0.pl
+
+# 3d secure online payment of agricultural credit france
+ eu.spgo.io
+
+# https://github.com/hagezi/dns-blocklists/issues/1105
+ ablink.mail.parkmobile.io
+
+# https://github.com/hagezi/dns-blocklists/issues/1101
+ link.us.paramountplus.com
+ splice.amlg.io
+ media.amlg.io
+
+# Stops sonyliv.com sign in page from appearing
+ d2r1yp2w7bby2u.cloudfront.net
+
+# https://github.com/hagezi/dns-blocklists/issues/1072
+ c.seznam.cz
