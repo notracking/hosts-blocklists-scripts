@@ -3389,3 +3389,18 @@
 
 # https://github.com/hagezi/dns-blocklists/issues/1072
  c.seznam.cz
+
+# https://github.com/notracking/hosts-blocklists/issues/888
+ com.br
+
+# https://github.com/notracking/hosts-blocklists/issues/896
+ cmp.sky.it
+
+# https://github.com/notracking/hosts-blocklists/issues/889
+ stocks-edge.apple.com
+ apple-dns.net
+ icloud.net
+ gateway.fe.apple-dns.net
+
+# For Signal Giphy integration to work
+ pingback.giphy.com
